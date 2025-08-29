@@ -1,0 +1,665 @@
+Sheet Link: https://docs.google.com/spreadsheets/d/1rVpf5re5JFHeyLLQ8hCDaDLtikYCd4cn88rlHDS4VXc/edit?usp=sharing
+
+Job Description 1
+- 0-1 years (Fresher).
+- Strong foundation in Python, OOP, data structures, and algorithms.
+- Knowledge of SQL, REST APIs, and Git/GitHub.
+- Basic understanding of Machine Learning / NLP concepts.
+- Strong problem-solving and logical thinking.
+- Exposure to LangChain, Hugging Face, OpenAI API (Nice-to-have).
+- Familiarity with cloud platforms (AWS/GCP/Azure) and Flask/FastAPI/Django (Nice-to-have).
+- Develop AI-powered applications and agents using Python.
+- Build and integrate REST APIs, databases, and backend services.
+- Work with LLMs, ML/NLP frameworks, and emerging AI tools.
+- Collaborate with senior engineers on architecture and debugging.
+
+Job Description 2
+- 4-6 years (Mid to Senior Level).
+- 4-6 years of experience in ML, data engineering, or systems architecture.
+- Proven experience deploying ML pipelines and model management platforms.
+- Deep knowledge of cloud services, containerization, and distributed systems.
+- Experience with model lifecycle design, testing, and versioning.
+- Familiarity with data governance, ethics, and AI compliance frameworks.
+- Ability to integrate third-party tools and APIs into ML systems.
+- Strong understanding of infrastructure cost optimization and monitoring.
+- Experience setting standards for experimentation and production readiness.
+- Skilled in cross-functional collaboration with data, engineering, and product teams.
+- Knowledge of MLOps tools and workflows for scalable AI deployment.
+
+Job Description 3
+- 3-5 years (Mid-Level).
+- 4–7 years of strong experience in Machine Learning, Deep Learning or Generative AI and Agentic AI.
+- Proven experience in deploying ML models in production environments.
+- Strong expertise in PyTorch, TensorFlow, and Hugging Face transformers.
+- Experience with large language models (LLMs) and generative AI applications.
+- Knowledge of MLOps practices including model monitoring and deployment.
+- Proficiency in Python, SQL, and cloud platforms (AWS/GCP/Azure).
+- Understanding of deep learning architectures and neural network optimization.
+- Experience with distributed computing and scalable ML systems.
+- Strong problem-solving skills and ability to work in fast-paced environments.
+- Excellent communication skills for collaborating with cross-functional teams.
+
+Job Description 4
+- 6-8 Years Experience in AI/ML Development.
+- Bachelor's degree with 6-8 years of AI/ML experience.
+- Experienced in developing GenAI applications and integration of GenAI with existing applications.
+- Strong understanding of machine learning concepts and algorithms, especially related to Generative AI and LLMs.
+- Experienced with Open-source frameworks like langchain and llamaindex, RAG, Prompt engineering and fine tuning LLM models, NLP and other relevant AI subfields.
+- Experience with Python and other relevant programming languages (e.g., Java, JavaScript).
+- Experience with building and deploying ML models is preferred.
+- Experience with cloud platforms (e.g., AWS, Azure and GCP).
+- LLMOps/MLOps experience preferred.
+- Design and develop Generative AI applications and solutions using LLMs and open-source frameworks.
+- Implement performance efficient RAG, Fine tuning models, and Prompt engineering techniques with GenAI solutions.
+
+Job Description 5
+- 10+ years of experience in developing and deploying large scale, ML-centric systems and data pipelines.
+- 5+ years of hands-on-experience with using ML models in production systems to ship customer-facing features.
+- Experience in one or more domains: Algorithms, Architecture, Artificial Intelligence, Data Mining, Deep Neural Networks, Distributed Systems, Information Retrieval, Machine Learning, Natural Language Processing, and Computer Vision.
+- Strong foundational understanding of principles of distributed systems for large scale data processing.
+- Deep mastery of developing & supervising production code in Scala, Java or C++ using ML toolkits like PyTorch, TensorFlow, Scikit-learn.
+- Familiarity with big data technologies like Spark, Solr/Lucene, Cassandra.
+- Experience in evaluating and deploying multiple search features, including large-scale machine learning models, deep learning, and natural language processing solutions.
+- Master's degree or equivalent experience in AI, Machine Learning, Mathematics, Computer Science, or a related field.
+- Design, technology selection and implementation of systems built to handle relentless streams of change signals associated with global Places database.
+- Drive platform and architectural choices to enable complex, agentic workflows for multi-modal information extraction, geospatial processing and data updates.
+- Own design trade-offs between throughput, latency and cost of keeping Places data as accurate as possible.
+
+Job Description 6
+- 0-1 years (Entry-Level).
+- Strong foundation in Data Structures, Algorithms, Probability, and Statistics.
+- Proficiency in programming languages: Python, HTML, and C++.
+- Solid understanding of Machine Learning algorithms, including open-source models, regression, classification, and clustering techniques.
+- Experience with TensorFlow, Keras, PyTorch, or other deep learning frameworks is highly desirable.
+- Familiarity with Git and understanding of software development principles.
+- Working knowledge of Transformers, scikit-learn (Sklearn), Pandas, and APIs.
+- Assist in developing and deploying machine learning models for various projects.
+- Perform data analysis, preprocessing, and feature engineering to prepare datasets for training and evaluation.
+- Write clean and efficient code to support ML pipelines and integrate solutions into existing systems.
+- Debug, troubleshoot, and optimize code to improve model performance and scalability.
+- Explore and implement advanced ML algorithms, including regression, classification, and clustering models.
+
+Job Description 7
+- 4-6 years (Mid to Senior Level).
+- 4-6 years of experience in AI/ML consulting or enterprise AI implementations.
+- Strong understanding of AI applications across various industry verticals.
+- Experience with AI strategy development and digital transformation projects.
+- Knowledge of AI governance, compliance, and risk management frameworks.
+- Proficiency in stakeholder management and client relationship building.
+- Understanding of business process optimization using AI technologies.
+- Experience with AI project lifecycle from conception to deployment.
+- Strong presentation and communication skills for executive audiences.
+- Knowledge of change management and organizational AI adoption strategies.
+- Ability to translate technical AI concepts into business value propositions.
+
+Job Description 8
+- 3-5 years (Mid-Level).
+- 3-5 years of professional experience in machine learning engineering.
+- Strong proficiency in Python and relevant ML frameworks (PyTorch, TensorFlow, Hugging Face).
+- Hands-on experience with Large Language Models and transformer architectures.
+- Experience with model fine-tuning, prompt engineering, and RAG systems.
+- Knowledge of MLOps practices and model deployment pipelines.
+- Understanding of distributed training and scalable inference systems.
+- Experience with cloud platforms and containerization (Docker, Kubernetes).
+- Strong foundation in natural language processing and computer vision.
+- Ability to optimize models for performance and efficiency.
+- Experience with A/B testing and experiment design for ML systems.
+
+Job Description 9
+- 6+ years related experience (e.g., statistics, predictive analytics, research).
+- Bachelor's Degree in Computer Science, Electrical or Computer Engineering, or related field AND 6+ years related experience.
+- Experience with machine learning, Generative AI model fine-tuning, Agent creation and deployment, AI evaluation and scaling.
+- Strong software engineering expertise combined with machine learning and AI knowledge.
+- Experience in developing and integrating cutting-edge AI technologies into production systems.
+- Demonstrated growth mindset and customer empathy.
+- Ability to collaborate across product, design, research and engineering teams.
+- Experience with Microsoft Copilot Studio and AI agent technologies.
+- Strong background in statistics, predictive analytics, and research methodologies.
+- Contribute to the development and integration of cutting-edge AI technologies into Microsoft Copilot Studio.
+- Collaborate across product, design, research and engineering teams to bring innovative solutions to life.
+- Play a crucial role in developing machine learning, Generative AI model fine-tuning, Agent creation and deployment, AI evaluation and scaling.
+
+Job Description 10
+- 8–10 years of experience building and leading machine learning teams.
+- Proven track record of architecting and delivering large-scale ML systems in e-commerce.
+- Strong leadership skills, including hiring, mentoring, and performance management.
+- Expertise in Python, Java, and Scala for ML application development.
+- Deep knowledge of recommendation systems, search ranking, and personalization algorithms.
+- Experience with Spark, Hadoop, and big data processing frameworks.
+- Proficiency in cloud-native ML platforms (AWS SageMaker, GCP AI Platform).
+- Hands-on experience with MLOps tools (Kubeflow, MLflow, Jenkins) and CI/CD pipelines.
+- Ability to translate business strategy into scalable ML roadmaps and technical roadmaps.
+- Excellent stakeholder management and cross-functional collaboration skills.
+
+Job Description 11
+- 0-1 years (Fresher).
+- Proficiency in Python with good understanding of Decorators, list comprehensions, dictionaries, and data structures.
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-learn.
+- Understanding of Classification vs. Regression problems, Training vs. Testing data in ML.
+- Gradient Descent and model optimization, Regularization techniques and their impact.
+- Basic knowledge of Local LLMs, Hugging Face ecosystem, Retrieval-Augmented Generation (RAG) and AI agent concepts.
+- AI applications such as fraud detection, recommendation systems.
+- Assist in the design and development of machine learning models for classification, regression, or prediction tasks.
+- Perform data preprocessing tasks, including cleaning missing data.
+- Work with Python dictionaries, lists, and NumPy arrays to manipulate and analyze data efficiently.
+- Experiment with Hugging Face models and possibly work with local LLMs.
+- Explore AI agent workflows including RAG-based systems, prompt engineering, and data-driven learning.
+
+Job Description 12
+- 6-8+ years of experience leading and executing complex AI projects.
+- Master's or bachelor's degree in computer science, Artificial Intelligence, or a related field.
+- Minimum 6 – 8+ years of experience leading and executing complex AI projects.
+- Demonstrated ability to design and implement scalable, high-performance AI solutions using Microsoft Azure AI services.
+- Extensive hands-on experience with deep learning frameworks (TensorFlow, PyTorch, etc.) and machine learning algorithms (classification, regression, reinforcement learning etc.).
+- Strong understanding of software development best practices (Agile methodologies, DevOps etc.) and their application to AI projects.
+- Proven ability to mentor and guide junior team members, fostering a culture of continuous learning and collaboration.
+- Excellent communication, interpersonal, and problem-solving skills.
+- Experience with cloud-based AI architectures and deployment strategies.
+- Knowledge of MLOps practices and AI lifecycle management.
+- Design and architect scalable AI solutions for enterprise clients.
+- Lead complex AI project implementations from conception to deployment.
+
+Job Description 13
+- 3-5 years (Mid-Level).
+- 3-5 years of experience in product management, with a proven track record of delivering successful products, preferably in the AI/ML space.
+- Strong understanding of machine learning algorithms and AI applications.
+- Experience working with engineering teams to define technical specifications.
+- Proven ability to translate business requirements into technical product features.
+- Knowledge of product lifecycle management and agile methodologies.
+- Experience with data analytics and metrics-driven decision making.
+- Understanding of user experience design principles for AI products.
+- Strong communication and presentation skills for stakeholder management.
+- Experience in conducting competitive analysis and market research.
+- Ability to work cross-functionally with engineering, design, and business teams.
+
+Job Description 14
+- 7+ years of experience in machine learning and AI solution architecture.
+- Bachelor's degree in Computer Science, Engineering, or related field.
+- Deep technical expertise in Generative AI and Machine Learning services.
+- Experience with enterprise-grade architectural strategies and complex business challenges.
+- Ability to bridge the gap between innovative AI technologies and practical business outcomes.
+- Strong understanding of AWS GenAI/ML services and cloud architectures.
+- Experience working with large enterprise customers with complex requirements.
+- Proven ability to translate complex technical concepts into business value.
+- Strong presentation and communication skills for C-suite audiences.
+- Knowledge of compliance requirements and enterprise AI governance.
+- Provide customers with deep technical expertise in Generative AI and Machine Learning technologies.
+- Design innovative solutions that help customers meet strategic business objectives using AWS products.
+- Act as a trusted advisor to line of business, AI, Data, and C-suite leaders.
+- Lead architectural reviews, workshops, and proof-of-concepts to advance customers' technical objectives.
+- Share best practices and thought leadership in the GenAI/ML space.
+
+Job Description 15
+- 8–10 years of experience in AI and data science leadership roles.
+- Extensive background in developing AI strategies for mobility and electric vehicles.
+- Proficiency in Python, R, SQL, and data engineering tools.
+- Strong experience in deploying deep learning models for computer vision and NLP.
+- Experience with real-time streaming data and IoT sensor analytics.
+- Proven ability to manage P&L, budgeting, and large data science teams.
+- Expertise in cloud platforms (Azure IoT, AWS IoT, GCP IoT Core).
+- Track record of delivering AI-driven business outcomes and ROI.
+- Excellent cross-functional communication with product and operations teams.
+- Strong publication record or patents in AI-related fields preferred.
+
+Job Description 16
+- 0-1 years (Entry Level).
+- Strong foundation in machine learning concepts and willingness to learn.
+- Collaborate with data scientists, software engineers, and product managers.
+- Assist in designing, developing, and implementing machine learning models and algorithms.
+- Preprocess, clean, and analyze structured and unstructured datasets.
+- Optimize and fine-tune ML models for performance and scalability.
+- Participate in model deployment, monitoring, and maintenance in production environments.
+- Research and experiment with new ML techniques, tools, and frameworks.
+- Exposure to cloud platforms (AWS, Azure, or GCP) for ML deployment (Nice to have).
+- Knowledge of MLOps tools and workflows (MLflow, Docker, Kubernetes) (Nice to have).
+- Experience with computer vision, NLP, or time-series modeling projects.
+
+Job Description 17
+- Min. 6/8 years of experience in AI architecture or related roles.
+- Bachelor's or Master's degree in Computer Science, Engineering, AI, or related field.
+- Strong understanding of AI and machine learning principles.
+- Proficiency in programming languages such as Python, Java, or C++.
+- Experience with AI frameworks and libraries (e.g., TensorFlow, PyTorch, Scikit-learn).
+- Knowledge of big data technologies (e.g., Hadoop, Spark).
+- Familiarity with cloud platforms (e.g., AWS, Azure, GCP).
+- Experience with data pipeline and workflow management.
+- Proven experience in leading and managing AI projects and teams.
+- Strong project management skills and client engagement experience.
+- Architect and implement scalable AI and machine learning models and systems that align with business goals.
+- Oversee the integration of AI models into existing systems, ensuring seamless deployment and functionality.
+- Evaluate and select appropriate AI tools, technologies, and frameworks to meet project requirements.
+- Design data pipelines and workflows for efficient data collection, preprocessing, and storage.
+- Engage with clients to understand their business needs and provide expert guidance on AI strategy and implementation.
+
+Job Description 18
+- 3-5 years (Mid-Level).
+- 3+ years of experience in machine learning, data analysis, and statistical modeling.
+- Strong expertise in AWS services, particularly AWS Personalize, AWS Lambda, and AWS SageMaker.
+- Proficiency in Python (pandas, NumPy, scikit-learn) and SQL for data manipulation.
+- Experience in building, deploying, and optimizing ML models in production environments.
+- Deep understanding of data warehousing, ETL pipelines, and cloud-based architectures.
+- Ability to build interactive dashboards using Power BI or similar analytics tools.
+- Experience with recommendation systems and personalization algorithms.
+- Knowledge of big data frameworks like Spark, Hadoop, or Kafka (preferred).
+- Understanding of A/B testing and experiment-driven model improvements.
+- Strong analytical skills for extracting insights from large-scale datasets.
+
+Job Description 19
+- 6-8 years of experience in software development, with at least 3-4 years focused on AI/Machine Learning.
+- 1-2 years of experience in a leadership role, preferably leading a cross-functional development team.
+- Strong proficiency in any language to build servers at large scale and relevant AI/ML frameworks (e.g., TensorFlow, PyTorch, scikit-learn).
+- Good understanding of machine learning algorithms, data structures, and distributed systems.
+- Experience with cloud platforms (e.g., AWS, Azure, GCP) and MLOps practices.
+- Proficiency in backend technologies (e.g., Node.js, Java, Go, Python, Kafka) and database systems (SQL/NoSQL).
+- Familiarity with frontend frameworks (e.g., React, Angular, Vue.js) is a plus.
+- Experience with containerization technologies (Docker, Kubernetes).
+- A strong track record of delivering complex technical projects on time and with high quality.
+- Bachelor's or Master's degree in Computer Science, Artificial Intelligence, or a related field.
+- Lead and mentor a group of backend, and frontend developers, fostering a collaborative and high-performing environment.
+- Drive the technical vision and strategy for AI initiatives within your squad, ensuring alignment with overall product goals.
+- Design, develop, and deploy robust and scalable AI models and systems.
+- Oversee the full software development lifecycle for your squad, ensuring best practices in coding, testing, and deployment.
+
+Job Description 20
+- 8–10 years of experience in enterprise AI architecture.
+- Deep expertise in designing AI solutions for finance, retail, and healthcare sectors.
+- Proficiency in Java, Python, and C# for enterprise-grade applications.
+- Strong understanding of cloud-native architectures (microservices, serverless).
+- Experience with container orchestration (Kubernetes, Docker Swarm).
+- Knowledge of data mesh, data fabric, and governance frameworks.
+- Expert in AI ethics, compliance, and responsible AI practices.
+- Proven leadership in large-scale AI transformation programs.
+- Ability to engage C-level stakeholders and drive AI adoption across regions.
+- Excellent written and verbal communication skills for global audiences.
+
+Job Description 21
+- 0-1 years (Entry Level).
+- Develop and implement machine learning models: Design, build, and train traditional machine learning models (e.g., regression, classification, clustering).
+- Strong understanding of statistical analysis and machine learning algorithms.
+- Hands-on implementing various machine learning algorithms such as linear regression, decision trees, neural networks.
+- Experience with Python programming and data science libraries.
+- Knowledge of data visualization tools and business intelligence platforms.
+- Understanding of AI and machine learning concepts with practical application experience.
+- Collaborate on AI solutions: Work closely with experienced AI engineers, data scientists, and software developers.
+- Integrate AI models into existing systems and applications.
+- Test and validate machine learning models for accuracy and efficiency.
+- Stay updated with latest advancements in AI and machine learning technologies.
+
+Job Description 22
+- 3-5 years (Mid-Level).
+- 5+ years of experience in applied machine learning, with strong foundation in deep learning and NLP.
+- Proven experience as an AI engineer, with strong background in Python and AI frameworks.
+- Proficiency in designing and developing AI agent architectures and workflows.
+- Experience with cloud-based AI services (GCP Vertex AI, AWS Bedrock, Azure OpenAI).
+- Familiarity with AI orchestration tools like LangChain, AutoGen, or SmythOS.
+- Solid understanding of large language models (LLMs) and prompt engineering techniques.
+- Knowledge of vector databases (Pinecone, Milvus) for AI memory management.
+- Strong problem-solving skills and experience optimizing AI model performance.
+- Experience with event-driven AI systems using Redis pub/sub, Kafka, or cloud messaging.
+- Ability to fine-tune and deploy LLMs for domain-specific applications.
+
+Job Description 23
+- 6+ years of experience in enterprise software development, with at least 3 years in an architecture/solutioning capacity.
+- Proven experience working with enterprise clients and Fortune 500 companies.
+- Strong understanding of AI/ML integration in enterprise applications.
+- Experience with generative AI-as-a-service implementations.
+- Knowledge of mobile and digital transformation frameworks.
+- Familiarity with banking & financial services, retail & eCommerce, and consulting industries.
+- Experience with UNICEF, WHO, and similar organizational frameworks preferred.
+- Strong client-facing skills and ability to represent company in high-stakes meetings.
+- Understanding of enterprise-grade security, scalability, and compliance requirements.
+- Bachelor's degree in Computer Science, AI, or related field with strong technical foundation.
+- Lead architecture and solutioning initiatives for enterprise-grade applications with a focus on AI/ML integration.
+- Collaborate directly with enterprise clients to understand business problems and design innovative, scalable, and cost-effective solutions.
+- Act as a technology evangelist, introducing and implementing cutting-edge AI and enterprise tools/frameworks.
+- Provide technical leadership and mentorship to engineering and delivery teams.
+- Represent Grey Chain in client meetings, primarily across the Delhi/NCR region.
+
+Job Description 24
+- 8–10 years of experience in research and development of generative AI.
+- Extensive publication record in top-tier AI conferences (NeurIPS, ICML, ACL).
+- Deep expertise in transformer architectures and large language models.
+- Proficiency in Python, PyTorch, TensorFlow, and JAX.
+- Experience leading multi-disciplinary research teams and managing R&D budgets.
+- Strong background in cloud-based AI research platforms (Azure ML, HPC).
+- Proven ability to transition research prototypes into production-grade solutions.
+- Excellent collaboration with academic and industry partners.
+- Strong vision for future AI capabilities and roadmap development.
+- Exceptional presentation skills for technical and non-technical audiences.
+
+Job Description 25
+- 0-1 years (Fresh Graduate).
+- Currently pursuing or having recently completed an undergraduate or postgraduate degree in Computer Science, Artificial Intelligence, or related field.
+- Strong programming skills in Python, Java, or C++.
+- Understanding of software development lifecycle and methodologies.
+- Basic knowledge of machine learning and artificial intelligence concepts.
+- Familiarity with databases and data management systems.
+- Knowledge of version control systems like Git.
+- Understanding of API development and integration.
+- Strong analytical and problem-solving skills.
+- Excellent communication and teamwork abilities.
+- Interest in emerging technologies and AI applications.
+- Willingness to learn and adapt to new technologies quickly.
+- Work on AI-powered software development projects.
+
+Job Description 26
+- 3-5 years (Mid-Level).
+- 3-5 years of hands-on ML/DL engineering experience in production environments.
+- Strong programming skills in Python and experience with ML frameworks.
+- Experience with computer vision, NLP, or recommendation systems.
+- Knowledge of distributed computing and scalable machine learning systems.
+- Understanding of software engineering best practices for ML applications.
+- Experience with version control, CI/CD pipelines, and collaborative development.
+- Familiarity with cloud platforms and containerization technologies.
+- Ability to optimize ML models for performance, scalability, and cost-effectiveness.
+- Experience with data preprocessing, feature engineering, and model evaluation.
+- Strong analytical thinking and problem-solving capabilities.
+
+Job Description 27
+- 6-8 years of experience in AI/ML development.
+- Strong expertise in Generative AI technologies and large language models.
+- Experience with prompt engineering, fine-tuning, and model optimization.
+- Proficiency in Python programming and AI/ML frameworks.
+- Knowledge of cloud platforms and distributed computing systems.
+- Understanding of natural language processing and computer vision applications.
+- Experience with MLOps practices and model deployment pipelines.
+- Ability to work with cross-functional teams on AI product development.
+- Strong problem-solving skills and analytical thinking capabilities.
+- Experience with enterprise AI implementations and scaling strategies.
+- Bachelor's degree in Computer Science, AI, or related technical field.
+- Develop and implement generative AI solutions for enterprise clients.
+- Work on large language model fine-tuning and optimization projects.
+- Collaborate with product teams on AI feature development and integration.
+- Design and deploy scalable AI systems for production environments.
+- Contribute to AI research and development initiatives within the organization.
+- Here are **10 unique, non-repetitive senior AI/ML job descriptions** for professionals with **8–10 years of experience**, including role name, company, location, detailed requirements, and source links:.
+
+Job Description 28
+- 8–10 years of progressive experience in AI leadership and strategy.
+- Proven track record of building AI-driven products and services at scale.
+- Deep knowledge of 5G, IoT, and edge computing integrations with AI.
+- Expertise in Python, Scala, and high-performance computing (HPC) frameworks.
+- Experience with real-time analytics on streaming data (Kafka, Flink).
+- Strong leadership in P&L, cross-functional team management, and global AI initiatives.
+- Extensive experience with AI governance, risk management, and regulatory compliance.
+- Ability to forge partnerships with technology vendors and academic institutions.
+- Outstanding executive communication and board-level presentations.
+
+Job Description 29
+- 0-2 years.
+- Strong foundation in machine learning and deep learning concepts.
+- Programming proficiency in Python and relevant ML libraries.
+- Understanding of generative AI and large language models.
+- Experience with cloud platforms and AI services (Azure preferred).
+- Knowledge of data science and statistical analysis.
+- Familiarity with software development practices and version control.
+- Understanding of neural networks and deep learning architectures.
+- Basic knowledge of natural language processing and computer vision.
+- Ability to work in a collaborative team environment.
+- Strong problem-solving and analytical thinking skills.
+- Willingness to learn new technologies and adapt to changing requirements.
+- Develop and deploy AI/ML solutions for client projects.
+
+Job Description 30
+- 3-5 years (Mid-Level).
+- 4-6 years of experience in AI/ML development with focus on generative AI.
+- Strong expertise in large language models, transformer architectures, and neural networks.
+- Experience with generative AI frameworks and tools (OpenAI API, Anthropic, Cohere).
+- Proficiency in Python and deep learning frameworks (PyTorch, TensorFlow).
+- Knowledge of prompt engineering, fine-tuning, and model adaptation techniques.
+- Understanding of retrieval-augmented generation (RAG) and vector databases.
+- Experience with AI agent development and workflow automation.
+- Familiarity with cloud-based AI services and model deployment strategies.
+- Strong understanding of AI ethics, bias detection, and responsible AI practices.
+- Ability to work with cross-functional teams on AI product development.
+
+Job Description 31
+- 15+ years of experience in AI/ML, with 7+ years in C-suite roles.
+- Proven track record of defining and executing AI strategy for telecom and digital services.
+- Expertise in Python, Scala, and Java for large-scale AI solutions.
+- Deep knowledge of 5G analytics, IoT, edge computing, and network optimization.
+- Experience with real-time data processing (Kafka, Flink) and streaming analytics.
+- Strong understanding of AI governance, ethics, and regulatory compliance.
+- Exceptional P&L ownership, budgeting, and cross-functional leadership.
+- Ability to engage and influence board members and external stakeholders.
+- Outstanding communication, negotiation, and partnership skills.
+
+Job Description 32
+- 8–10 years of experience designing and operating AI/ML infrastructure.
+- Expertise in cloud-native architectures, container orchestration, and serverless AI.
+- Experience with AWS AI services (SageMaker, SageMaker Pipelines) and EC2 Spot for ML.
+- Strong proficiency in Go, Python, and Rust for infrastructure tooling.
+- Deep knowledge of CI/CD for ML (CodePipeline, CodeBuild, CodeDeploy).
+- Proven background in performance tuning and cost optimization of AI workloads.
+- Experience with FPGA/ASIC acceleration for AI inference.
+- Ability to drive infrastructure roadmaps and champion open-source contributions.
+- Excellent collaboration with product and developer advocacy teams.
+
+Job Description 33
+- 0-1 years (Internship).
+- Strong understanding of AI concepts, machine learning algorithms, and data structures.
+- Familiarity with AI development frameworks (e.g., TensorFlow, PyTorch, Keras).
+- Proficiency in programming languages such as Python, Java, or C++.
+- Demonstrated interest in system architecture, design thinking, and scalable solutions.
+- Up-to-date knowledge of AI trends, tools, and technologies.
+- Ability to work independently and collaboratively in a remote team environment.
+- AI System Architecture Design: Collaborate with technical team to design robust, scalable AI system architectures.
+- Client-Focused Solutions: Analyze and interpret client needs for architectural solutions.
+- Methodology Development: Assist in formulation of best practices for AI system development.
+- Technology Stack Selection: Support evaluation of appropriate tools and frameworks.
+- Team Collaboration & Learning: Work alongside experienced AI professionals.
+
+Job Description 34
+- 3-5 years (Mid-Level).
+- 3-5 years of experience in computer vision and image processing applications.
+- Strong proficiency in OpenCV, PIL, and computer vision libraries.
+- Experience with deep learning frameworks for vision tasks (CNN, YOLO, R-CNN).
+- Knowledge of object detection, image classification, and semantic segmentation.
+- Understanding of 3D computer vision, stereo vision, and depth estimation.
+- Experience with video processing and real-time computer vision systems.
+- Familiarity with edge computing and model optimization for mobile/embedded devices.
+- Knowledge of augmented reality (AR) and virtual reality (VR) applications.
+- Experience with datasets, annotation tools, and computer vision pipelines.
+- Strong mathematical foundation in linear algebra, geometry, and image processing.
+- Based on my comprehensive research, here are **10 unique, non-repetitive senior-level (6-8 years) AI/ML job descriptions** in the exact format you requested:.
+
+Job Description 35
+- 8–10 years of experience in AI/ML solution architecture.
+- Expertise in GCP AI services (Vertex AI, BigQuery ML, AI Platform).
+- Proficiency in Python, Java, and SQL for data processing and model integration.
+- Deep understanding of hybrid and multi-cloud AI deployment strategies.
+- Experience in edge AI deployments with TensorFlow Lite, TF-TRT, and Coral Edge TPU.
+- Strong background in data governance, security, and compliance frameworks.
+- Proven ability to lead customer workshops, whiteboarding sessions, and POCs.
+- Exceptional skills in solution scoping, cost estimation, and technical proposals.
+- Ability to mentor and guide unofficial AI architect communities within GCP.
+- Outstanding presentation and customer-facing skills.
+
+Job Description 36
+- 0-2 years (Entry Level).
+- Develop and implement machine learning models, including supervised, unsupervised, and deep learning techniques.
+- Knowledge of version control systems like Git.
+- Strong programming skills in Python and data science libraries.
+- Understanding of statistical methods and data analysis.
+- Experience with machine learning frameworks (TensorFlow, PyTorch, Scikit-learn).
+- Familiarity with cloud platforms for ML deployment.
+- Basic understanding of MLOps practices and model lifecycle management.
+- Data preprocessing and feature engineering capabilities.
+- Strong analytical and problem-solving skills.
+- Ability to work with cross-functional teams.
+- Excellent communication skills for presenting technical concepts.
+- Continuous learning mindset for emerging AI technologies.
+
+Job Description 37
+- 8–10 years of experience in advanced AI research roles.
+- PhD in Computer Science, AI, ML, or related field with 8+ years industry research.
+- Strong record of publications and patents in generative AI, reinforcement learning, or robotics.
+- Proficiency in Python, MATLAB, and research frameworks (PyTorch, TensorFlow).
+- Expertise in simulation environments and R&D platforms.
+- Experience leading collaborative research with academic and industry partners.
+- Proven ability to secure grants and manage research budgets.
+- Strong leadership in guiding research staff and postdocs.
+- Excellent communication skills for research dissemination and stakeholder engagement.
+
+Job Description 38
+- 0-1 years (Trainee).
+- Work closely with data scientists, software engineers, and product teams to build scalable AI-powered applications.
+- Bachelor's degree in Computer Science, Artificial Intelligence, Data Science, or related field.
+- Strong foundation in programming languages and software development.
+- Understanding of machine learning algorithms and AI concepts.
+- Knowledge of data structures, algorithms, and statistical methods.
+- Experience with AI frameworks and development tools.
+- Familiarity with database management and data processing.
+- Strong analytical and problem-solving capabilities.
+- Excellent communication and collaboration skills.
+- Enthusiasm for learning emerging AI technologies.
+- Ability to work in fast-paced, innovative environments.
+- Contribute to building AI solutions that solve real-world problems.
+
+Job Description 39
+- 8–10 years of software engineering and ML experience.
+- 5+ years in people management and technical leadership roles.
+- Strong programming skills in C++, Python, and Java.
+- Deep expertise in ML frameworks (PyTorch, Caffe2) and high-performance inference engines.
+- Experience with large-scale data pipelines and ETL frameworks (Hadoop, Spark).
+- Proven track record of launching AI-driven products to billions of users.
+- Strong understanding of distributed systems, networking, and hardware acceleration.
+- Ability to recruit, retain, and grow world-class engineering teams.
+- Excellent cross-functional collaboration with product, design, and research teams.
+- Exceptional communication for driving technical vision and strategy.
+
+Job Description 40
+- 7+ years of IT development or implementation/consulting in the software or Internet industries experience.
+- 5+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data & analytics) experience.
+- 3+ years of design, implementation, or consulting in applications and infrastructures experience.
+- Hands on experience architecting and deploying full stack generative AI workloads to production systems.
+- Experience with AWS cloud services and enterprise-scale AI implementations.
+- Knowledge of applied AI architectures and data infrastructure design.
+- Understanding of generative AI model deployment and scaling strategies.
+- Experience with cross-functional collaboration in large technology organizations.
+- Strong background in software engineering and system architecture principles.
+- Architect and deploy full stack generative AI workloads to production systems.
+- Design scalable AI data architectures for enterprise applications.
+- Collaborate with engineering teams on AI infrastructure and deployment strategies.
+- Lead technical implementations for applied AI solutions across AWS services.
+- Provide technical guidance on AI architecture best practices and patterns.
+
+Job Description 41
+- 8–10 years of experience in platform engineering and AI/ML.
+- Strong background in building scalable, multi-tenant AI platforms.
+- Expertise in Python, Go, and Kubernetes for platform development.
+- Proficiency with Seldon Core, KFServing, and Kubeflow for model serving.
+- Experience in designing self-service ML platforms for data scientists and ML engineers.
+- Deep understanding of service mesh, observability, and security for AI workloads.
+- Proven ability to lead cross-functional platform teams and open-source community.
+- Excellent skills in capacity planning, cost management, and SLA design.
+- Strong collaboration with product management to define platform roadmaps.
+- Outstanding written and verbal communication for executive-level presentations.
+- Here are **10 unique, non-repetitive AI/ML job descriptions** for professionals with **more than 10 years of experience**, in the requested format:.
+
+Job Description 42
+- 10+ years of experience in data science and AI leadership.
+- Proven track record of building and scaling data science teams and capabilities.
+- Deep expertise in Python, R, and SQL for large-scale data analytics.
+- Strong background in predictive modeling, machine learning, and deep learning.
+- Experience with real-time streaming architectures (Kafka, Spark Streaming).
+- Expertise in AI-driven credit scoring and risk assessment models.
+- Hands-on experience with MLOps frameworks (Kubeflow, MLflow) and CI/CD for ML.
+- Ability to define and execute data strategy aligned with business objectives.
+- Excellent stakeholder management and executive communication skills.
+- Strong publication record or patents in AI/ML preferred.
+
+Job Description 43
+- 10+ years of AI/ML experience, with at least 5 years in senior leadership roles.
+- Demonstrated ability to develop AI strategy for e-commerce personalization and supply chain.
+- Expertise in Python, Java, and Scala for AI product development.
+- Deep knowledge of recommendation systems, search algorithms, and dynamic pricing models.
+- Experience with big data ecosystems (Hadoop, Spark, Presto) and data lakes.
+- Proficiency in cloud AI services (AWS, GCP, Azure) and hybrid cloud architectures.
+- Strong understanding of AI ethics, governance, and regulatory compliance.
+- Excellent P&L, budgeting, and stakeholder engagement experience.
+- Ability to influence C-level executives and drive cross-functional AI initiatives.
+- Outstanding communication and presentation skills.
+
+Job Description 44
+- 10+ years of AI research experience, including leading large R&D teams.
+- Extensive publication history in top-tier AI conferences (CVPR, NeurIPS, ICML).
+- Deep expertise in generative AI, reinforcement learning, and robotics.
+- Proficiency in Python, C++, and research frameworks (PyTorch, TensorFlow, JAX).
+- Experience managing multi-disciplinary research labs and budgets.
+- Track record of transitioning research prototypes into commercial products.
+- Strong partnerships with academia and industry consortia.
+- Expertise in cloud-based AI research platforms and HPC environments.
+- Exceptional grant writing and patent portfolio management skills.
+- Outstanding scientific leadership and mentorship abilities.
+
+Job Description 45
+- 10+ years of AI/ML platform development experience.
+- Proven track record in building scalable platform-as-a-service offerings.
+- Expertise in Kubernetes, Istio, Terraform, and service mesh architectures.
+- Deep knowledge of model serving frameworks (KFServing, Seldon Core, TensorFlow Serving).
+- Strong programming skills in Go, Python, and Java.
+- Experience with observability stacks (Prometheus, Grafana, Jaeger) for AI workloads.
+- Expertise in security, compliance (GDPR, HIPAA), and multi-tenancy.
+- Demonstrated ability to lead global engineering teams and open-source communities.
+- Excellent product vision and execution skills.
+- Strong customer-facing and executive presentation abilities.
+
+Job Description 46
+- 12+ years of AI/ML and software development experience.
+- 8+ years in senior leadership positions driving AI innovation.
+- Deep expertise in generative AI, computer vision, and NLP for e-commerce.
+- Strong programming background in Python, Java, and C++.
+- Experience with AWS AI services (SageMaker, Bedrock) and cloud-native architectures.
+- Proven ability to lead large-scale AI experiments and MLOps transformations.
+- Expertise in agile methodologies, lean startup principles, and rapid prototyping.
+- Exceptional stakeholder management across product, engineering, and business teams.
+- Strong track record of launching AI-driven revenue-generating products.
+- Outstanding communication and executive presence.
+
+Job Description 47
+- 10+ years of experience in data science, machine learning, and AI.
+- 8+ years in senior roles leading quantitative research and AI teams.
+- Deep expertise in Python, R, and Java for financial modeling and analytics.
+- Experience with time-series analysis, risk modeling, and algorithmic trading systems.
+- Proficiency in big data technologies (Hadoop, Spark, Kafka) and low-latency systems.
+- Strong understanding of regulatory requirements (MiFID II, Basel III) and compliance.
+- Exceptional leadership in high-stakes, fast-paced financial environments.
+- Proven ability to engage C-suite stakeholders and influence business strategy.
+- Outstanding mentoring and talent development skills.
+
+Job Description 48
+- 10+ years in software engineering and AI/ML operations.
+- 8+ years managing global devops and MLOps teams.
+- Expertise in Python, Shell, and Go for automation and orchestration.
+- Deep knowledge of Kubernetes, Docker, and service mesh for AI workloads.
+- Proven experience in building and maintaining AI pipelines at scale.
+- Strong background in observability and SRE principles for ML systems.
+- Experience with infra-as-code (Terraform, Pulumi) and GitOps workflows.
+- Exceptional program management and cross-geography collaboration skills.
+- Ability to define operational excellence metrics and SLAs for AI services.
+- Outstanding communication and leadership presence.
+
+Job Description 49
+- 10+ years of experience in AI research, ethics, and policy development.
+- Strong academic background with publications in AI ethics and fairness.
+- Experience leading global cross-functional teams in AI governance.
+- Deep understanding of data privacy regulations (GDPR, CCPA) and AI compliance.
+- Proficiency in Python for ethics-focused AI tooling and audits.
+- Experience with fairness, accountability, and transparency frameworks.
+- Ability to influence policy at the executive and governmental levels.
+- Excellent stakeholder management across legal, engineering, and product teams.
+- Strong track record of developing AI ethics training and certification programs.
+- Outstanding communication and thought leadership skills.
+
+Job Description 50
+- 10+ years of experience in enterprise architecture and AI/ML platforms.
+- Strong track record of designing multi-tenant AI platforms for SaaS applications.
+- Expertise in microservices, event-driven architectures, and API gateways.
+- Proficiency in Java, Python, and Node.js for platform development.
+- Deep knowledge of AI/ML model lifecycle management (training, serving, monitoring).
+- Experience with Adobe Experience Platform, Kubernetes, and Istio.
+- Proven ability to lead global architecture teams and open-source contributions.
+- Strong understanding of security, identity, and access management for AI services.
+- Excellent leadership in defining platform roadmaps and governance models.
+- Outstanding executive communication and architectural vision.
