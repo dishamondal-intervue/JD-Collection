@@ -362,7 +362,7 @@
  Job Description 21
 - 1-3 years (Entry to Junior Level)
 - Bachelor's degree in Statistics, Mathematics, Human Resources, Business Analytics, or related field
-- Basic proficiency in Excel, SQL, and data visualization tools (Tableau, Power BI)
+- Basic proficiency in Excel and data visualization tools (Tableau, Power BI)
 - Understanding of HR processes including recruitment, performance management, and employee lifecycle
 - Workforce metrics collection and analysis skills for tracking headcount, turnover rates, and demographic distributions
 - Attrition analysis capabilities to identify departure patterns and calculate retention rates by department and tenure
@@ -735,8 +735,7 @@
 - 5-7 years (Senior Level)
 - Bachelor's degree in Analytics, HR, or related field; advanced degree preferred
 - Extensive experience in workforce analytics and predictive modeling
-- Strong statistical background with knowledge of regression analysis and machine learning
-- Proficiency in advanced analytics tools like R, Python, or SAS
+- Proficiency in advanced analytics tools
 - Excel/Google Sheets: Mastery of complex formulas, data models, and scenario planning
 - Data-Driven Decision Making: Lead analytics projects to inform talent strategies and organizational design
 - Strategic Analysis and Operations: Develop analytical frameworks for forecasting headcount and budgeting
