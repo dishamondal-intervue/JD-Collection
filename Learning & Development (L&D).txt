@@ -17,9 +17,10 @@ Job Description 1
 - Support onboarding activities and new hire orientation programs
 - Handle employee queries regarding policies, benefits, and procedures
 - Prepare reports and documentation for HR managers and leadership
-- Support employee engagement surveys and data compilation
+- Support employee engagement surveys and data compilation using tools like Qualtrics
 - Assist with compliance documentation and statutory reporting
 - Coordinate training schedules and maintain training records
+---
 Job Description 2
 - 2-4 years (Junior Level)
 - Bachelor's degree in Human Resources, Business Administration, or related field; HR certification preferred
@@ -39,17 +40,18 @@ Job Description 2
 - Coordinate employee engagement initiatives and events
 - Ensure compliance with local labor laws, statutory requirements, and HRIS governance
 - Support organizational development initiatives and change management
+---
 Job Description 3
 - 3-5 years (Mid Level)
 - Bachelor's degree required; Master's degree in HR or MBA preferred
 - Strong business partnering and stakeholder mapping skills with department heads and managers
 - Expertise in employee relations, domestic inquiry, conflict resolution, and grievance handling
-- Performance management program design, including performance calibration and manager enablement
+- Performance management program design, including performance calibration and Manager Enablement
 - Workforce planning, headcount forecasting, and organizational design capabilities
 - Advanced knowledge of compensation and benefits frameworks, including salary benchmarking and pay structure design
 - Strategic thinking and analytical skills for HR metrics interpretation
 - Change management (e.g., ADKAR, Kotter's 8-Step) and communication skills for organizational initiatives
-- POSH compliance and training program development experience
+- POSH compliance and training program development experience, including leading Unconscious Bias Training
 - Partner with business leaders to align HR strategies with departmental goals
 - Lead employee relations cases and provide guidance on complex issues
 - Design and implement performance management and talent development programs
@@ -58,16 +60,17 @@ Job Description 3
 - Lead organizational change initiatives and cultural transformation projects
 - Ensure POSH compliance and conduct awareness training sessions
 - Mentor junior HR team members and provide coaching support
+---
 Job Description 4
 - 5-8 years (Senior Level)
 - Master's degree in HR Management, Business Administration, or related field; Professional HR certifications preferred
 - Strategic HR business partnering with senior leadership teams for HR strategy alignment
 - Expertise in organizational development and culture transformation
 - Advanced employee relations, labor law compliance, and pay equity analysis knowledge
-- Leadership coaching and talent management program ownership including succession planning
+- Leadership coaching and talent management program ownership including succession planning and High-Potential (HiPo) Program Design
 - Data-driven decision making using HR analytics and metrics (Power BI, Tableau)
 - Stakeholder management across multiple business units
-- Budget management for HR programs and initiatives
+- Budget management for HR programs and initiatives using tools like Anaplan or Adaptive Planning
 - Crisis management and organizational resilience planning
 - Serve as strategic HR business partner for assigned business units or functions
 - Drive organizational effectiveness initiatives and culture transformation programs
@@ -77,12 +80,13 @@ Job Description 4
 - Manage HR budgets and ROI analysis for people programs
 - Lead crisis management and business continuity planning from HR perspective
 - Represent HR in cross-functional strategic planning committees
+---
 Job Description 5
 - 6-10 years (Principal Level)
 - Master's degree required; Advanced HR certifications (SHRM-SCP, CIPD) highly preferred
 - Strategic business acumen with deep understanding of business operations
 - Expert-level knowledge in all HR domains including C&B, ER, and OD
-- Leadership development and executive coaching capabilities
+- Leadership development and executive coaching capabilities, utilizing assessment tools like Hogan, DiSC, and MBTI
 - Advanced analytics and predictive modeling for workforce insights
 - Global HR best practices and cross-cultural competency
 - Influence and negotiation skills with C-suite executives
@@ -93,20 +97,21 @@ Job Description 5
 - Drive digital transformation initiatives in HR processes and technology
 - Provide executive coaching and leadership development for senior management
 - Lead M&A integration activities from people and culture perspective
-- Establish center of excellence for HR best practices and innovation
+- Establish center of excellence for HR best practices and innovation, applying frameworks like Design Thinking and Human-Centered Design
 - Represent organization in industry forums and thought leadership platforms
 - Mentor and develop HR business partner teams across the organization
+---
 Job Description 6
-- 7-10 years (Senior Business Partner)
+- 7-10 years
 - Master's degree in HR/Business; Professional certifications like SHRM-CP/SCP, CIPD preferred
 - Advanced strategic HR business partnering with P&L ownership mindset
 - Expertise in compensation philosophy design, market benchmarking, and pay equity analysis
 - Employee relations mastery including complex investigations and legal liaison
 - Organizational design and transformation leadership capabilities
-- Advanced HR technology (e.g., Workday, SAP SuccessFactors) and digital workplace solutions knowledge
+- Advanced HR technology knowledge (e.g., Workday, SAP SuccessFactors including Workday Learning and SAP SuccessFactors Learning)
 - Cross-functional collaboration and influence without authority skills
-- Cultural intelligence and diversity, equity & inclusion program leadership
-- Vendor management and external consultant relationship oversight
+- Cultural intelligence and diversity, equity & inclusion program leadership, including leading Cultural Competency Workshops
+- Vendor management and external consultant relationship oversight, including Supplier Relationship Management (SRM) and using tools like DocuSign and SAP Ariba within strategic sourcing frameworks like the Kraljic Matrix
 - Familiarity with gamified recognition tools (Bonusly, Kudos)
 - Partner with business heads on strategic people initiatives tied to business outcomes
 - Design and oversee compensation and benefits strategies for competitive positioning
@@ -116,8 +121,9 @@ Job Description 6
 - Drive diversity, equity and inclusion strategies with measurable outcomes using DEI dashboards
 - Lead crisis communication and change management during organizational transitions
 - Establish governance frameworks for HR decision-making and accountability
+---
 Job Description 7
-- 8-12 years (Associate Director Level)
+- 8-12 years
 - Master's degree mandatory; Doctorate in HR/Psychology preferred; Senior level certifications required
 - Executive presence and C-suite advisory capabilities
 - Advanced knowledge of Indian labor laws and global employment practices
@@ -126,7 +132,7 @@ Job Description 7
 - Advanced people analytics, DEI dashboards, and predictive modeling skills
 - Global mobility and international assignment management
 - Crisis leadership and business continuity planning expertise
-- Thought leadership and external stakeholder management abilities
+- Thought leadership and external stakeholder management abilities, including championing initiatives like Accessibility Training
 - Serve as strategic advisor to C-suite on all people-related business decisions
 - Lead organization-wide culture transformation and employee experience initiatives
 - Oversee global mobility programs and international HR operations
@@ -135,16 +141,17 @@ Job Description 7
 - Lead major organizational restructuring and transformation projects
 - Establish thought leadership through research publications and speaking engagements
 - Mentor and develop next generation of HR business partner talent
+---
 Job Description 8
-- 6-9 years (Senior Manager Level)
+- 6-9 years
 - Master's degree in HR/Business Administration; Industry certifications preferred
 - Strategic thinking with operational excellence in HR service delivery
 - Expertise in performance management and talent calibration processes
-- Advanced employee engagement and retention strategy development (including pulse surveys and exit analysis)
+- Advanced employee engagement and retention strategy development (including pulse surveys with tools like SurveyMonkey and exit analysis)
 - Knowledge of HR shared services, HR workflows, and center of excellence models
 - Digital HR transformation and process automation expertise
 - Conflict resolution and mediation skills for complex workplace issues
-- Financial acumen for HR budget management and ROI measurement
+- Financial acumen for HR budget management, Cost-Benefit Analysis, and ROI measurement using frameworks like the Kirkpatrick Model and Phillips ROI Model
 - Cross-cultural competency for diverse workforce management
 - Lead HR business partnering for specific business units or geographical regions
 - Design and implement talent management processes including succession planning
@@ -154,16 +161,17 @@ Job Description 8
 - Provide coaching and development support to line managers
 - Ensure compliance with all regulatory requirements and audit preparations
 - Drive continuous improvement in HR operations and employee experience
+---
 Job Description 9
-- 8-12 years (Principal Consultant Level)
+- 8-12 years
 - Master's degree required; Advanced certifications in HR specialty areas mandatory
 - Consulting mindset with ability to work across multiple client organizations
 - Expertise in HR transformation and change management methodologies (ADKAR, Kotter’s 8-Step, PROSCI)
 - Advanced project management and program delivery capabilities
-- Deep knowledge of HR technology platforms (Workday, Oracle HCM) and implementation
+- Deep knowledge of HR technology platforms (Workday, Oracle HCM, Cornerstone OnDemand) and implementation
 - Benchmarking and best practice research across industries
 - Client relationship management and business development skills
-- Training design and delivery for senior leadership audiences
+- Training design, Content Development, and Instructional Design for senior leadership audiences using tools like Articulate Storyline and Adobe Captivate
 - Risk assessment and mitigation planning for HR initiatives
 - Lead HR transformation projects across multiple business units
 - Provide strategic HR consulting to senior leadership teams
@@ -173,8 +181,9 @@ Job Description 9
 - Develop and deliver leadership development programs
 - Manage complex employee relations cases with legal and compliance implications
 - Drive innovation in HR practices through research and pilot programs
+---
 Job Description 10
-- 10-15 years (Director Level)
+- 10-15 years
 - Master's degree mandatory; Executive education from premier institutions preferred
 - Executive leadership with proven track record of business impact
 - Strategic vision development and enterprise-wide implementation
@@ -192,8 +201,9 @@ Job Description 10
 - Lead crisis response and business continuity from HR perspective
 - Champion innovation and future-of-work initiatives
 - Develop and execute long-term talent pipeline strategies
+---
 Job Description 11
-- 4-7 years (HR Consultant Level)
+- 4-7 years
 - Bachelor's degree required; Master's degree or professional certifications preferred
 - Consulting expertise with ability to diagnose organizational HR challenges
 - Strong analytical skills for HR data interpretation and insights generation
@@ -207,18 +217,19 @@ Job Description 11
 - Conduct organizational assessments and recommend HR strategy improvements
 - Lead employee relations investigations and provide resolution recommendations
 - Design and implement HR policies aligned with business objectives
-- Deliver training programs on HR topics to managers and employees
+- Deliver training programs and lead Program Facilitation and Workshop Facilitation on HR topics to managers and employees
 - Support performance management system design and implementation
 - Ensure compliance with labor laws and regulatory requirements
 - Generate HR metrics and reports for business decision-making
+---
 Job Description 12
-- 5-8 years (Strategic HR Advisor)
+- 5-8 years
 - Master's degree in HR, Business, or Psychology; Advanced certifications in strategic HR preferred
 - Strategic advisory capabilities with business acumen across industries
 - Expertise in workforce planning and talent strategy development
 - Advanced knowledge of compensation and benefits design principles
 - Organizational psychology, employee lifecycle mapping, and culture transformation expertise
-- Data analytics and metrics-driven decision making capabilities (using tools like Power BI, Tableau)
+- Data analytics and metrics-driven decision making capabilities, including Learning Analytics (using tools like Power BI, Tableau)
 - Stakeholder influence and relationship management at senior levels
 - Global HR practices and cross-cultural organizational dynamics
 - Digital workplace and future of work strategic planning
@@ -230,8 +241,9 @@ Job Description 12
 - Establish HR governance and decision-making frameworks
 - Champion employee experience and engagement strategy development
 - Drive strategic HR research and benchmarking initiatives
+---
 Job Description 13
-- 3-6 years (Employee Relations Partner)
+- 3-6 years
 - Bachelor's degree in HR, Law, or related field; Employment law certifications preferred
 - Expert knowledge of Indian labor laws (including Industrial Disputes Act) and employment regulations
 - Advanced conflict resolution and mediation skills
@@ -249,11 +261,12 @@ Job Description 13
 - Conduct exit interviews and analyze trends for organizational improvements
 - Train managers on employee relations best practices and compliance
 - Manage grievance redressal systems and maintain documentation
+---
 Job Description 14
-- 2-5 years (HR Operations Partner)
+- 2-5 years
 - Bachelor's degree in HR, Business Administration, or related field; Operations certifications preferred
 - Operational excellence mindset with process improvement capabilities
-- Advanced HRIS and HR technology platform management skills, including HRMS transactions and HRIS governance
+- Advanced HRIS and HR technology platform management skills, including HRMS transactions, HRIS governance, and LMS administration (e.g., SAP Litmos, TalentLMS)
 - Payroll processing and statutory compliance expertise
 - Data management, document control, and reporting accuracy focus
 - Vendor management and service level agreement oversight
@@ -268,12 +281,13 @@ Job Description 14
 - Lead process improvement initiatives and automation projects
 - Support audit preparations and compliance documentation
 - Provide operational support for employee benefits administration
+---
 Job Description 15
-- 4-8 years (Compensation & Benefits Partner)
+- 4-8 years
 - Bachelor's degree required; Master's degree in HR, Finance, or Economics preferred; C&B certifications highly valued
 - Expert knowledge of compensation philosophy and salary structure design
 - Advanced skills in market benchmarking (using Mercer/Credo data) and pay equity analysis
-- Benefits program design and vendor management capabilities
+- Benefits program design and vendor management capabilities, using tools like Icertis for contracts and Loopio for RFPs
 - Statistical analysis and data modeling for compensation decisions, including cost-to-company (CTC) modeling
 - Job evaluation and grading system expertise
 - Regulatory knowledge of compensation and benefits compliance
@@ -287,8 +301,9 @@ Job Description 15
 - Provide compensation guidance and approval recommendations
 - Develop total rewards communication and employee education programs
 - Analyze compensation data and provide insights for business decisions
+---
 Job Description 16
-- 8-11 years (Senior Business Partner - Aviation Industry)
+- 8-11 years (Aviation Industry)
 - Master's degree in HR Management, Business Administration, or related field; Professional HR certifications preferred
 - Strategic HR business partnering with cross-functional leadership teams
 - Expertise in aligning HR strategies with business goals and operational requirements
@@ -306,8 +321,9 @@ Job Description 16
 - Continuously evaluate impact of HR programs on employees and business outcomes
 - Lead organizational effectiveness initiatives and culture transformation programs
 - Provide strategic HR guidance to support business expansion and operational excellence
+---
 Job Description 17
-- 4-7 years (Senior HRBP - Technology Security)
+- 4-7 years (Technology Security)
 - Bachelor's degree in HR or Business required; Master's degree preferred; Technology industry experience valued
 - Strategic people planning with focus on innovation and operational excellence
 - Leadership effectiveness coaching and psychological safety promotion
@@ -325,10 +341,11 @@ Job Description 17
 - Build business acumen and serve as trusted advisor in Microsoft security landscape
 - Promote culture of high trust, collaboration, and psychological safety
 - Drive operational excellence ensuring innovative ideas result in tangible outcomes
+---
 Job Description 18
-- 5-8 years (HRBP - Healthcare Diagnostics)
+- 5-8 years (Healthcare Diagnostics)
 - Bachelor's degree in HR or related field required; Healthcare industry experience preferred
-- End-to-end associate lifecycle management expertise, including employee journey mapping
+- End-to-end associate lifecycle management expertise, including employee journey mapping and Learning Journey Mapping
 - Strategic initiative partnership in healthcare diagnostics environment
 - Knowledge of healthcare industry regulations and compliance requirements
 - Employee relations and engagement program development
@@ -344,8 +361,9 @@ Job Description 18
 - Provide HR consultation to management on people-related decisions
 - Drive continuous improvement in HR processes and employee experience
 - Support global organization initiatives while maintaining local focus
+---
 Job Description 19
-- 3-7 years (HRBP - Political Consulting)
+- 3-7 years (Political Consulting)
 - Bachelor's degree in Human Resources, Business Administration, or related field from reputable institute
 - Business unit alignment with HR practices and operational needs
 - HR policy implementation and SOP standardization
@@ -363,8 +381,9 @@ Job Description 19
 - Maintain HR dashboards monitoring attrition, engagement, and productivity metrics
 - Contribute to employee engagement initiatives promoting collaborative workplace culture
 - Support organizational change efforts through communication and employee alignment
+---
 Job Description 20
-- 3-5 years (HRBP - Automotive Manufacturing)
+- 3-5 years (Automotive Manufacturing)
 - Bachelor's degree in HR, Business, or related field; Manufacturing industry experience preferred
 - Industrial relations expertise and workplace negotiation capabilities
 - Manufacturing environment HR operations knowledge
@@ -382,8 +401,9 @@ Job Description 20
 - Partner with operations teams on productivity improvement and employee engagement
 - Manage performance management processes for manufacturing workforce
 - Coordinate training and development programs for technical skills enhancement
+---
 Job Description 21
-- 5-10 years (HR Partner - E-commerce Operations)
+- 5-10 years (E-commerce Operations)
 - Bachelor's degree in HR, Business, or related field; E-commerce or retail experience preferred
 - High-judgment HR support capabilities for managers across organizational levels
 - Employee relations expertise with focus on workplace investigations
@@ -391,7 +411,7 @@ Job Description 21
 - Change management strategies for fast-paced e-commerce environment
 - Data analysis skills for workforce insights and trend identification through exit analysis and pulse surveys
 - Policy knowledge and application across diverse business functions
-- Learning and development program coordination and support
+- Learning and development program coordination and support via platforms like Degreed and Udemy Business
 - Grievance handling and resolution in high-volume operations environment
 - Provide high-judgment HR support to managers enabling customer impact multiplication
 - Lead employee relations cases and workplace investigations with thorough documentation
@@ -401,8 +421,9 @@ Job Description 21
 - Ensure consistent application of HR policies across multiple business functions
 - Coordinate learning and development initiatives supporting skill enhancement
 - Manage grievance processes ensuring timely resolution and employee satisfaction
+---
 Job Description 22
-- 6-9 years (HRBP - Fintech Operations)
+- 6-9 years (Fintech Operations)
 - Master's degree in HR or Business preferred; Fintech or financial services experience valued
 - Stakeholder management across diverse business units and geographies
 - Change management expertise for digital transformation and process digitization initiatives
@@ -420,8 +441,9 @@ Job Description 22
 - Support business growth through effective manpower planning and resource allocation
 - Manage HRIS systems ensuring data accuracy and process efficiency
 - Drive strategic HR initiatives aligned with fintech innovation and customer focus
+---
 Job Description 23
-- 20-23 years (VP HR Business Partner - Technology Leadership)
+- 20-23 years (Technology Leadership)
 - Master's degree in HR or Business required; Executive education from premier institutions preferred
 - Executive leadership with proven track record in technology industry
 - India Site Leadership and regional people strategy development
@@ -439,15 +461,16 @@ Job Description 23
 - Present to board and senior stakeholders on people strategy and business impact
 - Align enterprise-wide people strategies with technology advancement and market demands
 - Champion diversity, equity, and inclusion initiatives, including pay equity analysis, across all organizational levels
+---
 Job Description 24
-- 6-9 years (Senior Manager HRBP - Pharmaceutical)
+- 6-9 years (Pharmaceutical)
 - Master's degree in HR or related field; Pharmaceutical or healthcare industry experience preferred
 - HR strategy development with focus on pharmaceutical regulatory environment
 - Talent acquisition expertise in specialized pharmaceutical and scientific roles
 - Employee engagement program design and implementation, leveraging engagement survey analysis (e.g., Glint, CultureAmp)
 - Performance management system optimization for research and development teams
 - Diversity and inclusion program leadership in global pharmaceutical context
-- Business partnering with scientific and commercial functions, including talent review facilitation
+- Business partnering with scientific and commercial functions, including Talent Review Facilitation
 - Learning and development coordination for technical and compliance training
 - Workforce planning supporting drug development and commercialization timelines
 - Develop HR strategies aligned with pharmaceutical business objectives and regulatory requirements
@@ -458,8 +481,9 @@ Job Description 24
 - Partner with scientific and commercial leaders on people strategies supporting drug development
 - Coordinate learning and development programs ensuring regulatory compliance and skill enhancement
 - Support workforce planning aligned with drug development timelines and market launch requirements
+---
 Job Description 25
-- 1-4 years (HRBP - Healthcare Services)
+- 1-4 years (Healthcare Services)
 - Bachelor's degree in HR, Business Administration, or related field; Healthcare services experience preferred
 - Business partnering fundamentals with healthcare operations focus
 - Headcount management and workforce planning for healthcare services
@@ -477,15 +501,16 @@ Job Description 25
 - Provide HRBP support ensuring consistent policy implementation across healthcare units
 - Monitor HR metrics and provide insights for continuous improvement in healthcare delivery
 - Handle grievances and employee relations issues specific to healthcare services environment
+---
 Job Description 26
-- 2+ years (HR Executive - Business Process Outsourcing)
+- 2+ years (Business Process Outsourcing)
 - Bachelor's degree in Human Resources, Business Administration, or related field (mandatory)
 - Full recruitment cycle management from sourcing to hiring
 - Employee onboarding and orientation program delivery
 - Employee query management and internal HR communication support
 - HR record maintenance, database management accuracy, and document control
 - Employment documentation and contract preparation
-- HR policy adherence, HRIS governance, and company procedure implementation
+- HR policy adherence, HRIS governance, and Learning Management System (LMS) Administration using platforms like Moodle or LearnUpon
 - Audit support and compliance checks for BPO operations
 - HR reporting and documentation for remote service operations
 - Manage complete recruitment cycle including sourcing, screening, and interview scheduling
@@ -496,8 +521,9 @@ Job Description 26
 - Ensure adherence to HR policies and company procedures across BPO operations
 - Support audits, compliance checks, and HR reporting activities
 - Contribute to building people-first culture driving growth and innovation in BPO environment
+---
 Job Description 27
-- 2-4 years (Employee Relations Associate Analyst - Banking)
+- 2-4 years (Banking)
 - Bachelor's degree in HR, Business, Law, or related field; Banking or financial services experience preferred
 - Case management support for Global Disciplinary Review Panel processes
 - APAC regional employee relations expertise and cultural understanding
@@ -515,8 +541,9 @@ Job Description 27
 - Facilitate cross-cultural communication and stakeholder coordination across APAC markets
 - Apply financial services employment law knowledge to employee relations decisions
 - Analyze employee relations data and generate reports for trend identification and improvement
+---
 Job Description 28
-- 6-9 years (Consultant HRBP - Telecommunications)
+- 6-9 years (Telecommunications)
 - Master's degree in HR or Business preferred; Telecommunications or technology services experience valued
 - Human resources management with focus on telecommunications industry dynamics
 - Performance management system optimization (using OKRs, KPIs) for technology services environment
@@ -524,7 +551,7 @@ Job Description 28
 - Talent development and R&R program design supporting technological advancement
 - Employee engagement strategies for global telecommunications operations
 - Business partnering with technical and commercial functions
-- Learning coordination for technical skills and professional development
+- Learning coordination for technical skills and professional development via LMS platforms like Docebo and content libraries like LinkedIn Learning and Skillsoft
 - Strategic HR planning supporting telecommunications innovation and customer service
 - Manage human resources operations supporting telecommunications services delivery
 - Optimize performance management systems for technology services and customer support teams
@@ -534,8 +561,9 @@ Job Description 28
 - Partner with technical and commercial leaders on people strategies supporting innovation
 - Coordinate learning initiatives for technical skills enhancement and professional development
 - Develop strategic HR plans aligned with telecommunications industry evolution and customer needs
+---
 Job Description 29
-- 3-7 years (Manager HRBP - FMCG Manufacturing)
+- 3-7 years (FMCG Manufacturing)
 - Bachelor's degree in HR or Business required; FMCG or manufacturing experience preferred
 - Talent acquisition and recruitment expertise for FMCG manufacturing roles
 - Learning and development program coordination for manufacturing workforce
@@ -544,7 +572,7 @@ Job Description 29
 - Strategic partnership capabilities with manufacturing and commercial functions
 - HR activities coordination across multiple manufacturing sites
 - Interpersonal skills for diverse manufacturing workforce management
-- Training program development for technical and safety requirements
+- Lead Curriculum Design and development for technical and safety requirements
 - Lead talent acquisition and recruitment initiatives for FMCG manufacturing positions
 - Coordinate learning and development programs supporting manufacturing excellence
 - Implement employee engagement strategies appropriate for FMCG production environment
@@ -553,16 +581,17 @@ Job Description 29
 - Coordinate HR activities across multiple manufacturing sites ensuring consistency
 - Manage interpersonal relationships and communications across diverse manufacturing workforce
 - Develop training programs addressing technical skills, safety, and quality requirements
+---
 Job Description 30
-- 5-9 years (Senior HRBP - Software Technology)
+- 5-9 years (Software Technology)
 - Master's degree in HR or Business preferred; Software technology industry experience valued
 - HR business partnership with focus on software development and technology services
 - Employee engagement strategy development for technology professionals, including analysis of retention metrics
 - Change management expertise (e.g., ADKAR, PROSCI) supporting software product development cycles
 - Data analysis proficiency for workforce insights and talent metrics
-- Training and development program leadership for technical skill enhancement
-- Training needs assessment and competency development for software teams
-- Talent development and career progression planning for technology professionals
+- Training and development program leadership for technical skill enhancement using learning experience platforms like EdCast
+- Conduct Training Needs Assessment (TNA) and Competency Framework Development for software teams
+- Design talent development and Career Progression Planning for technology professionals
 - Workforce planning supporting software development and customer delivery timelines
 - Provide strategic HR business partnership supporting software development and technology services
 - Develop employee engagement strategies tailored to technology professionals and development teams
@@ -572,3 +601,4 @@ Job Description 30
 - Assess training needs and develop competency frameworks for software development teams
 - Design talent development and career progression programs for technology professionals
 - Support workforce planning aligned with software development cycles and customer delivery requirements
+---
