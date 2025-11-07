@@ -1,0 +1,442 @@
+﻿Operational Risk Sheet Link: https://docs.google.com/spreadsheets/d/1yPtCXqpoJkc5IALWnaWW4FU33g8xq59GEXy5n1Sn8YA/edit?gid=823198180#gid=823198180
+
+Job Description 1
+-  Macquarie Group, Operational Risk Manager
+-  5 years’ experience in Risk Management, Operational Risk or Audit, ideally within an international financial institution or professional services firm, Manila
+-  Tertiary degree in Finance or a related discipline, with relevant postgraduate qualifications or professional certifications an advantage
+-  Strong analytical and lateral thinking abilities, with proven problem-solving and consulting skills
+-  Adept at interpreting complex situations and balancing commercial considerations within a risk framework
+-  Solid understanding of the regulatory environment relevant to Macquarie’s operations
+-  Exceptional interpersonal skills, with the ability to build strong relationships, influence stakeholders, and gain trust and buy-in from management
+-  Resilient and adaptable, with a track record of maintaining a high performance within a fast-paced, results-driven environment
+-  Able to work both independently and collaboratively within a team
+-  You will provide thought leadership and practical advice to businesses on operational risk management
+-  Foster a strong risk culture
+-  Ensure compliance with the group's operational risk framework
+
+Job Description 2
+-  Macquarie Group, Senior Associate | Business Operational Risk Manager - MacCap Equities APAC
+-  At least 3+ years of experience, ideally in operational risk management within a trading environment, Sydney (with some crossover into the broader APAC region and a primary focus on ANZ)
+-  Bring at least 3+ years of experience, ideally in operational risk management within a trading environment
+-  A strong understanding of equities products and trading systems is highly desirable for this fast-paced environment
+-  As part of the First Line of Defence, you will play a key role in supporting the team across APAC, with a primary focus on identifying, assessing, and mitigating operational risks within the equities business
+-  This includes new business initiatives and projects
+
+Job Description 3
+-  Butterfield Group, Assistant Vice President, Operational Risk Manager
+-  6+ years' relevant experience in an Operational Risk or Business Continuity Management related role within the financial services industry, Bermuda
+-  The candidate should be educated to a degree level in a Business or Risk Management related field
+-  Professional qualification in risk management or Business Continuity Management preferred
+-  Strong knowledge of banking, trust and asset management required
+-  Strong communication skills (both oral and written) and negotiation skills
+-  Ability to motivate teams and to work to tight deadlines
+-  Ability to multi-task, handle competing priorities, and follow through on commitments
+-  Ability to promptly and appropriately escalate risks and/or control failures, to the Head of Operational Risk
+-  Development of Operational Risk Management standards and tools that align to industry practices
+-  Ensure the effective identification, measurement, monitoring, and reporting of operational risks across the Group
+
+Job Description 4
+-  Bank of America, Compliance and Operational Risk Manager (Control Room)
+-  Demonstrable experience in Compliance / 2nd Line of Defence role, London, United Kingdom
+-  Understanding of US Securities Laws
+-  Understanding of UK and Irish Takeover Panels
+-  Previous experience of managing conflicts clearance
+-  Analytical and problem-solving skills
+-  Ability to work under pressure
+-  Ability to prioritize tasks effectively
+-  Ability to challenge and appropriately assess risks
+-  The role is responsible for assisting the Compliance and Operational Risk officer team to execute second line of defence compliance and operational risk oversight for a Front-Line Unit, Control Function, and/or Third Parties
+-  Key responsibilities include ensuring requirements of the Global Compliance Enterprise Policy, the Operational Risk Management Enterprise Policy (collectively “the Policies”), the Compliance and Operational Risk Management Program and Standard Operating Procedures are implemented
+-  Identifying, challenging, escalating, and mitigating risks in a timely manner
+-  Review private side transactions and perform an assessment to understand potential impacts on the firm's information barriers
+-  Identify potential conflicts of interest
+-  Ensure compliance with regulatory requirements regarding Material Non-Public Information (MNPI) and the handling of confidential data
+
+Job Description 5
+-  Rapyd, Operational Risk Manager
+-  Experience: Not specified, Tel Aviv, Israel
+-  Qualifications: Not specified
+-  Help enhance the company's Operational Risk Framework, including policies, procedures, and risk assessment methodologies
+-  Work with business units to embed these practices
+-  Providing training and guidance on operational risk matters
+
+Job Description 6
+-  tabby, Business Continuity Specialist
+-  5 - 7 Years, Saudi Arabia
+-  Bachelor's degree in Risk Management, Business Administration, or a related field (Master's preferred)
+-  Professional certifications in Business Continuity (e.g., CBCI, MBCI, ISO 22301 Lead Implementer) are strongly desirable
+-  Develop & Implement BCM Strategies: Design, maintain, and regularly update business continuity plans and disaster recovery strategies
+-  Conduct business impact analyses (BIAs)
+-  Coordinate testing exercises to ensure the organization can respond to and recover from disruptive events, all while aligning with organizational objectives
+
+Job Description 7
+-  Global Services Inc., Business Continuity Manager
+-  3-5 years, New York, NY
+-  Bachelor's degree in business management, computer science, disaster management, or a related field
+-  Strong leadership, teamwork, and communication skills
+-  Expertise in risk assessment, disaster recovery planning, and business impact analysis
+-  Develop and maintain an up-to-date business continuity program, including policies, procedures, and plans, in alignment with industry best practices and regulatory requirements
+-  Conduct thorough risk assessments to identify potential threats and vulnerabilities to the organization's operations, systems, and infrastructure
+-  Collaborate with cross-functional teams to ensure the development and testing of business continuity and disaster recovery plans for critical business functions and systems
+-  Monitor and evaluate emerging trends, technologies, and regulatory changes related to business continuity management, and make recommendations for enhancements to the program as necessary
+-  Serve as a point of contact for internal and external stakeholders during a crisis or disruption, providing guidance and support
+-  Lead the response and recovery efforts during incidents, ensuring that appropriate actions are taken to minimize the impact on the organization's operations and reputation
+-  Prepare and present reports and recommendations to senior management and executive leadership on the status of the business continuity program
+
+Job Description 8
+-  International Holdings, Business Continuity Manager
+-  5+ years, London, UK
+-  Bachelor's degree in a related field
+-  Professional certification (e.g., CBCI) preferred
+-  Strong leadership and crisis management skills
+-  a) Conducting risk assessments to identify threats to business operations
+-  b) Developing and implementing business continuity and disaster recovery plans
+-  Coordinating regular testing and exercises
+-  Managing the response to any business disruption to ensure operational resilience across the organisation
+
+Job Description 9
+-  BlackRock, Investment Process & Risk Analyst
+-  Minimum 1-3 years industry experience, Global / Not Specified
+-  Degree in Finance, Economics, Accounting or a related field
+-  Clear communication both spoken and written
+-  Minimum 1-3 years industry experience
+-  Solid track record working both independently and collaboratively in a fast paced, global environment
+-  Strong technical skills including passion for improving daily processes leveraging automation and emerging technologies
+-  Experience in Microsoft Office suite
+-  Experience coding in Python is preferred
+-  Data analysis skills (excel, SQL) are preferred
+-  Be a key contributor to the business's governance processes including monitoring and creating risk reports and dashboards
+-  Participating in risk committees
+-  Ensuring alignment of investment processes with the firm's risk appetite framework
+-  Liaising closely with investment teams and other control or partner groups within the firm
+
+Job Description 10
+-  Global Energy, Process Risk Analyst (Process Safety)
+-  5+ years in process safety or chemical engineering, Houston, TX
+-  Master's degree in Process Safety, Chemical Engineering, or related field
+-  Skills in risk assessment, hazard analysis, and consequence modelling
+-  model the following types of phenomena : release rates of liquids and gases from vessel and pipeline breaches including two phase effects, dispersion of released liquids and gases
+, toxic effects on personnel
+, heat radiation from jet, pool and flash fires
+, response of structures to heat loading
+, effects of heat radiation on personnel
+, overpressures from confined, semi confined and unconfined explosions
+, effects of overpressure on structures
+, effects of overpressure on personnel
+
+Job Description 11
+-  Comerica, Digital Banking Fraud Risk Manager
+-  10 years of experience in Fraud/Risk operations and/or investigations, Farmington Hills, MI
+-  Bachelor's degree from an accredited university
+-  CFE (Certified Fraud Examiner) certification preferred
+-  Oversee all facets of fraud related to digital payment channels
+-  Collaborate with business units, product managers, and IT to assess fraud risks in new digital products and features
+-  Recommending and implementing appropriate fraud detection tools and controls
+-  Focus on balancing user experience and risk, ensuring customer retention
+
+Job Description 12
+-  Standard Chartered Bank, Senior Fraud Risk Manager, Fraud Risk Management
+-  More than 03 years in Fraud Risk & AML related roles, Ho Chi Minh, VN
+-  Market Knowledge: – Awareness and understanding of the wider business, economic and market environment in which Standard Chartered Bank operates
+-  Business Strategy and Model: – Awareness and understanding of Standard Chartered's Retail Clients business and that of peers in the industry
+-  Risk Management and Control: – The ability to identify, assess, monitor, control and mitigate risks to Standard Chartered Bank
+-  Governance, Oversight and Controls: – Strong management skills, with the ability to deliver effective controls within Fraud Risk Management through both directly-managed and virtual team
+-  Regulatory Framework and Requirements: – Awareness and understanding of the regulatory framework in which the firm operates, and the regulatory requirements and expectations relevant to the role
+-  Non-technical skills: - Strong written / oral communication and influencing skills
+-  Ability to create effective work relationships within and across functions & borders
+-  Education Certificate: Degree graduation, CAMS/CAFS/CFE is a plus
+-  Responsible for managing and mitigating fraud risks across lending portfolios in WRB business
+-  Identify, assess, and prevent fraud exposures through proactive strategies, effective controls, and close collaboration with business and functional stakeholders in country & Group level
+-  Other tasks being assigned from FRM Head & country WRB COO
+-  Develop and implement fraud risk strategies to protect the WRB lending business from existing and emerging fraud threats
+-  Contribute to the bank’s overall fraud risk framework by providing insight on fraud trends, typologies, and countermeasures
+-  Partner with business teams to embed fraud risk considerations into product design, client journeys, and lending initiatives
+-  Ensure fraud risk controls support business growth while maintain a strong risk-reward balance
+-  Define, review, and enhance fraud prevention and detection process across the lending lifecycle (application, disbursement, repayment)
+-  Leverage analytics, data insights, and technology tools to identify fraud patterns and strengthen controls
+-  Shar subject matter expertise with colleagues and stakeholders to uplift fraud awareness and capability
+-  Contribute to building a culture of vigilance and proactive fraud risk management within the business
+-  Perform end-to-end fraud investigations, including evidence collection, analysis, and case documentation
+-  Identify systemic control gaps and recommend corrective actions to reduce recurrence
+-  Ensure effective client remediation measures in confirmed fraud cases
+-  Develop a collaborative relationship with regulators, peer banks and fraud risk industry forums to help detect and mitigate fraud
+-  Ensure all FRM policies and procedures in the countries comply with Group Policies and Standards
+-  Ensure proper and updated documentation in place for in-country policies and procedures
+-  Ensure adherence to the bank’s fraud risk management framework, policies and governance standards
+-  Provide accurate and timely reporting of fraud cases, trends, and metrics to senior management
+-  Provide oversight across CPBB Risk Operations team, ensuring compliance with the highest standards of regulatory and business conduct and compliance practices as defined by internal and external requirements
+-  Embed the Group’s values and code of conduct in Retail Risk Operations to ensure that adherence with the highest standards of ethics, and compliance with relevant policies, processes and regulations among employees form part of the culture
+-  Display exemplary conduct and live by the Group’s Values and Code of Conduct
+-  Take personal responsibility for embedding the highest standards of ethics, including regulatory and business conduct, across Standard Chartered Bank. This includes understanding and ensuring compliance with, in letter and spirit, all applicable laws, regulations, guidelines and the Group Code of Conduct
+-  Effectively and collaboratively identify, escalate, mitigate and resolve risk, conduct and compliance matters
+-  Embed Here for good and Group’s brand and values in$$NA$$
+-  Perform other responsibilities assigned under Group, Country, Business or Functional policies and procedures
+
+Job Description 13
+-  Revolut, Fraud Risk Manager
+-  2+ years of experience managing fraud in the financial services or payments industries, Spain, Poland, United Kingdom, Lithuania, Portugal, Remote
+-  2+ years of experience managing fraud in the financial services or payments industries, with strong analytical skills and experience in payments, card fraud, or financial crime
+-  Knowledge of SQL or Python is a plus, preferably in banking or financial services
+-  Fluency in English
+-  Shaping fraud policies and procedures
+-  Supporting global expansion by assessing fraud risks in new markets
+-  Tailoring fraud rules and models to local environments
+-  Working with product teams to ensure robust fraud controls are in place to support successful product launches
+
+Job Description 14
+-  Global Risk Advisory, Fraud Risk Management (Consulting)
+-  5+ years in financial services and risk management, United States
+-  Bachelor's degree
+-  MBA or advanced degree preferred
+-  Proven experience in risk management and fraud analytics
+-  Assess and design fraud risk management strategies for leading financial institutions, including developing fraud prevention frameworks
+-  Optimizing detection systems
+-  Advising on emerging fraud trends and technologies
+-  Helping clients build and maintain long-term relationships with senior executives
+
+Job Description 15
+-  Client of PENTABELL, Fraud Risk Analyst
+-  1-3 years of experience in risk management, fraud risk, fraud operations, or a related role (banking or financial services preferred), Saudi Arabia
+-  Bachelor s degree in Banking, Risk Management, Business Administration or a related field
+-  Strong analytical skills with the ability to interpret data and identify patterns or anomalies
+-  Excellent coordination, communication, and stakeholder management skills
+-  Experience in Cards and Account to Account payments fraud platform
+-  Proficiency in MS Office
+-  Experience with fraud monitoring systems is an advantage
+-  High attention to detail, strong problem-solving skills, and the ability to work under pressure
+-  Knowledge of fraud risk frameworks, banking operations, and regulatory requirements is preferred
+-  Drive fraud risk engagements forward, ensuring timely follow-up and resolution of identified issues
+-  Coordinate with internal stakeholders for risk mitigation
+-  Contribute to the development of fraud awareness programs, control enhancements, and awareness campaigns
+
+Job Description 16
+-  Additional Resources Ltd, Vendor Risk Manager
+-  Previous experience as a Vendor Risk Manager, Third-Party Risk Manager, Supplier Relationship Manager, Vendor Manager, Procurement Manager, Supplier Risk Manager, Outsourcing Risk Manager or in a similar role within a regulated financial services environment, London, UK
+-  Knowledge of third-party risk management, regulatory compliance, and operational resilience frameworks
+-  Familiarity with FCA and PRA requirements and best practices in vendor governance
+-  Skilled in vendor management systems (VMS) and contract management tools
+-  Strong analytical, negotiation, and interpersonal skills
+-  Manage the assessment, selection, and onboarding process for third-party vendors
+-  Conduct due diligence
+-  Negotiate contracts
+-  Establish clear performance metrics and SLAs
+-  Implementing risk monitoring frameworks to enhance oversight and operational efficiency
+
+Job Description 17
+-  Morgan Stanley, Vendor Risk Manager
+-  A minimum of 5+ years of experience in Vendor Management, Finance, Risk Management, or related field, New York, NY, USA
+-  Excellent communication and interpersonal skills
+-  Superior problem-solving and analytical skills
+-  Knowledge of vendor management principles and processes
+-  Strong familiarity with regulations and compliance requirements
+-  Ability to develop and maintain relationships with vendors
+-  Experience in developing and managing vendor risk profiles
+-  Superior organizational skills and attention to detail
+-  Proven ability to work independently and collaboratively in a fast-paced environment
+-  Strong Communication And Interpersonal Skills
+-  Knowledge Of Financial Services Industry
+-  Knowledge Of Risk Management Principles
+-  Ability to Analyze Data And Draw Meaningful Conclusions
+-  Understanding of Regulatory Framework And Requirements
+-  Experience With Vendor Risk Management Processes
+-  Ability To Solve Problems And Make Decisions
+-  Ability To Prioritize Tasks And Manage Multiple Projects
+-  Develop, implement, and maintain a comprehensive vendor risk management program
+-  Monitor vendor risk profiles and ensure compliance with applicable laws and regulations
+-  Analyze vendor performance and assess potential risks
+-  Develop strategies to mitigate risks and ensure operational efficiency
+-  Act as a liaison between vendors and internal stakeholders
+-  Establish and maintain relationships with key vendors to ensure compliance with contractual requirements
+-  Monitor vendor activities and review vendor performance reports
+-  Collaborate with internal stakeholders to ensure the accuracy of vendor data and compliance with vendor requirements
+-  Establish policies and procedures to ensure vendor compliance and maintain the highest standards of operational and financial risk management
+-  Identify areas of improvement and recommend corrective action
+-  Provide timely feedback and guidance to vendors and internal stakeholders
+-  Stay abreast of industry trends and best practices in vendor risk management
+
+Job Description 18
+-  Stripe, Third Party Risk Analyst
+-  3+ years of relevant experience in risk and compliance which could include third party, operational, enterprise, or other areas of risk and compliance management, Bengaluru, India
+-  3+ years of relevant experience in risk and compliance
+-  Self-disciplined, diligent, proactive, organized, and exceptionally detail oriented
+-  An extremely responsive and collaborative team-player
+-  User first mindset and are energized by the challenge of solving difficult problems
+-  Solution-oriented mindset with enthusiasm for establishing best practices
+-  Humble and have a proven track record for working well across teams
+-  A proven ability to build strong collaborative working relationships with business partners
+-  A proven ability to be a self starter capable of driving business results without significant supervision
+-  The ability to maintain high performance under tight timelines and a “roll up your sleeves” mindset to get any job done
+-  The ability to bring structure to ambiguous areas of opportunity and thrive in an unstructured, fast-moving environment
+-  Excellent verbal and written communication skills
+-  Excellent problem-solving skills and demonstrated ability to work independently, analyze problems and data sets to make complex investigation decisions
+-  Independently analyze and evaluate information from various data sources to determine a course of action for a matched case
+-  Demonstrated experience partnering with cross-functional stakeholders
+-  Demonstrated history of taking on various types of challenging projects and producing results
+-  Conduct third party assessments while facilitating the process through closure
+-  Conduct risk domain reviews owned by TPRM including reputation, financial, information security, and business continuity risks
+-  Document findings
+-  Work with business partners to develop remediation plans
+-  Leading the way towards a culture of compliance
+
+Job Description 19
+-  ING, Third party risk management expert
+-  2+ years, Slovakia, ING Hubs
+-  Education: Secondary with school-leaving examination, Follow-up/Higher Professional Education, University education (bachelor’s degree), University education (master’s degree)
+-  Educational Specialization: Economics, Law
+-  Language skills: English - Advanced (C1)
+-  TPRM process development: Support the design and develop a comprehensive process tailored to the specific needs and regulatory requirements of the bank
+-  This includes creating procedures, and guidelines for third-party risk identification, assessment, due diligence, ongoing monitoring, and remediation
+-  To do this you will Interact with group specialists, ORM, Auditors and authorities related
+-  In addition, you will support the Global TPRM functional lead in managing, updating, and maintaining the TIPM backlog and the related stakeholders
+-  Framework Implementation: Support the implementation of the TPRM framework across the organization, ensuring alignment with industry best practices, regulatory guidelines, and internal risk management policies
+-  Collaborate with cross-functional teams, such as procurement, legal, compliance, IT, etc. to ensure seamless integration of TPRM processes
+-  Ensure all relevant documents are and remains up to date with latest development
+-  Risk Assessment and Due Diligence: Support the (re)design and continuous development of risk assessment process to evaluate potential third-party risks, including financial, operational, reputational, and compliance risks
+-  Develop and implement due diligence procedures to assess the suitability and integrity of third-party vendors and service providers
+-  Ongoing Monitoring and Reporting: Support the design and implementation of a robust monitoring process to continuously assess and track the risks associated with third-party relationships
+-  Establish regular reporting mechanisms to provide management and stakeholders with timely updates on third-party risk exposures, mitigation efforts, and compliance with all relevant policies
+-  Stakeholder Engagement: Collaborate with internal stakeholders, including senior management, business lines, and risk functions, to promote awareness of TPRM principles and foster a culture of risk awareness and accountability
+-  Provide guidance and training to employees involved in third-party relationships to ensure consistent adherence to TPRM policies and procedures
+-  Regulatory Compliance: Stay up to date with relevant laws, regulations, and industry guidelines related to third-party risk management
+-  Ensure the bank's TPRM practices align with regulatory expectations and implement necessary enhancements to maintain compliance
+-  Support the enhancements of the TPRM target system in the different countries and actively support countries who are live with the target system and as such ensure that the TPRM function is perceived as expert team by countries
+-  Community manager: Drive and support the building of an active and lively international TPRM community
+
+Job Description 20
+-  Rothschild & Co, Third-Party Risk Management (TPRM) Analyst - DORA
+-  Experience: Not specified, Paris, France
+-  Qualifications: Not specified
+-  Engage and influence third-party ICT's to implement the necessary controls and contractual amendments required by DORA (Digital Operational Resilience Act)
+-  Monitor their compliance
+-  Report on risks
+-  Working closely with procurement and legal teams to address third-party risks and any DORA non-compliance
+
+Job Description 21
+-  Capital One, Principal Risk Associate, Premium Products & Experiences | Retail Bank
+-  At least 2 years of experience in project, process, program, or risk management, McLean, Virginia | Richmond, Virginia
+-  Basic Qualifications: At least 2 years of experience in project, process, program, or risk management
+-  Preferred Qualifications: 3+ years of experience in project, process, program, or risk management, 2+ years of experience in presenting to senior leadership
+-  Have an opportunity to support a fast growing business through risk identification, assessment, and mitigation activities
+-  Advising on control design for new products
+-  Helping business partners resolve identified control gaps or other problems, helping develop permanent corrective actions
+-  Work across the division to execute the first line risk assessments, consulting on effective challenge, and assist with establishing risk mitigation plans
+-  Participate in or lead risk forums and contribute to continuous improvement of risk management practices
+-  Stay abreast of the changing regulatory environment (domestic and international) and understand the impacts to the business areas that you support
+-  Review, analyze, assess risk, document effective controls to cover gaps enhancing the control suite effectiveness (CSE)
+-  Other risk efforts, including but not inot limited to: Audit/Exam support, Control testing, RMAP coverage, Hosting Office Hours with Legal and Compliance, and supporting business on everyday Risk management areas
+-  Lead ad-hoc projects to improve processes or control environment to mitigate risks (e.g. execution errors)
+
+Job Description 22
+-  Capital One, Sr. Risk Associate (FS)
+-  At least 2 years of experience in project, process, or risk management, Plano, Texas
+-  High School Diploma, GED or equivalent certification
+-  At least 2 years of experience in project, process, or risk management
+-  Bachelor's Degree (Preferred)
+-  4+ years of experience in project or process management (Preferred)
+-  4+ years of experience in risk management (Preferred)
+-  3+ years of experience in presenting to senior leadership (Preferred)
+-  1+ year of experience in change management (Preferred)
+-  Develop a deep understanding of Auto Finance business strategies, processes, and systems to effectively identify and manage risks
+-  Support audits and regulatory exams
+-  Partner with business leaders on strategic initiatives, including developing and delivering presentations to senior leadership
+
+Job Description 23
+-  PwC India, Cyber Risk & Controls – Cyber Controls (ITGC) Associate
+-  0–2 years, Bangalore, Kolkata, Hyderabad, Mumbai, India
+-  Bachelor’s degree
+-  Evaluate internal controls and ITGCs for compliance and risk
+-  Support internal audit services, including co-sourcing and managed services
+-  Apply AI tools in audits and compliance work
+-  Contribute to risk and governance assessments
+-  Collaborate with cyber, forensic, and compliance teams
+
+Job Description 24
+-  EY GDS Poland, Risk Associate with English
+-  Experience: Not specified (implied entry-level), Katowice, Poland
+-  You should be fluent in English
+-  Have strong written and verbal communication skills as well as demonstrable research skills
+-  Good analytical skills
+-  Problem solving and research skills with initiatives drive
+-  Ability to meet deadlines and manage own workflow/priorities accordingly
+-  Ability to manage efficient working relationship with peer colleagues and different teams
+-  You will develop good understanding of assigned Independence processes and related tools & databases
+-  You will be responsible for providing additional insights related to assigned projects to improve the output
+-  Your responsibility will be to execute processes in line with standard operating procedures
+-  You should be reviewing clients request quickly and effectively
+-  You should provide additional support in dedicated projects/task assignments
+
+Job Description 25
+-  Global Investment Bank, Liquidity Risk Associate
+-  Minimum of 2 years of experience in liquidity risk management or a similar role, New York, NY
+-  Bachelor's degree in finance, economics, or a related field
+-  Minimum of 2 years of experience in liquidity risk management or a similar role
+-  Strong understanding of financial markets and instruments
+-  Knowledge of regulatory requirements related to liquidity risk management
+-  Excellent analytical and problem-solving skills
+-  Ability to communicate complex financial concepts clearly
+-  Monitor daily liquidity positions and escalate concerns as necessary
+-  Develop and implement liquidity risk management policies and procedures
+-  Conduct stress testing and scenario analysis to assess potential liquidity risks
+-  Prepare and present reports on liquidity metrics to senior management
+-  Ensure compliance with regulatory liquidity requirements
+-  Collaborate with treasury, finance, and risk management teams
+
+Job Description 26
+-  Sifi, Risk Officer
+-  4 - 9 Years, Saudi Arabia
+-  Qualifications: Not specified
+-  Assist in conducting risk assessments and maintaining the risk register
+-  Monitor Key Risk Indicators (KRIs) and escalate threshold breaches
+-  Participate in Risk Control Self-Assessments (RCSAs) with various departments
+-  Track action plans for risk mitigation and follow up with risk owners
+-  Assist in preparing reports for Risk Committees and regulators (e.g., SAMA)
+-  Support in identifying fraud, operational, compliance, and third-party risks
+-  Ensure compliance with risk-related policies, frameworks, and regulations
+
+Job Description 27
+-  Uco Bank, Chief Risk Officer (CRO)
+-  Kolkata, West Bengal, India
+-  Facilitate branch wide risk assessments and monitors priority risks accordingly
+-  Implementation of appropriate risk reporting to the CGM / CEO, Manco and senior management
+
+Job Description 28
+-  Southern Company, Project Controls Risk Coordinator
+-  Experience: Not specified, Atlanta, GA
+-  Education: Bachelor's degree in one of the following fields (required): Engineering (Civil, Electrical, Mechanical, or Industrial), Construction Management, Finance or Economics (with relevant project risk experience).
+-  Develop, maintain, and update project risk registers in collaboration with project managers, engineers, and stakeholders
+-  Facilitate risk identification and assessment workshops with cross-functional teams
+-  Perform qualitative and quantitative risk analyses to evaluate the probability and impact of identified risks
+-  Conduct Monte Carlo simulations using tools such as @Risk, Primavera Risk Analysis, or similar software to model cost and schedule uncertainties
+-  Recommend appropriate contingency levels based on risk exposure and simulation results
+-  Track and report on risk trends, mitigation effectiveness, and residual risk exposure throughout the project lifecycle
+-  Integrate risk analysis outputs into project forecasts, budgets, and schedules
+-  Support the development of risk management plans and procedures in alignment with corporate governance and industry best practices
+-  Prepare and present risk reports and dashboards for senior leadership and project stakeholders
+-  Collaborate with project controls, finance, and construction teams to ensure risk-informed decision-making
+
+Job Description 29
+-  Alstom, Senior Risk Coordinator
+-  Experience in facilitating input collection workshops to develop and run an integrated Quantitative Risk Analysis (QRA) model, and presenting the results, to inform target price, Toronto, ON, CA
+-  Qualifications: Not specified
+-  Be the RSO (Risk, Saving & Opportunity) process owner within the project from the bid phase to project termination
+-  Working in close collaboration with ahe Project Manager (PM), owner of risk management in the project team, advising on risk management of the project (tender, contract, or program execution)
+-  Comply with the risk management plan, procedures, and requirements of the assigned scope of work
+-  Responsible to develop and maintain the risk register using best practices such as but not limited to:
+-  Defining risks including risk description, cause, effect, mitigation and other fields
+-  Manage efficiently risk deliverable including risk reporting
+-  Facilitate the synchronization and communication of internal stakeholders
+-  Report pro-actively the risk KPIs to various stakeholders (customer, core team, corporate)
+-  RSO (Risk, Saving & Opportunity) Training: Ensure that Project members are trained at an appropriate level in the discipline of Risk Management by running seminars and training courses
+
+Job Description 30
+-  Bloomberg, Operational Risk Manager - Regulatory Mapping
+-  12-month contract, Location: Not specified
+-  Experience: Not specified
+-  Qualifications: Not specified
+-  Execute end-to-end Regulatory Obligation Mapping for operational risk domains (e.g., Software Development Life Cycle (SDLC), Business Continuity, Disaster Recovery, Capacity Planning, Third-party Risk Management, Data Network and System Security, Incident Management, Risk Management), including:
+-  Facilitate cross-functional collaboration with Legal, Compliance, Risk, and Business Line Control Management to produce accurate, high-quality regulatory maps
+-  Lead and contribute to governance routines, ensuring consistent stakeholder engagement and timely issue escalation
+-  Produce and present meaningful management information (MI) to Compliance leadership, risk committees, auditors, and regulators
+-  Provide subject matter expertise on regulatory obligations, emerging compliance risks, and control adequacy—especially in investment banking and prudential regulations, and anti-money laundering domains
+-  Support the enterprise risk management framework in partnership with the Chief Risk Office and Risk & Compliance Shared Services (RCSS)
+-  Challenge and guide first line of defense teams on control design and risk mitigation in a way that promotes accountability and proactive risk management
