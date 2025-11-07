@@ -1,0 +1,523 @@
+Financial Risk Sheet Link: https://docs.google.com/spreadsheets/d/1ADUb9Q48wy5AgX_6jeBDwKf-25CohyxOeXVZSWbfS7o/edit?gid=823198180#gid=823198180
+
+Job Description 1
+- Barclays, Risk Analyst, Noida, Uttar Pradesh, India
+- 0-3 years (Entry Level)
+- Bachelor's degree in Engineering, Technology, Statistics, Mathematics, Economics, Operational Research, or MBA
+- Development and maintenance of a variety of risk reports, including credit, market, operational, and liquidity risk reports, and regulatory reports
+- Extraction of risk data from various sources, including internal systems, risk models, and external market data feeds
+- Analysis of risk data to identify trends, patterns, and outliers, and assess the impact of risk exposures
+- Monitoring key risk indicators and metrics to identify emerging risks and track the effectiveness of risk mitigation strategies
+- Development and implementation of risk reporting improvements and automation initiatives
+- To perform prescribed activities in a timely manner and to a high standard consistently driving continuous improvement
+- Requires in-depth technical knowledge and experience in their assigned area of expertise
+- Thorough understanding of the underlying principles and concepts within the area of expertise
+- Will have an impact on the work of related teams within the area
+- Partner with other functions and business areas
+- Takes responsibility for end results of a team's operational processing and activities
+- Escalate breaches of policies / procedure appropriately
+- Take responsibility for embedding new policies/ procedures adopted due to risk mitigation
+- Advise and influence decision making within own area of expertise
+- Take ownership for managing risk and strengthening controls in relation to the work you own or contribute to
+- Deliver your work and areas of responsibility in line with relevant rules, regulation and codes of conduct
+- Maintain and continually build an understanding of how own sub-function integrates with function, alongside knowledge of the organisations products, services and processes within the function
+- Demonstrate understanding of how areas coordinate and contribute to the achievement of the objectives of the organisation sub-function
+- Make evaluative judgements based on the analysis of factual information, paying attention to detail
+- Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents
+- Guide and persuade team members and communicate complex / sensitive information
+- Act as contact point for stakeholders outside of the immediate function, while building a network of contacts outside team and external to the organisation
+
+---
+
+Job Description 2
+- Deutsche Bank, Credit Risk Analyst (Global Credit Analytics Team), Pune, Maharashtra, India
+- 0-2 years (Entry Level)
+- Master's degree (MSc/MA/MBA/CA/CFA) or relevant professional qualifications
+- Undertake accurate and timely credit analysis of counterparties (including Corporates and FIs) by identifying business and financial risk based on understanding of business models, financial statement analysis, preparing cash flow model/ forecast and peer analysis
+- Write Rating reports and credit reviews/analysis for recommendation to Senior members for approval
+- Active participation in Live trades with onshore credit officers (KCP) by understanding the trade dynamics, providing your recommendation and completing the credit write-ups (Addendum) for the same
+- Monitoring of limits/exposure: Updating Limit amendments and credit relevant data updates in the credit system
+- Identify areas of risk challenges and monitor emerging risks to provide insights
+- Preparation and analysis of decision-making materials (such as reports, dashboards, etc) for effective Risk Monitoring
+- Ensure appropriate messaging in various Senior Management Forums based on read across Risk information (e.g. loss themes, metrics, Findings/SIIs and other contextual information)
+- Perform Quality Assurance on New Product/ Transactions in the Bank and other Risk Framework inputs like Events and Self-Identified issues
+- Production and data analytics of risk metrics at asset and portfolio level
+- Impact analysis of change in market data on market risk metric
+- Execution of market risk calculation processes and process enhancements. Management of Front-to-back SLAs and KPI's
+- Market risk and stress testing analytics
+- VaR (primarily Historical Simulation based) and backtesting analysis at Asset Class and Portfolio level
+- Create / update market data models to incorporate in VaR calculation
+- Impact analyses of impending regulatory changes as well as ongoing methodology and system enhancement related changes
+- Automation through usage of Python, Tableau and other internal strategic architecture
+- Perform the IPV (Independent Price Verification) processes on vanilla & exotic products like Bonds, IR Swaps, Swaption, Inflation Swaps, Inflation Options, CDS, FX Options, etc. analyze and explain the outputs, identify drivers for variance, and publish the results to a broader audience
+- Discuss price testing results, fair value and model reserves, general modelling issues / uncertainties with front office and reporting on suitability for specific products / markets
+- Prepare MIS pack presentation and report the same to senior Management, Front Office, Risk Management, and Finance
+- Take ownership of the process and models, thoroughly understand the underlying financial and mathematical concepts, and make changes / improvements, in consultation with other stakeholders, if situation warrants
+- Coordinate accountability of critical risk reports, including delivery / write-up of thematic key risk development updates
+- Undertake targeted (cross) risk reviews, challenge stakeholder input and clearly articulate recommendations in a timely manner
+- Accountable for the timely delivery of input deliveries across risk types, provide guidance on timelines, expected content etc
+- Perform quality control checks over incoming and outgoing deliveries (both content and format)
+
+---
+
+Job Description 3
+- JPMorganChase, Model Risk Program Analyst, Bengaluru, Karnataka, India
+- 0-2 years (Entry Level)
+- Master's degree in a quantitative field such as Math, Physics, Engineering, Statistics, Economics or Finance
+- Deep understanding of statistical/econometric models such as linear, logistics and time series models
+- Proficiency in Python, R, or equivalent
+- Work with the MRM group to validate and support models, methodologies, and reporting of risks throughout the organization
+- Produce and analyze validation reports by extracting meaningful insights from data and synthesize them into a compelling validation narrative
+- Provide detailed analysis and documentation of methods, techniques, and findings
+- Ensure the clarity, consistency, and accuracy of model validation reports by applying strong technical writing skills to articulate key takeaways
+- Develop and deliver engaging presentations of analytical findings to stakeholders
+- Identify opportunities for improvement and automation in reports and implement enhancements as needed
+- Engage with domain experts to develop and refine risk best practices, policies, and procedures
+
+---
+
+Job Description 4
+- Agam Capital, Quantitative Risk Analyst, Vikhroli, Mumbai, Maharashtra, India
+- 1-2 years (Junior Level)
+- Engineering Graduate from IIT / BITS Pilani / ISI / IISc / IISERs along with CFA/FRM L1 or relevant experience
+- Advanced Excel, SQL, Python, Critical thinking & Problem Solving, Stakeholder management, Mathematics (Algebra & Calculus)
+- Quantify portfolio risk metrics & investment compliance & monitor Market movers, credit migration, downgrades & spread shifts
+- Advance stress testing and scenario analysis (rate shocks, LCR, GFC shocks, collateral erosion scenarios), and track collateral adequacy
+- Partner with Investment team, Actuarial, and compliance team for upgrading risk methodology and escalate policy breaches or risk limit exceptions
+- Support asset-liability management (ALM) by monitoring duration gaps, PV01 ladders, stress scenarios, curve risk and support repositioning strategies
+- Develop (ERM) reports for management, highlighting breaches, triggers, key vulnerabilities & exposures, compliance status, and ALM sensitivities and Escalate and document policy breaches, hedge program deviations, and liquidity concerns
+
+---
+
+Job Description 5
+- Barclays, Liquidity Risk Reporting Analyst, Chennai, Tamil Nadu, India
+- 1-3 years (Junior Level)
+- Bachelor's degree in Finance, Economics, Mathematics, Statistics or related field
+- Strong analytical and quantitative skills
+- Understanding of regulatory frameworks and compliance requirements
+- Develop and maintain liquidity risk reporting frameworks and dashboards
+- Extract and analyze liquidity risk data from various sources and systems
+- Identify liquidity risk trends, patterns, and emerging risks
+- Prepare liquidity risk reports for management and regulatory submissions
+- Validate data integrity and accuracy across liquidity risk data flows
+- Collaborate with trading, treasury, and risk teams to understand liquidity exposures
+- Monitor key liquidity metrics and indicators against regulatory requirements
+- Support regulatory compliance through timely and accurate reporting
+- Enhance reporting processes through automation and process improvements
+
+---
+
+Job Description 6
+- ING Bank, Market Risk Analyst, Sydney, Australia
+- 1-3 years (Junior Level)
+- Bachelor's degree in Finance, Economics, Mathematics, Statistics, or related field
+- Experience with financial markets and trading platforms
+- Proficiency in Excel and SQL
+- Analyze market risk exposure across asset classes and portfolios
+- Develop and maintain market risk models and methodologies
+- Produce market risk reports and dashboards for senior management
+- Monitor market risk indicators and metrics
+- Conduct stress testing and scenario analysis
+- Support regulatory compliance and reporting requirements
+- Collaborate with trading and treasury teams on market risk initiatives
+- Identify and implement market risk improvements and enhancements
+
+---
+
+Job Description 7
+- Citi, Credit Risk Analyst - Officer, Mumbai, Maharashtra, India
+- 0-2 years (Entry Level)
+- Bachelor's/University degree or equivalent experience
+- The primary focus of the position is data quality support of global contract negotiations and trades which includes document review, data entry, exception reporting along with document scanning and document warehousing
+- The ideal candidate must have excellent technical skills and the ability to learn and work with a very complex in-house data management system
+- The position will require gaining a detailed familiarity with Citi's standard forms of documentation, technology, and internal procedures
+- Appropriately assess risk when business decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency
+- Makes judgments and recommendations based on analysis and specialty area knowledge
+- Researches and interprets factual information
+- Identifies inconsistencies in data or results, defines business issues and formulates recommendations on policies, procedures or practices
+- Exchanges information in a concise and consistent way as well as be sensitive to diverse audience
+
+---
+
+Job Description 8
+- slice, Business Analyst - Credit Risk Strategy, Bengaluru, Karnataka, India
+- 1-2 years (Junior Level)
+- Bachelor's degree in Finance, Economics, Business, or related field
+- 1-2 years experience in analytics
+- Expertise in databases and scripting languages (Advanced SQL, Basic Python/R, Advanced Excel)
+- Ability to draw conclusions from data and recommend actions
+- Break down a business problem into different smaller problems
+- Work with key leaders in the company to get a deeper understanding of the business problem at hand
+- Coordinate with the data team to ensure that data is available in the required format ready to be consumed by you
+- Generate insights from the data and come up with recommendations
+- Convince the relevant stakeholders to get your recommendations implemented
+- Measure the impact post-implementation and take further steps if necessary
+
+---
+
+Job Description 9
+- WeCredit, Risk Analyst, Delhi, Delhi, India
+- 0-1 years (Entry Level)
+- Bachelor's/Master's degree in Finance, Economics, Statistics, Data Science, or a related field
+- Advanced SQL skills (mandatory) - ability to write complex queries, optimize performance, and handle large datasets
+- Strong analytical, problem-solving, and quantitative skills
+- Analyze credit, operational, and portfolio risks across different products and business lines
+- Develop, review, and implement risk policies, processes, and controls in line with regulatory and business requirements
+- Monitor and evaluate borrower performance, repayment trends, and default risks using data-driven methods
+- Work closely with collections, product, and operations teams to align risk strategies with business goals
+- Prepare risk assessment reports and dashboards for management and compliance teams
+- Identify early warning signals, create scorecards/models, and provide recommendations to minimize exposure
+- Ensure compliance with RBI and NBFC regulatory requirements related to risk management
+
+---
+
+Job Description 10
+- EY, Analyst - Business Consulting Risk - TMT - CNS - Risk - Process & Controls, Hyderabad, Telangana, India
+- 0-1 years (Entry Level)
+- Bachelor's degree in Commerce, Management, Accounting, Finance or Economics
+- Available to travel outside of their assigned office location at least 50% of the time
+- 0 to 1 year of post-qualification experience
+- Technical Excellence: Understanding of systems delivery lifecycles and delivery methodologies
+- In depth understanding of business processes, financial products, market risk management and regulatory requirement
+- People with the ability to work in a collaborative manner to provide services across multiple client departments while following the commercial and legal requirements
+- Practical approach to solving issues and complex problems with the ability to deliver insightful and practical solutions
+- Agile, curious, mindful and able to sustain positive energy, while being adaptable and creative in their approach
+
+---
+
+Job Description 11
+- American Express, Analyst - Risk Management, Gurugram, Haryana, India
+- 0-1.5 years (Entry Level)
+- MBA, Master's Degree In Economics, Statistics, Computer Science or related fields
+- 0-18 months of experience in analytics
+- Ability to drive project deliverables to achieve business results
+- Ability to work effectively in a team environment
+- Development, review and/or execution of economic logic & analytical solutions to drive profitable credit business actions
+- Understand the core business of AXP and the levers behind various decisions
+- Analyze large amounts of data to derive business insights and create innovative solutions
+- Leverage the power of closed loop through Amex network to make decisions more intelligent and relevant
+- Innovate with a focus on developing newer and better approaches using big data & machine learning solution
+- Clear articulation and structuring of business findings across prospect and customer domain to the leadership and key partners
+- Maintain external lens and be aware of developments in the field of Finance/Payments/Analytics etc
+
+---
+
+Job Description 12
+- ICE, Risk Analyst, Model Risk Management, Hyderabad, Telangana, India
+- 1-2 years (Junior Level)
+- Master's degree or higher in Economics, Finance, Statistics, Mathematics or related field
+- Strong analytical and problem-solving skills with a solid understanding of statistical concepts - descriptive statistics, data visualization, probability, distributions, linear models, time series, etc.
+- Competent in programming with either Python or R, as well as SQL
+- Excellent presentation, verbal communication, and business writing skills
+- Work with the MRM group to validate and support models, methodologies, and reporting of risks throughout the organization
+- Produce and analyze validation reports by extracting meaningful insights from data and synthesize them into a compelling validation narrative
+- Provide detailed analysis and documentation of methods, techniques, and findings
+- Ensure the clarity, consistency, and accuracy of model validation reports by applying strong technical writing skills to articulate key takeaways
+- Develop and deliver engaging presentations of analytical findings to stakeholders
+- Identify opportunities for improvement and automation in reports and implement enhancements as needed
+- Engage with domain experts to develop and refine risk best practices, policies, and procedures
+
+---
+
+Job Description 13
+- CRISIL, Data Analyst - Credit Risk, Bengaluru, Karnataka, India
+- 1-2 years (Junior Level)
+- Bachelor's degree in Finance, Statistics, Data Science, Engineering, or related field
+- Python, SQL, SAS, Excel, Pyspark
+- Prior project management experience with knowledge of Agile methodology and exposure to project management tools like Jira, Confluence, GITHUB
+- Exposure to Credit Risk / Credit Risk Management framework
+- Ability to convert business problem to an analytical problem and then finding pertinent solutions
+- Overall business understanding of BFSI domain
+- Providing high-quality analysis and recommendations to business problems
+- Efficient project management and delivery
+- Ability to conceptualize data driven solutions for the business problem at hand for multiple businesses/region to facilitate efficient decision making
+- Focus on driving efficiency gains and enhancement of processes
+- Use of data to improve customer outcomes through the provision of insight and challenge
+- Also drive business benefit through self-initiated projects
+- Good attitude of a team player, working with a mixed cultural team across the globe
+- Liaise with different stakeholders – business teams, business analysts, product owners, data engineers, platform developers etc
+- Demonstrate leadership qualities in terms of bringing the junior members up the learning curve and handholding them whenever necessary
+- Working with an Agile mindset, using regular project management tools like Jira, Confluence, GitHub etc. to share updates and remaining on top of the work
+- Complete adherence to overall Management of Risk/Internal Controls/Compliance for self and the team
+
+---
+
+Job Description 14
+- Toast, Fraud & Risk Execution Analyst, Bengaluru, Karnataka, India
+- 1-2 years (Junior Level)
+- Bachelor's or Master's in Industrial Engineering, Operations Research, Data Science, or similar
+- Strong analytical skills and fluency in SQL, Excel, and data visualization
+- Excellent judgment and attention to detail when handling ambiguous data
+- Operational mindset — able to identify root causes and recommend scalable process fixes
+- Monitor real-time fraud alerts, patterns, and anomalies in transaction data
+- Execute fraud prevention playbooks and update workflows based on performance
+- Analyze loss trends, false positives, and fraud typologies to improve detection systems
+- Collaborate with data science and engineering to refine fraud scoring models
+- Partner with compliance, legal, and customer success to ensure swift and accurate case resolution
+- Maintain documentation and audit trails for all fraud investigations
+- Identify opportunities to automate and streamline manual review processes
+
+---
+
+Job Description 15
+- Scale AI, Fraud and Risk Analyst (Trust and Safety Specialist), India (Remote)
+- 4+ years (Senior Level)
+- 4+ years of experience in Trust & Safety, Fraud Prevention, Scam or Risk Operations, Compliance, or related areas
+- Strong proficiency in SQL and data analysis
+- Deep understanding of global privacy, regulatory, and risk management frameworks
+- Manage and resolve complex, high-impact cases involving fraud, scams, privacy, compliance, and emerging risk trends
+- Conduct deep risk assessments and investigations using internal tools, product signals, and third-party data sources
+- Use SQL and advanced data analysis to identify patterns, detect anomalies, and inform strategic safety decisions
+- Collaborate across Product, Engineering, and Policy teams to design operational workflows, automation systems, and decision frameworks
+- Translate case insights into actionable feedback to strengthen global trust and safety operations
+- Develop and maintain playbooks, SOPs, macros, and internal knowledge repositories
+- Monitor operational performance through case quality reviews, SLA tracking, and user satisfaction metrics
+- Lead or contribute to global initiatives that improve safety, scalability, and efficiency
+- Provide training and guidance to vendor teams to maintain consistency, accuracy, and excellence in execution
+
+---
+
+Job Description 16
+- DraconX, Financial Analyst, India (Remote)
+- 0-2 years (Entry Level)
+- Bachelor's degree in Finance, Accounting, Economics, or related field
+- Financial Planning, Finance, and Financial Reporting skills
+- Strong Analytical Skills and experience analyzing Financial Statements
+- Excellent written and verbal communication skills
+- Proficiency with financial analysis tools and software
+- Conduct financial planning and analysis activities to support decision-making
+- Analyze financial statements and develop financial reports
+- Provide insightful financial analysis to support business decisions
+- Prepare and present financial data to stakeholders
+- Collaborate with departments to develop budgets
+- Ensure financial accuracy and compliance in all reports
+
+---
+
+Job Description 17
+- Citi, Liquidity Risk Management Lead Analyst - VP, Tampa, Florida, USA
+- 3-5 years (Mid-Senior Level)
+- Bachelor's/Master's degree in Finance, Economics, or related field
+- 3-5 years of experience in liquidity risk management or treasury
+- Strong knowledge of regulatory frameworks (Basel III, LCR, NSFR)
+- Develop and oversee liquidity risk management frameworks and policies
+- Monitor and analyze liquidity exposures across the organization
+- Conduct stress testing and scenario analysis for liquidity risks
+- Prepare comprehensive liquidity risk reports for senior management and regulators
+- Collaborate with treasury and trading teams on liquidity management strategies
+- Ensure compliance with liquidity regulations and supervisory requirements
+- Identify emerging liquidity risks and recommend mitigation strategies
+- Manage liquidity risk infrastructure, models, and systems
+- Provide guidance and mentorship to junior risk analysts
+
+---
+
+Job Description 18
+- Goldman Sachs, Quantitative Risk Analyst, New York, New York, USA
+- 2-4 years (Mid Level)
+- Master's degree in Mathematics, Physics, Statistics, Economics, or related quantitative field
+- Proficiency in programming languages (Python, C++, or Java)
+- Strong understanding of financial products and markets
+- Develop and enhance quantitative risk models across multiple asset classes
+- Conduct model validation and back-testing analysis
+- Analyze and interpret risk metrics and provide insights to business teams
+- Design and implement new risk measurement approaches
+- Collaborate with trading, operations, and compliance teams
+- Create risk documentation and maintain model governance records
+- Support regulatory reporting and stress testing initiatives
+- Identify model enhancements and automation opportunities
+
+---
+
+Job Description 19
+- HSBC, Credit Risk Analyst - Senior, London, United Kingdom
+- 3-5 years (Mid-Senior Level)
+- Bachelor's degree in Finance, Business, Economics, or related field
+- 3-5 years of credit risk management or credit analysis experience
+- CFA or FRM certification preferred
+- Conduct detailed credit analysis of counterparties and transactions
+- Develop credit risk ratings and credit recommendations
+- Monitor portfolio performance and credit quality trends
+- Assess risk concentrations and recommend mitigation strategies
+- Prepare credit risk reports for management and regulatory bodies
+- Collaborate with business teams on credit risk policies and procedures
+- Support new product approval processes from a credit risk perspective
+- Contribute to credit risk methodology development and enhancement
+
+---
+
+Job Description 20
+- JP Morgan, Asset Liability Management Manager, New York, New York, USA
+- 3-5 years (Mid-Senior Level)
+- Bachelor's degree in Finance, Economics, or related field
+- 3-5 years of experience in ALM or treasury management
+- Knowledge of interest rate risk and liquidity management
+- Develop and maintain comprehensive ALM policies and frameworks
+- Monitor asset and liability positions and exposures
+- Conduct interest rate sensitivity analysis and stress testing
+- Optimize liquidity positions and manage funding requirements
+- Prepare ALM reports for management and board oversight
+- Collaborate with treasury, risk, and business teams on ALM strategies
+- Ensure regulatory compliance with ALM requirements
+- Identify and implement ALM process improvements
+
+---
+
+Job Description 21
+- Bank of America, Market Risk Analyst - Portfolio, Charlotte, North Carolina, USA
+- 2-3 years (Mid Level)
+- Bachelor's degree in Finance, Economics, Mathematics, or related field
+- 2-3 years of experience in market risk management
+- Proficiency in risk analytics tools and programming languages
+- Perform portfolio-level market risk analysis and reporting
+- Monitor market risk exposures across trading book
+- Conduct Value-at-Risk (VaR) analysis and stress testing
+- Develop and maintain market risk dashboards and reporting systems
+- Support model validation and governance activities
+- Analyze market data feeds and identify data quality issues
+- Collaborate with trading teams on risk management initiatives
+- Support regulatory capital and stress test reporting
+
+---
+
+Job Description 22
+- Wells Fargo, Liquidity Risk Analyst, San Francisco, California, USA
+- 1-2 years (Junior Level)
+- Bachelor's degree in Finance, Economics, Statistics, or related field
+- 1-2 years of experience in liquidity risk or treasury management
+- Strong analytical and Excel skills
+- Monitor and analyze daily liquidity positions and cash flows
+- Conduct liquidity stress testing and scenario analysis
+- Prepare liquidity risk reports and dashboards
+- Support LCR (Liquidity Coverage Ratio) and NSFR (Net Stable Funding Ratio) monitoring
+- Collaborate with treasury team on liquidity management
+- Identify and escalate liquidity risk issues
+- Assist in developing liquidity policies and procedures
+- Support regulatory compliance and reporting requirements
+
+---
+
+Job Description 23
+- Morgan Stanley, Operational Risk Analyst, London, United Kingdom
+- 1-2 years (Junior Level)
+- Bachelor's degree in Finance, Business, Economics, or related field
+- 1-2 years of experience in operational risk or internal controls
+- Conduct operational risk assessments and control testing
+- Prepare operational risk reports and metrics
+- Monitor key risk indicators and loss events
+- Collaborate with business teams on operational risk management
+- Support regulatory reporting on operational risks
+- Identify process improvement opportunities
+- Maintain documentation of risk assessments and controls
+
+---
+
+Job Description 24
+- UBS, Treasury Risk Manager, Zurich, Switzerland
+- 2-4 years (Mid Level)
+- Bachelor's degree in Finance, Economics, or related field
+- 2-4 years of experience in treasury or risk management
+- Knowledge of international financial regulations
+- Manage treasury risk policies and procedures
+- Monitor and report on treasury risk exposures
+- Conduct interest rate and funding risk analysis
+- Support treasury management decision-making through analysis
+- Ensure compliance with treasury regulations and policies
+- Collaborate with finance and risk teams on treasury initiatives
+- Prepare treasury risk reports for senior management
+
+---
+
+Job Description 25
+- Deutsche Bank, ALM Analyst, Frankfurt, Germany
+- 1-3 years (Junior Level)
+- Bachelor's degree in Finance, Economics, Business Administration, or related field
+- 1-3 years of experience in ALM or treasury
+- Strong Excel and financial modeling skills
+- Analyze and report on asset-liability management positions
+- Develop ALM models and projections
+- Conduct sensitivity analysis for interest rate and liquidity risks
+- Support funding strategy and liquidity management
+- Prepare ALM dashboards and management reports
+- Collaborate with treasury and risk teams
+- Ensure data accuracy and integrity in ALM systems
+
+---
+
+Job Description 26
+- Citi, Market Risk Officer, Singapore
+- 2-3 years (Mid Level)
+- Bachelor's degree in Finance, Mathematics, Economics, or related field
+- 2-3 years of experience in market risk management
+- Proficiency in risk systems and analytics tools
+- Manage market risk measurement and monitoring activities
+- Produce market risk reports and risk metrics
+- Support VaR model development and validation
+- Conduct market risk analysis for various asset classes
+- Collaborate with trading teams on risk management
+- Support regulatory stress testing initiatives
+- Identify opportunities for process improvements
+
+---
+
+Job Description 27
+- ICICI Bank, Credit Risk Manager, Mumbai, India
+- 2-4 years (Mid Level)
+- Bachelor's degree in Commerce, Finance, Business Administration, or related field
+- 2-4 years of experience in credit risk management or credit analysis
+- Knowledge of credit risk frameworks and regulatory requirements
+- Oversee credit risk assessment and monitoring processes
+- Develop and review credit policies and procedures
+- Analyze portfolio credit quality and trends
+- Conduct credit risk stress testing and scenario analysis
+- Prepare credit risk reports for management and regulators
+- Support new product credit risk review
+- Mentor junior team members in credit risk analysis
+
+---
+
+Job Description 28
+- Axis Bank, Senior Liquidity Risk Analyst, Bangalore, India
+- 2-3 years (Mid Level)
+- Bachelor's degree in Finance, Economics, or related field
+- 2-3 years of experience in liquidity risk or treasury management
+- Knowledge of LCR, NSFR, and other liquidity regulations
+- Monitor and analyze intraday and term liquidity positions
+- Conduct liquidity stress testing scenarios
+- Prepare liquidity risk reports and management information
+- Support LCR and NSFR compliance and reporting
+- Identify and escalate liquidity risks and issues
+- Collaborate with treasury and risk teams on liquidity management
+- Contribute to liquidity policy development
+
+---
+
+Job Description 29
+- RBS, Counterparty Risk Analyst, Edinburgh, Scotland
+- 1-2 years (Junior Level)
+- Bachelor's degree in Finance, Economics, Mathematics, or related field
+- 1-2 years of experience in counterparty risk or credit risk
+- Strong analytical and technical skills
+- Monitor and analyze counterparty exposures and credit risk
+- Prepare counterparty risk reports and metrics
+- Support counterparty risk limit management
+- Conduct counterparty risk analysis and stress testing
+- Collaborate with trading and credit teams
+- Support regulatory reporting on counterparty risks
+- Identify emerging counterparty risks
+
+---
+
+Job Description 30
+- Nomura, Financial Risk Analyst, Tokyo, Japan
+- 2-3 years (Mid Level)
+- Bachelor's degree in Finance, Economics, Mathematics, or related field
+- 2-3 years of experience in financial risk management
+- Proficiency in financial risk analysis tools and programming
+- Develop and enhance financial risk models and methodologies
+- Conduct financial risk analysis across business units
+- Prepare financial risk reports and metrics
+- Support model validation and governance
+- Collaborate with trading and risk teams on financial risk initiatives
+- Support regulatory capital and stress testing
+- Identify opportunities for process and model improvements
