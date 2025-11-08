@@ -1,0 +1,787 @@
+Technology & Cyber Risk Sheet Link : https://docs.google.com/spreadsheets/d/1PPwnb1QKnp2RlxV1XCMrDJu98kwyFcwHQwO5u8Ytfpc/edit?gid=823198180#gid=823198180
+
+Job Description 1
+- Company: Accenture
+- Role: Cyber Risk Analyst
+- 1-3 years
+- Bachelor's Degree in Computer Science, Information Security, Cybersecurity, or a related field
+- Location: Malaysia
+- Conduct comprehensive security risk assessments to identify vulnerabilities, evaluate potential threats, and recommend security enhancements
+- Work with cross-functional teams to implement risk management strategies across the organization
+- Assist in the identification, assessment, and mitigation of security risks across the organization
+- Prepare detailed reports on risk assessments, security incidents, compliance activities, and security audit findings for stakeholders
+- Perform regular cybersecurity assessments, including penetration testing, vulnerability scanning, and security audits to identify weaknesses and recommend remediation measures
+- Evaluate and implement security measures within the software development lifecycle (SDLC) to ensure secure coding practices and minimize vulnerabilities in applications
+- Support incident detection, investigation, and resolution activities
+- Help design and implement incident response plans ensuring security incidents are managed effectively and promptly
+- Lead and manage GRC (Governance, Risk, and Compliance) processes ensuring alignment with regulatory requirements, internal policies, and industry best practices
+- Ensure documentation of all security processes, policies, and procedures
+- Work closely with IT teams, developers, and business units to ensure security and compliance are integrated into business operations, systems, and technologies
+- Collaborate with cross-functional teams to ensure that security and compliance are integrated into business operations
+
+---
+
+Job Description 2
+- Company: Sage
+- Role: Cyber Security Risk Analyst
+- 3-8 years (Mid to Senior Level)
+- Bachelor's degree preferred; proven experience in cyber security with demonstrable experience in risk assessment and security auditing
+- Location: Gurugram, India (Hybrid)
+- Own the risk assessment lifecycle and lead detailed technical security audits across cloud and on-premises environments
+- Design and execute IT controls testing with evaluation of technical controls effectiveness
+- Drive remediation with engineering and product teams ensuring effective resolution of identified issues
+- Combine a risk and compliance mindset with strong technical depth in modern enterprise security tooling
+- Apply strong knowledge of ISO 27001/27002 and NIST CSF with familiarity across NIST 800-53, CIS Controls, SOC 2, and PCI DSS
+- Hands-on experience assessing Microsoft and Azure security including Entra ID, Defender suite, Sentinel, Intune, Azure Policy, and Purview
+- Conduct comprehensive security assessments in Identity and Access, Cloud Security (Azure, AWS), Data Protection, SecOps, and DevSecOps environments
+- Possess solid grasp of ITGCs and evidence-based testing methods with excellent audit documentation and reporting skills
+- Technical literacy across networks, identity, cloud, endpoints, logging/monitoring, and secure configuration
+- Use GenAI and Agentic AI to enhance work practices and automate GRC processes
+- Develop relationships with key technical position holders across locations and functions
+- Provide excellent communication skills expressing ideas and messages clearly both written and verbally
+- Audit and security certifications such as CISA, CISSP, CISM, ISO 27001 Lead Auditor/Implementer or equivalent experience preferred
+
+---
+
+Job Description 3
+- Company: First Citizens Bank
+- Role: Cyber Risk Analyst III
+- 6-10 years (Senior Level)
+- Bachelor's Degree and 6+ years of experience in cyber risk management; or High School Diploma/GED and 10+ years of experience in cyber risk management
+- Location: Raleigh, North Carolina (Remote eligible)
+- Lead and execute cybersecurity risk assessments across cyber domains, business units, and technology environments
+- Evaluate control effectiveness against established frameworks and regulatory expectations
+- Identify risk exposures and document findings in clear, actionable terms
+- Identify potential risks across operational, technology, and regulatory domains
+- Work with stakeholders to define and track remediation plans ensuring timely and effective resolution of identified issues
+- Facilitate risk mitigation strategies aligned to business objectives and regulatory standards
+- Apply industry-standard frameworks such as NIST Cybersecurity Framework (CSF), NIST SP 800-53, ISO 27001, and FFIEC guidelines
+- Conduct gap analyses and interpret requirements for closing compliance or control gaps
+- Leverage strong technical knowledge of core cybersecurity domains including identity and access management, network security, cloud security, endpoint protection, vulnerability management, and security architecture
+- Provide informed insights on technical risk mitigation strategies
+- Collaborate with business, technology, and control owners to communicate assessment results
+- Educate stakeholders on risk management expectations and promote awareness of cybersecurity risks
+- Support a culture of accountability and continuous improvement in risk management practices
+- Coach and mentor less experienced team members to facilitate their development in IT risk management practices
+- Aggregate, analyze, and report risk assessment results providing actionable insights for informed decision-making
+- Develop and maintain risk assessment reports and dashboards
+- Communicate trends, patterns, and emerging risks to leadership providing transparency into the organization's cyber risk profile
+- Track remediation progress, escalate overdue actions, and highlight areas requiring additional oversight
+- Maintain awareness of changes in industry standards, threat landscape, and regulatory requirements
+- Incorporate emerging practices into the organization's risk assessment methodology
+
+---
+
+Job Description 4
+- Company: EY
+- Role: Incident Response Manager (Cybersecurity, Technology Risk)
+- 5+ years (Senior/Management Level)
+- A recognized university degree in Computer Science, Computer/Electrical Engineering or related field with prior experience in consulting
+- Location: Global positions available
+- Lead and manage incident response engagement assisting clients in time of emergency to respond to cyber security incidents
+- Work with a team of cyber security experts to lead, manage, and deliver incident response engagements
+- Lead and manage incident response measures to ensure threats are accurately assessed, contained, mitigated, and reported
+- Oversee the monitoring, analysis, and triaging of security events
+- Identify and propose realistic solutions and improvements for complex issues
+- Develop innovative solutions for clients on a variety of local and international engagements
+- Inspire, manage, and lead a team of experienced security consultants
+- Carry out high quality and insightful digital forensic investigations and incident response engagements in highly complex environments
+- Assist clients in addressing concerns around potential and actual breach of their technology, business systems, and information assets
+- Use pragmatic and industry recognized approach to work with client's IT team
+- Deploy Endpoint Detection and Response (EDR) tools, collect system artifacts, reconstruct event timelines, and coordinate containment efforts
+- Actively identify and support business development opportunities across existing or future client work
+- Familiar with managing project budgets and balancing quality client outcomes, expected timeframes, and budget constraints
+- Demonstrate strong belief in diversity and inclusiveness
+- Practical knowledge and experience in Security Operations and Monitoring, Digital Forensic, Security Incident Management and Response, Identity & Access Management, Vulnerability Management, Cloud Security, DevSecOps
+- Understanding of Endpoint Detection and Response (EDR) technologies including Microsoft Advanced Threat Protection (ATP), CrowdStrike Falcon, VMware Carbon Black, Sentinel
+- In-depth business acumen and ability to assimilate cyber concepts quickly
+- Good knowledge of new developments in cyber services capabilities and industry knowledge
+- Good working knowledge of information security principles, techniques, and standards
+- Professional certifications such as CISSP, CRISC, CISA, CISM, GCIH, GCFA, GCFE, GREM or other relevant qualifications preferred
+
+---
+
+Job Description 5
+- Company: Callaway Golf
+- Role: IT Risk Analyst
+- 4-6 years (Mid to Senior Level)
+- Bachelor's degree in Computer Science, Information Technology, or related field
+- Location: Carlsbad, California
+- Lead discussions with IT Leadership to identify and assess major risks across the IT landscape
+- Perform quantitative and qualitative risk impact analyses to assist management in the decision-making process
+- Apply the methodology for the identification, measurement, and monitoring of information security and cybersecurity risks
+- Conduct regular risk assessments and audits of IT systems to identify potential vulnerabilities
+- Ensure compliance with relevant standards and regulations
+- Assist with the development, implementation, and maintenance of Information Security policies and procedures
+- Ensure compliance with industry standards and regulations
+- Responsible for leading, tracking, and monitoring IT risk remediation efforts globally
+- Monitor compliance with IT security policies and procedures
+- Prepare detailed reports for management on the organization's risk profile and compliance status
+- Work closely with IT teams, management, and other stakeholders to ensure compliance issues are addressed and understood across the organization
+- Communicate with internal clients and stakeholders to resolve issues and discrepancies effectively
+- Coordinate and support internal and external audits related to IT compliance and security
+- Provide effective communication to IT Leadership on the status of risk environment and progress of remediation efforts
+- Strong understanding of IT systems, networks, and security protocols required
+- Familiarity with compliance frameworks and standards such as COSO, COBIT, ISO 27001, NIST, and GDPR
+- Excellent analytical and problem-solving skills required
+- Effective communication and interpersonal skills to engage effectively with stakeholders at all levels
+- Ability to manage multiple projects and priorities in a dynamic environment
+
+---
+
+Job Description 6
+- Company: Centric Software
+- Role: Incident Response Manager
+- 7+ years (Senior/Management Level)
+- Bachelor's degree in Cybersecurity, Computer Science, Information Technology, or related field
+- Location: Canada or US (Remote)
+- Take charge of major security incidents coordinating resources, teams, and communication to resolve security breaches in effective and timely manner
+- Serve as subject matter expert leading incident response efforts to mitigate and manage security incidents across global enterprise
+- Play critical role in protecting the organization from cyber threats by leading response efforts, managing the incident lifecycle, and ensuring swift remediation
+- Lead the organization's cyber incident response efforts including incident detection, containment, eradication, recovery, and post-incident analysis
+- Oversee the identification and triage of security events ensuring proper classification and prioritization of incidents based on severity
+- Manage the security incident response lifecycle from initial detection through resolution
+- Provide expert advice during high-pressure situations requiring strong communication skills and customer-focused presence
+- Engage with senior stakeholders requiring high-level incident briefings and status updates
+- Lead cross-functional teams during active incident response operations
+- Develop and implement security policies, procedures, and standards for incident response
+- Conduct security risk assessments and gap analyses across networks, systems, applications, and cloud environments
+- Implement and manage security tools and technologies for threat detection and response
+- Monitor network and system logs for anomalies, intrusion attempts, and malicious activity
+- Oversee incident detection, response, containment, and forensic analysis during security events
+- Direct security operations and coordinate with IT teams during crises
+- Mentor team members on incident response best practices and security procedures
+- Develop strong incident response playbooks and procedures
+- Ensure documentation and reporting of all security incidents
+
+---
+
+Job Description 7
+- Company: Dexian
+- Role: Senior Cloud Security & Risk Analyst
+- 5-8 years (Senior Level)
+- Hands-on experience with architecture reviews and solution design
+- Location: Remote (Night shift 6:30PM-3:30AM IST, with availability for Eastern/Central US business hours)
+- Interpret technical diagrams and identify risk across systems
+- Apply GRC (Governance, Risk & Compliance) security controls and work with teams to remediate gaps
+- Push back on architectural decisions where risk thresholds are exceeded
+- Leverage RSA Archer for risk tracking, compliance documentation, and audit processes
+- Communicate clearly and proactively with stakeholders managing updates without follow-up from PMs
+- Collaborate across teams to support risk posture and solution alignment
+- Deep understanding of inherent risk and ability to assess risk in complex environments required
+- Experience applying GRC frameworks and security controls
+- Comfortable interpreting architecture diagrams and technical system flows
+- Strong knowledge of technical systems and enterprise design patterns
+- Excellent verbal and written communication skills with ability to proactively engage with stakeholders
+- Must be responsive over email and instant messaging platforms
+- Certifications or coursework in risk management such as C-Risk or CISM preferred
+- Assess risk in complex enterprise environments
+- Review architectural decisions for security and compliance alignment
+
+---
+
+Job Description 8
+- Company: SPECIAL AEROSPACE SECURITY SERVICES INC
+- Role: Cyber Risk Analyst
+- 3-5 years (Mid-Level)
+- Bachelor's degree in Computer Science, Cybersecurity, Information Technology, or related field; Top Secret Security Clearance (minimum Secret)
+- Location: Washington, DC 20500 (Remote)
+- Conduct cybersecurity risk assessments of supply chain vendors, partners, and suppliers
+- Analyze risks across hardware, software, third-party services, and data management processes
+- Develop mitigation strategies that strengthen supply chain resilience
+- Collaborate with procurement and vendor management teams
+- Ensure cybersecurity requirements are embedded in contracts and agreements
+- Continuously monitor supply chain risks staying current on emerging threats
+- Provide senior leadership with clear, actionable reporting on supply chain cyber risks
+- Evaluate risks tied to hardware, software, third-party services, and data management
+- Support supply chain risk management program activities
+- Document findings and maintain risk assessments in organized manner
+- Maintain consistent availability during core business hours 8:30 AM to 3:30 PM EST
+- Participate in virtual meetings and collaborative working sessions
+- Ensure prompt communication via Microsoft Teams, email, and other platforms
+- Familiarity with supply chain regulatory requirements such as CMMC and DFARS
+
+---
+
+Job Description 9
+- Company: Rockland Trust (The Bank)
+- Role: Senior IT Risk Analyst
+- 4-6 years (Senior Level)
+- Bachelor's degree with 4-6 years of experience in IT audit and control testing
+- Location: Rockland, Massachusetts
+- Identify, assess, and document IT risks to validate that potential risks are known and managed effectively and adequately
+- Conduct inherent and residual risk assessments utilizing results of risk assessment and control testing activities
+- Lead and document walkthroughs to validate understanding of controls and identify gaps
+- Identify necessary evidence to support thorough risk assessments
+- Effectively challenge stakeholders to ensure accurate, comprehensive, and timely responses to inquiries
+- Coach and mentor less experienced team members to facilitate development in IT risk management practices
+- Aggregate, analyze, and report risk assessment results providing actionable insights
+- Drive informed decision-making and improvements through comprehensive reporting
+- Collaborate with IT infrastructure and other stakeholders to strengthen relationships
+- Embed IT risk management practices within the broader First Line of Defense
+- Contribute to and support the growth of the IT risk management program
+- Promote risk awareness and best practices across the organization
+- Support the development of IT risk management program processes and procedures
+
+---
+
+Job Description 10
+- Company: Citi (Citigroup)
+- Role: Cloud Security Analyst
+- 3-5 years (Mid to Senior Level)
+- Bachelor's degree/University degree or equivalent experience; 3+ years' Data Analysis experience; 1-2 years' hands-on experience with Cloud platforms (AWS, GCP, Azure)
+- Location: Rutherford, New Jersey (Hybrid)
+- Develop corrective action language for Information Security (IS) gaps ensuring risk closure meets Citi requirements or industry best practices
+- Create Business Requirement Documents (BRDs) for implementation and integration of security controls
+- Utilize Security Information and Event Management systems (SIEMs) to verify control implementation and collect relevant metrics
+- Run Cloud Continuous Monitoring reporting/metrics governing all security compliance/hygiene issues across entire Cloud ecosystem
+- Manage the security project workstream using JIRA to create, track, and follow-up on tasks
+- Collect security-related operational metrics through automation increasing security visibility across the organization
+- Measure the coverage and effectiveness of security tools providing transparency over the security state of the Cloud
+- Mitigate risk by analyzing root cause of issues, impacts to business, and required corrective actions
+- Develop security solutions to address identified risks and gaps
+- Analyze large amounts of data and generate actionable metrics
+- Create presentations for key stakeholders
+- Work specifically with Cloud security monitoring and logging tooling
+- Produce high quality and actionable metrics from various security and management tools
+- Manage project workflows via JIRA and Confluence
+- Provide Information Security advice and counsel as needed
+- Demonstrate appropriate consideration for the firm's reputation and safeguarding Citigroup, its clients, and assets
+- Drive compliance with applicable laws, regulations, and Citi Policy
+- Apply sound ethical judgment regarding personal behavior, conduct, and business practices
+- Escalate, manage, and report control issues with transparency
+- Strong foundational knowledge of Cloud security concepts/best practices in various Cloud Service Providers
+- Experience with SIEM tooling such as Splunk and ArcSight
+- Strong proficiency in Excel, PowerPoint, and other tools
+- Consistently clear and concise written and verbal communication
+
+---
+
+Job Description 11
+- Company: Accenture
+- Role: Cybersecurity and Incident Response Specialist
+- 2-4 years (Mid-Level/Entry to Mid)
+- Bachelor's degree in Computer Science, Information Security, Cybersecurity, or related field
+- Location: Global positions available
+- Act as the first responder for cyber-security incidents identified through different channels
+- Investigate cases including Acceptable Use Policy / Code of Business Ethics Violations, Malware, Fraud, Intellectual Property Theft, Industrial Espionage, Cyber Attack/Hacking/APT/Security Breaches, and Mobile Devices
+- Execute documented processes within all activities of the CIRT (Computer Incident Response Team) playbook and security incident response lifecycle
+- Escalate security events depending on determined crisis levels to management in accordance with incident response plan
+- Collect, preserve, and process volatile information and evidence needed to conduct highly-confidential forensic investigations
+- Conduct investigation of digital evidence including storage media, electronic data, mobile devices, and volatile media
+- Ensure forensic investigation and incident response procedures comply with standard operating procedures, processes, policies, guidelines, and forensics best practices
+- Examine and analyze security events or incidents related to technology infrastructure
+- Employ technical, investigative, and analytical skills to solve wide range of complex issues or problems
+- Coordinate and resolve or provide recommendations for containment and remediation steps until security incident closure
+- Produce detailed written reports outlining circumstances around the incident presenting forensic evidence to non-technical audience
+- Provide further input as expert opinion and present investigation results
+- Communicate findings to internal stakeholders, senior management, auditors, clients, and testify in court as expert witness as necessary
+- Participate in improvement and development of forensic methodologies, process/procedure manuals, and documentation
+- Periodically make recommendations aiding in successful completion of highly complex and technical projects
+- Complete varied complex and non-standard tasks in assigned area of responsibility
+- Provide eDiscovery and litigation support to identify, preserve, collect, process, review, and produce electronically stored information (ESI)
+- Mentor and provide guidance to incident response staff on security best practices, processes, procedures, and countermeasures
+
+---
+
+Job Description 12
+- Company: Hudson Manpower
+- Role: Cyber Risk Analyst
+- 1-3 years (Entry to Mid-Level)
+- Bachelor's degree or High School Diploma with relevant cybersecurity experience
+- Location: Cincinnati, Ohio (Remote in EST)
+- Support the Cyber Risk Management (CRM) program by assisting in day-to-day operational tasks
+- Build table-based reporting using tools like PowerBI organizing data and maintaining reporting output
+- Document job aids and support stakeholder communication
+- Perform data entry and reporting of cyber risks
+- Work with data, reporting, and data collection activities
+- Analyze cybersecurity risks and vulnerabilities
+- Develop and maintain risk assessments and documentation
+- Support Business Impact Analysis (BIA) activities
+- Strong organizational and documentation skills required
+- Proficient using Excel, Power BI, or other reporting tools
+- Ability to follow defined procedures and templates
+- Effective written and verbal communication for coordination
+- Ability to familiarize with large, complex enterprise systems
+- Basic familiarity with cybersecurity principles and risk concepts
+- Business process analysis knowledge
+- At least some exposure to cyber role or cyber risk experience
+
+---
+
+Job Description 13
+- Company: nTech Workforce
+- Role: Digital Forensics and Incident Response (DFIR) Manager
+- 5-9 years (Senior/Management Level)
+- Bachelor's degree in Cybersecurity, Computer Science, Information Technology, or equivalent experience
+- Location: Hyderabad, Telangana (India)
+- Lead client-facing incident response and forensic engagements as technical lead and engagement manager
+- Require strong incident command skills particularly with ransomware cases
+- Ability to align technical, legal, and business workstreams
+- Oversee multiple engagements to ensure quality, consistency, and effective coordination across team
+- Serve as mentor and escalation point for supervisors and consultants
+- Maintain strong relationships with clients, counsel, and insurers
+- Lead multiple client-facing incident response and forensic engagements ensuring quality and consistency across delivery
+- Serve as incident commander during active crises coordinating technical, legal, and business response efforts
+- Define engagement scope, objectives, and communication plans from the outset
+- Act as trusted advisor to clients, external counsel, and cyber insurers providing clear direction under pressure
+- Supervise and mentor team members fostering accountability, growth, and strong client communication
+- Review and deliver concise reports translating technical findings into actionable insights for executives
+- Support practice development through playbook refinement, process improvement, and knowledge sharing
+- Participate in on-call rotation and provide oversight during critical incidents
+- Technical expertise in digital forensics and incident response
+- Experience managing ransomware incident response engagements
+- Strong incident command and crisis management skills
+- Excellent client communication and stakeholder management abilities
+
+---
+
+Job Description 14
+- Company: McLane Company
+- Role: Sr Cybersecurity Incident Response Manager
+- 8+ years (Senior/Management Level)
+- Bachelor's degree in cybersecurity, computer science, information technology, or a related field; 10+ years progressive IT experience; 8+ years cybersecurity incident response, vulnerability management, or offensive security
+- Location: Killeen, Texas (Remote/Onsite options)
+- Lead incident response measures ensuring threats are accurately assessed, contained, mitigated, and reported
+- Oversee monitoring, analysis, and triaging of security events
+- Identify and propose realistic solutions and improvements for complex issues
+- Develop innovative solutions across variety of local and international engagements
+- Inspire, manage, and lead team of experienced security professionals
+- Carry out high quality and insightful digital forensic investigations and incident response engagements
+- Work with SIEM, EDR, SOAR, CSPM, and DLP technologies
+- Manage enterprise security operations and coordinate incident response
+- Develop and implement security policies and procedures
+- Conduct security risk assessments and gap analyses
+- Implement and manage security tools and technologies
+- Monitor network and system logs for anomalies and malicious activity
+- Perform incident detection, response, containment, and forensic analysis
+- Oversight of security operations team and engagement management
+- Strong problem-solving and analytical skills required
+- Excellent communication and interpersonal skills required
+- Ability to work independently and collaboratively
+- Ability to convey complex technical concepts clearly
+- Proficiency in English to understand and comply with workplace safety
+- Relevant certifications such as CISSP, CISM, GIAC, OSCP, or CRISC preferred
+- Experience with SIEM, EDR, SOAR, CSPM, and DLP technologies
+
+---
+
+Job Description 15
+- Company: EGI Foundation
+- Role: Information Security Manager
+- 5+ years (Mid to Senior Level)
+- Bachelor's degree in Computer Science, Information Security, or related field with demonstrable experience in information security management
+- Location: Remote (International)
+- Manage the ISMS (Information Security Management System) defining and enforcing Information Security policies for the Organization
+- Ensure Organization conforms to relevant national and European regulations
+- Participate in the Integrated Management System Coordination team
+- Maintain the ISMS conforming to ISO/IEC 27001 requirements
+- Ensure Organization retains certification through participation in auditing activities
+- Raise proper Information security awareness ensuring staff are trained appropriately providing documentation, advice, and support
+- Implement physical, technical, and organizational information security controls
+- Reduce probability and impact of identified information security risks
+- Periodically review security policies and controls at planned intervals
+- Manage information security events and incidents liaising with CSIRT Manager
+- Coordinate with and support the organization's CSIRT as needed
+- Manage control and provision of access rights for information-processing systems and services
+- Liaise with Security Policy Group to represent Organization interests
+- Follow policies-related and other security-related activities to represent Organization interests
+- Ensure Information Security is duly considered in all Organization activities
+- Work with Service Delivery Manager on Information Security Management activities
+- Periodically report to management on Information Security activities
+- Supervise status of foundation and federation services
+- Support Operations Centers of the Federation
+- Take responsibility for specific activities, procedures, and processes within Integrated Management System
+- Participate in incident and problem management handling issues concerning multiple providers
+- Liaise with operations teams to ensure interoperation and compatibility of policies and procedures
+- Provide reports and participate in audits as required
+- Contribute to gathering, development, and maintenance of documentation
+- Represent organization at conferences, symposia, and workshops
+
+---
+
+Job Description 16
+- Company: Ivanti
+- Role: Security Data and Risk Analyst
+- 3+ years security experience with 5+ years reporting operations experience (Mid to Senior Level)
+- Bachelor's degree in information systems or data analytics with 3+ years security experience, or degree in any field plus 5 years security experience
+- Location: United States (specific location flexible, remote options available)
+- Lead execution of multiple functions related to risk reporting and analytics
+- Take ownership of creating awareness around security-relevant key performance and key risk indicators
+- Create dynamic dashboards and presentations
+- Manage Security Council workstreams including coordinating stakeholder updates
+- Track and report on key milestones and objectives
+- Support weekly executive briefs
+- Enable multi-tiered risk and security reporting
+- Generate enterprise visibility, awareness, and understanding of major risk and security issues in comprehensive and easily consumed manner
+- Support corporate objectives especially the reduction of risk
+- Demonstrate ability to think critically work independently and autonomously
+- Complete challenging projects and long-term work initiatives
+- Conduct rapid-paced learning and adoption of new concepts
+- Flexible responsiveness to changing priorities and requirements
+- Self-starting initiative to propose structure, automation, and long-term improvements
+- Knowledgeable in cybersecurity threats, vulnerabilities, valued assets, and ownership
+- Cybersecurity incident response, vulnerability management, devsecops, operations, and threat intelligence
+- Risk Management identification, assessment, measurement, treatment, and tracking
+- Cybersecurity principles used to manage risks related to information or data use, processing, storage, and transmission
+- Familiarity with NIST, ISO, SOC2, FedRAMP, Privacy, GDPR, and DORA principles
+- Experience with cloud, on-premise, corporate, remote, and transformative environments
+- Project Management IT/security lead experience with building own metrics and presentations preferred
+- Risk Management information security/cybersecurity lead experience including building own metrics presentations preferred
+- FAIR (Factor Analysis of Information Risk) modeling experience and expertise preferred
+- Security certifications such as CISSP, Project Management certifications such as PMP, Risk Management certifications such as COBIT/CRISC, or IT certifications such as ITIL preferred
+
+---
+
+Job Description 17
+- Company: Silvergate Bank
+- Role: Cybersecurity Risk Analyst
+- 3-5 years (Mid-Level)
+- Bachelor's degree in Computer Science, Information Security, Cybersecurity, or related field
+- Location: La Jolla, California
+- Establish and execute department's information security policies, procedures, guidelines, and data encryption policies
+- Develop business continuity plans and disaster recovery procedures (BCP/DR)
+- Ensure methodologies comply with industry's best practices
+- Administrator in Tenable.sc/io analyzing, mitigating, and reporting on asset management and internet of things (IoT) vulnerabilities and threats
+- Analyze and report on detected threats and network security events
+- Utilize CrowdStrike Falcon Endpoint Detection and Response (EDR) solution for security violation analysis
+- Monitor and conduct log analysis via SIEM to identify security anomalies and remediate
+- Utilize LookingGlass for investigations and website takedowns
+- Administer IAM (Identity and Access Management) of headquarters and remote sites for physical security systems
+- Deploy DLP (Data Loss Prevention) tools to monitor and prevent unauthorized transfer of sensitive data
+- Support internal and external audits including regulatory reviews
+- Manage cybersecurity awareness program including user security and phishing simulations
+- Investigate phishing emails with Proofpoint email security tool
+- Observe behaviors of malicious links, hashes, and attachments in sandboxes
+- Conduct manual phishing analysis with MX Toolbox
+- Possess working knowledge of Information Security frameworks and privacy laws
+- Familiarity with ISO 27001, FFIEC, NIST RMF, GLBA, CCPA, and GDPR
+- Interpret applicable laws and regulations
+
+---
+
+Job Description 18
+- Company: Hirist 
+- Role: Cybersecurity Analyst (Entry-Level)
+- 1+ years (Entry to Junior Level)
+- Bachelor's degree in Computer Science, Information Security, or a related field
+- Location: Remote
+- Monitor security systems and tools to detect and respond to security threats and incidents
+- Analyze security events and alerts to identify potential security breaches and vulnerabilities
+- Conduct investigations into security incidents including malware infections, unauthorized access, and data breaches
+- Develop and execute incident response plans and procedures to address security incidents
+- Coordinate with internal teams and external vendors to manage and resolve security incidents
+- Document incidents, responses, and resolutions for reporting and compliance purposes
+- Implement and manage security controls including firewalls, intrusion detection systems (IDS), and intrusion prevention systems (IPS)
+- Perform regular security assessments and vulnerability scans to identify and address security weaknesses
+- Ensure compliance with security policies, standards, and regulatory requirements
+- Conduct risk assessments to identify potential threats and vulnerabilities in the organization's IT environment
+- Recommend and implement risk mitigation strategies to reduce security risks
+- Assist in the development and maintenance of security policies and procedures
+- Provide guidance and training to employees on cybersecurity best practices and awareness
+- Develop and deliver security awareness programs to enhance organizational security posture
+- Work closely with IT teams, management, and other stakeholders to ensure alignment on security initiatives
+- Prepare and present reports on security incidents, vulnerabilities, and trends to senior management
+- Strong understanding of cybersecurity principles and threat landscape required
+- Experience with security tools and technologies such as SIEM, IDS/IPS, firewalls, and antivirus
+- Knowledge of security frameworks and standards such as NIST, ISO 27001, and CIS Controls
+- Familiarity with regulatory requirements such as GDPR and HIPAA
+- Excellent analytical and problem-solving skills with attention to detail
+- Strong communication skills both written and verbal
+
+---
+
+Job Description 19
+- Company: Simpson Thacher & Bartlett LLP (Law Firm)
+- Role: Analyst, Cyber Risk
+- 2-4 years (Junior to Mid-Level)
+- Bachelor's degree in Computer Science, Information Security, or related field; relevant security certifications preferred
+- Location: New York or US (varies by office location)
+- Conduct cybersecurity risk assessments for law firm clients and internal infrastructure
+- Identify vulnerabilities and security risks across systems and networks
+- Develop risk mitigation strategies and security recommendations
+- Support incident response activities as needed
+- Research emerging cybersecurity threats and trends
+- Prepare reports on security risks and mitigation strategies
+- Assist in implementing security controls and remediation measures
+- Monitor compliance with security policies and regulatory requirements
+- Support security awareness and training initiatives
+- Collaborate with cross-functional teams on security projects
+- Work with external security vendors and consultants
+- Maintain documentation of assessments and findings
+- Strong understanding of cybersecurity principles required
+- Knowledge of security frameworks such as NIST and ISO 27001
+- Experience with security assessment tools and methodologies
+- Analytical and problem-solving skills required
+- Strong communication skills for presenting findings to non-technical audiences
+
+---
+
+Job Description 20
+- Role: Security Risk Analyst
+- 3-5 years (Mid-Level)
+- Bachelor's degree in Computer Science, Information Systems, Information Security, or related field
+- Location: Various (US, India, Global)
+- Perform hands-on gap and risk assessments to identify, document, and track significant information security risks
+- Evaluate control effectiveness and design against established frameworks
+- Identify opportunities to improve organization's risk posture
+- Continuously monitor risk tolerance and evolving threat landscape
+- Conduct objective, fact-based risk assessments on existing and new systems and technologies
+- Communicate findings to all stakeholders within the information system
+- Assist with information security and privacy risk management
+- Analyze organization's activities to identify areas with inherent risk
+- Help system owners and mission owners make informed risk-related decisions
+- Monitor compliance with security policies and prepare reports on risk profile
+- Coordinate with IT teams, management, and stakeholders on security initiatives
+- Provide effective communication to leadership on risk environment status
+- Track remediation progress and highlight areas requiring oversight
+- Research emerging security threats and develop mitigation strategies
+- Support internal and external audits related to compliance and security
+- Analyze security frameworks and standards including NIST, ISO 27001, CIS Controls
+- Excellent analytical and problem-solving skills
+- Effective communication and interpersonal skills to engage with stakeholders at all levels
+- Ability to manage multiple projects and priorities
+
+---
+
+Job Description 21
+- Role: Cyber Security Risk Analyst (Remote - India)
+- 3-5 years (Mid to Senior Level)
+- Proven experience in cybersecurity with demonstrable expertise in risk assessment and security auditing
+- Location: Remote (India)
+- Lead technology and cyber risk assessments maintaining a detailed risk register with impact and likelihood rationales
+- Conduct security audits and evaluate IT controls across cloud, on-prem, and hybrid environments
+- Map controls to frameworks including ISO/IEC 27001:2022/27002, NIST CSF 2.0, NIST 800-53, CIS Controls, and PCI DSS 4.0
+- Ensure compliance with regulatory requirements including GovRAMP, EU AI Act, GDPR, and CCPA
+- Plan and execute end-to-end technical audits including evidence gathering, walkthroughs, testing, and issue rating
+- Support the design and testing of Access Control, Application and Data Security, IT Service Operations, and Technology Architecture controls
+- Partner with engineering, IT, and product teams to translate requirements into pragmatic controls and remediation actions
+- Perform third-party risk assessments and contribute to AI governance and data protection audits
+- Develop playbooks, control testing procedures, and knowledge articles to raise organizational control maturity
+- Possess relevant certifications such as CISA, CISSP, CISM, or ISO 27001 Lead Auditor/Implementer
+- Demonstrate hands-on experience assessing Microsoft and Azure security including Entra ID, Defender suite, Sentinel, Intune, Azure Policy, and Purview
+- Experience with Identity and Access Management, Cloud Security (Azure, AWS), Data Protection, SecOps, Agile Software Development, and DevSecOps
+- Competence in using GenAI or Agentic AI to enhance GRC processes
+- Display strong communication and interpersonal skills to work effectively with stakeholders across multiple locations and functions
+- Technical literacy across networks, identity, cloud, endpoints, logging/monitoring, and secure configuration
+- Solid understanding of ITGCs and evidence-based testing methods with audit documentation and reporting skills
+
+---
+
+Job Description 22
+- Company: ITmPowered Consulting
+- Role: Azure Cloud Security Risk Analyst
+- 1-2 years (Entry to Mid-Level)
+- Bachelor's degree in Computer Science, Mathematics, Statistics, or equivalent experience
+- Location: Hybrid (Location varies)
+- Establish, design, and manage cloud risk governance processes to address vulnerabilities from TwistLock and Azure Policy violations
+- Collaborate with stakeholders across Container Security, Application Security, and Cloud Security teams to review requirements and design process workflows from risk identification to remediation and risk management
+- Conduct regular meetings with project teams to ensure timely remediation of security vulnerabilities, providing guidance and recommendations for risk reduction
+- Capture, review, and respond to vulnerabilities identified by TwistLock and Azure policies in accordance with defined Service Level Objectives (SLOs)
+- Establish baselines for risk management activities
+- Analyze outputs from TwistLock and Azure policy violations to define business requirements for tool integration such as JIRA
+- Monitor vulnerabilities in tracking tools and generate leadership reports on risks and remediation performance
+- Define dashboard requirements for portfolio risk reporting and perform data analysis for trend identification and timely mitigation
+- Educate and collaborate with stakeholders to prioritize high and critical risks
+- Provide methodologies for vulnerability prioritization, remediation recommendations, and performance reporting
+- Support the organization in reducing security risks through proactive monitoring and reporting
+- Demonstrate ability to manage multiple priorities and projects
+- Display technical literacy in cloud security tools and vulnerability assessment platforms
+- Show capability to analyze complex data and communicate findings to leadership
+
+---
+
+Job Description 23
+- Company: Pileum Corporation
+- Role: Cyber Security and Business Cyber Risk Analyst
+- 5+ years (Senior Level)
+- Bachelor's degree in Cybersecurity, Computer Science, Information Technology, or related field with relevant experience
+- Location: Jackson, MS, Knoxville, TN, Nashville, TN, Birmingham, AL, or Florida Panhandle (Hybrid)
+- Manage security programs for clients against industry standard RMFs including NIST CSP, HIPAA, CMMC, and other frameworks
+- Perform baseline assessments to establish current security posture
+- Assess risks with consideration for identified control gaps and prioritize mitigation activities based on severity and budget
+- Establish and manage POA&M (Plan of Action and Milestones) for risk remediation
+- Conduct occasional incident response activities primarily as an incident commander, and occasionally assist with containment and analysis work
+- Perform day-to-day tasks related to cybersecurity and risk analysis for multiple clients
+- Develop and implement security strategies aligned with client requirements and industry standards
+- Conduct vulnerability assessments and penetration testing activities
+- Prepare comprehensive risk reports and risk registers with detailed documentation
+- Collaborate with technical teams and stakeholders to identify and remediate security vulnerabilities
+- Monitor compliance with security policies and standards
+- Stay current with emerging cyber threats and regulatory requirements
+- Provide recommendations for security improvements and control enhancements
+- Support client security program maturity and continuous improvement initiatives
+
+---
+
+Job Description 24
+- Company: ASML
+- Role: Sr. Cloud Security Risk Analyst
+- 5-10 years (Senior Level)
+- Bachelor's degree in Cybersecurity, Computer Science, Information Technology, or related field with proven experience in cloud security risk management
+- Location: San Diego, California (Remote/Hybrid options available)
+- Perform information security risk assessments on new cloud initiatives and lead design reviews
+- Recommend mitigating controls and drive their implementation across cloud infrastructure
+- Establish information security requirements for cloud applications ensuring risk does not exceed organizational risk appetite
+- Conduct detailed security assessments on both existing and proposed cloud applications
+- Identify and assess risks in IaaS/PaaS environments supporting Development, Engineering, Business Line Applications, Corporate Intellectual Property, and Research teams
+- Interface with Security, Operations, Risk and Business Assurance teams across the organization
+- Collaborate with other programs, projects, and agile teams to integrate security controls
+- Work with R&D team members based in multiple global locations including Europe
+- Develop comprehensive risk documentation and recommendations for control implementation
+- Monitor and report on cloud security risk posture to management
+- Ensure alignment with organizational security frameworks and standards
+- Participate in security reviews and architecture discussions
+- Provide expert guidance on cloud security best practices and emerging threats
+
+---
+
+Job Description 25
+- Company: BlueCross BlueShield of South Carolina
+- Role: Information Security Risk Analyst
+- 3-5 years (Mid to Senior Level)
+- Bachelor's degree in Computer Science, Information Technology, Cybersecurity, or related field
+- Location: Columbia, South Carolina (Hybrid)
+- Plan and perform compliance and risk assessment activities for information systems and related processes
+- Communicate and escalate findings to relevant stakeholders and management
+- Monitor security alerts and threat intelligence feeds to identify emerging risks
+- Assess company's security measures by evaluating firewalls, passwords, anti-virus software, and other security controls
+- Conduct security violation investigations to recover organization's data in case of data breaches
+- Audit company's processes to ensure cybersecurity strategies are current and effective
+- Identify potential risks across operational, technology, and regulatory domains
+- Collaborate with stakeholders to define and track remediation plans ensuring timely and effective resolution of issues
+- Apply industry-standard frameworks such as NIST Cybersecurity Framework, NIST SP 800-53, ISO 27001, and FFIEC guidelines
+- Conduct gap analyses and interpret requirements for closing compliance or control gaps
+- Prepare detailed reports and dashboards on risk assessments and security posture
+- Ensure compliance with healthcare-related security requirements and standards
+- Support internal and external audit activities
+
+---
+
+Job Description 26
+- Company: First Commonwealth Bank
+- Role: IT Risk Analyst
+- 3-5 years (Mid-Level)
+- Bachelor's degree in Computer Science, Information Technology, or related field
+- Location: Indiana, Pennsylvania
+- Conduct IT asset-based risk assessments on a cycle basis to help identify recommendations for the treatment of risks
+- Perform periodic assessment activities on IT systems and technology infrastructure
+- Identify gaps and control weaknesses in IT infrastructure
+- Evaluate effectiveness of existing IT controls and security measures
+- Prepare risk assessment documentation and communicate findings to stakeholders
+- Track and monitor remediation efforts for identified risks
+- Escalate significant risks or control issues to management in a timely manner with clear recommendations
+- Collaborate with IT teams to understand system configurations and security posture
+- Support compliance activities and audit requirements
+- Research emerging security threats and vulnerabilities
+- Recommend technology solutions to address identified IT risks
+- Assist with the development and maintenance of IT risk management policies and procedures
+- Monitor IT security controls and generate periodic reports on risk status
+
+---
+
+Job Description 27
+- Company: Atmosphera
+- Role: Information Security Analyst (Security Analyst)
+- 2-4 years (Junior to Mid-Level)
+- Bachelor's degree in Computer Science, Information Security, or related field preferred
+- Location: Portland, Oregon (Contract role)
+- Analyze cloud security posture on Azure-hosted systems and networks using Defender for Cloud and Defender XDR/EDR
+- Continuously monitor security logs and data sources integrated into Microsoft Sentinel ensuring comprehensive coverage and efficient analysis
+- Identify potential security incidents or vulnerabilities using alert guides and methods based on the MITRE ATT&CK framework
+- Respond to security incidents by investigating alerts, performing triage, and executing remediation actions
+- Automate incident response workflows using security orchestration tools
+- Identify vulnerabilities and deploy effective protective measures
+- Work collaboratively to mitigate risks while ensuring compliance with industry standards and regulations
+- Monitor and analyze security events and threats in real time
+- Conduct investigations into security incidents and provide recommendations for remediation
+- Generate incident reports and communicate findings to stakeholders
+- Support security awareness and training initiatives
+- Assist in implementing and maintaining security controls
+- Stay current with emerging cyber threats and security trends
+- Collaborate with cross-functional teams on security projects
+- Provide guidance on immediate remediation actions for security events
+
+---
+
+Job Description 28
+- Role: Security Analyst (SOC/Incident Response focused)
+- 2-5 years (Mid-Level)
+- Bachelor's degree in Computer Science, Information Systems, or related field, or 2-5 years of relevant SOC, incident response, or cyber forensics experience
+- Location: Remote (India)
+- Monitor and analyze security events and alerts, providing guidance on immediate remediation actions
+- Investigate intrusion attempts and correlate multiple data sources to determine affected systems or data sets
+- Follow established procedures for detecting, classifying, and reporting security incidents
+- Analyze network and host-based logs from EDR, Firewalls, NIDS, HIDS, Sys Logs, and other sources to determine remediation actions
+- Independently contain, analyze, document, and eradicate malicious activity
+- Escalate relevant threat information to internal stakeholders as necessary
+- Conduct incident response activities including identification, containment, and recovery
+- Perform forensic analysis on suspected compromised systems
+- Work on rotational shifts in a 24/7 environment ensuring robust monitoring and rapid incident response
+- Generate detailed incident reports and post-incident analysis
+- Collaborate with security teams to improve detection and response capabilities
+- Participate in security drills and tabletop exercises
+- Stay current with emerging threats and attack methodologies
+- Maintain security logs and documentation for compliance purposes
+
+---
+
+Job Description 29
+- Company: ECS (Government Contractor)
+- Role: Cyber Security Incident Response Manager
+- 6+ years (Senior/Management Level)
+- Minimum 6 years working experience in Cyber Security Incident Management with a degree from Information Technology or equivalent discipline
+- Location: Varies by contract location (US Government/Federal)
+- Coordinate Cyber Security Incident Management, investigation, and resolution for the organization
+- Enhance the organization's Cyber Security Incident Management processes and Standard Operating Procedures (SOPs)
+- Identify and drive continuous improvement in Cyber Security Monitoring and Incident Response
+- Perform timely and accurate Cyber Incident Response as per processes and SOPs
+- Build knowledge and coach Business Units IT Security leads to understand their role in Cyber Incident Management
+- Support service providers performing Cyber Security monitoring to enhance their detection and investigation capabilities
+- Leverage detection and response solutions to further assess any escalated potential incidents
+- Continuously improve Cyber Incident detection, contextualization, and response processes using automation and orchestration
+- Manage and coordinate potential incident escalations with necessary internal and external stakeholders
+- Communicate and coordinate Cyber Security Incident response actions with business units
+- Manage Cyber Security Incidents within defined Service Level Agreements (SLAs)
+- Analyze Threat Intelligence and ensure that prevention, detection, and response capabilities are maximized against new threats
+- Conduct in-depth analysis of malware and other potential malicious processes or software identified in the organization
+- Coordinate Cyber Security testing activities and provide advice on remediation
+- Develop, document, and maintain SOPs and knowledge base for cyber security services including incident response, intelligence analysis, and forensics recovery
+- Continuously improve knowledge in tools and best practices in Cyber Security threat monitoring and incident response
+- Evaluate new emerging Cyber Security technologies and make recommendations for adoption
+- Possess desirable certifications such as CHFI, GCIH, GREM, or GCFA
+- Demonstrate excellent knowledge of Advanced Persistent Threats, attack tools, techniques, and methods used by adversaries
+- Possess excellent knowledge of penetration testing services and techniques
+- Exhibit excellent written and verbal communication skills with ability to work under pressure
+- Experience managing multicultural and regional teams
+- Experience with networking, TCP/IP traffic, firewalls, SIEM, IPS, EPP, EDR, DLP, proxy, and related security solutions
+- Desirable experience with Crowdstrike, Carbonblack EDR, Splunk, and QRadar SIEM solutions
+- Desirable experience with programming or scripting languages
+
+---
+
+Job Description 30
+- Company: Syneos Health
+- Role: Senior Information Security Risk Analyst
+- 5-8 years (Senior Level)
+- Bachelor's degree in Computer Science, Information Security, Cybersecurity, or related field with 5+ years of security experience
+- Location: Buenos Aires, Argentina (or varied locations based on organizational needs)
+- Assess and evaluate cyber security risks across the organization
+- Conduct third-party risk assessments for vendors and external service providers
+- Evaluate cyber security posture of contractors, consultants, and business partners
+- Develop and maintain vendor risk management programs
+- Create information security risk assessment frameworks and methodologies
+- Perform security due diligence evaluations for third-party vendors and partners
+- Monitor ongoing risks related to third-party service providers
+- Identify security requirements for vendor onboarding and integration
+- Develop remediation strategies for identified security risks
+- Prepare comprehensive risk reports for executive leadership and board committees
+- Ensure compliance with cybersecurity frameworks and standards including NIST, ISO 27001, and industry-specific regulations
+- Collaborate with procurement, legal, and IT teams on vendor security requirements
+- Track remediation progress and escalate overdue actions
+- Support security incident response activities related to third-party vendors
+- Mentor junior security team members on risk assessment practices
+- Stay current with emerging cyber threats and evolving regulatory requirements
+- Participate in business development discussions to identify security requirements for new partnerships
+- Coordinate with external auditors and compliance teams on security assessments
+

@@ -1,0 +1,488 @@
+Compliance & Regulatory Risk Sheet Link : https://docs.google.com/spreadsheets/d/1HxtKjcW9Oy0esoMK8Z-k4MKFzlWKvAeLpXtPBbPL0AE/edit?gid=823198180#gid=823198180
+
+Job Description 1
+- Role: Compliance Analyst
+- Company: Amazon
+- Location: Seattle
+- Assist in the development, implementation, and maintenance of the company's compliance program
+- Conduct periodic internal reviews or audits to ensure that compliance procedures are followed
+- Identify compliance issues and recommend corrective action
+- Prepare and file required compliance reports with regulatory agencies
+- Stay current on laws and regulations, and update policies as needed
+- Conduct risk assessments of business activities, products, and services
+- Provide employee training on compliance-related topics, policies, or procedures
+- Collaborate with other departments to address compliance issues
+- Monitor and investigate compliance-related complaints or incidents
+---
+Job Description 2
+- Role: Compliance Analyst
+- Company: Robert Half (client)
+- Location: Dallas, TX
+- This position is part of the Information Security and Governance (ISG) team
+- Plays a key role in client security assessments, vendor risk management, and compliance documentation
+- Maintain and enhance firmwide risk and compliance frameworks aligned with ISO 27001, SOC 2, and NIST
+- Conduct vendor risk and security assessments, manage remediation tracking, and maintain vendor databases
+- Support audits, client security reviews, and policy compliance initiatives
+- Respond to privacy inquiries and document compliance issues and incidents
+- Collaborate cross-functionally to strengthen operational, technical, and data governance controls
+- Research regulations and policies
+- Manage compliance regulatory requests
+- Assist with the internal and external audit process
+- Develop trend analysis
+- Maintain and update risk assessments
+- Perform compliance monitoring and testing
+---
+Job Description 3
+- Role: Compliance Analyst / Analyst – Risk and Compliance
+- Company: IBM India Pvt. Limited
+- Experience: 2-5 years
+- Location: India
+- Qualification: Minimum 2+ years of experience in Know your customer, Customer due diligence & Customer identification program (KYC/CDD/CIP); Working knowledge in regulatory policies
+- Review and ensure company processes comply with policies, regulations, and industry best practices
+- Analyze systems like SAP across various functions including Supply Chain, Finance, HR, and Cost Control
+- Identify compliance risks, and recommend corrective actions
+- Review and analyze end-to-end business processes for compliance with company policies and regulations
+- Investigate and report compliance issues and irregularities
+- Communicate findings and follow up on corrective actions with relevant departments
+- Maintain tracking tools and audit trails for internal and external audits
+- Recommend process improvements and support policy updates
+- Monitor compliance performance and prepare monthly reports
+- Plan and conduct compliance training sessions
+- Stay updated on regulatory changes affecting the organization
+- Responsible for documentation reviews for new customer accounts
+- Evaluate high-risk accounts and analyze new customer processes and policies
+- Study market trends and observe customer behavior patterns
+- Identify comprehensive target set of compliance data for users across teams
+- Monitor and evaluate compliance data and information collected in support of activities and initiatives
+- Support the harmonization of KPIs/KRIs currently used across businesses/regions to build one set of metrics
+- Consolidate data from businesses and testing teams to build monthly reporting package
+- Review reports to identify trends and key risk areas
+- Preparation of presentations and trends identified for reporting to senior management
+---
+Job Description 4
+- Role: Trade Compliance Analyst
+- Company: CDW
+- Location: London, LND, United Kingdom (Hybrid)
+- Support UK and international operations
+- Sitting within the Legal, Risk, Ethics and Compliance (LREC) team, you will help ensure the compliant and efficient movement of goods, software, and technology across borders
+- This role directly supports CDW's global business goals by reducing risk, maintaining compliance, and enabling international growth
+- Assist in the development and implementation of robust compliance frameworks
+- Review and process international trade opportunities and ServiceNow case tickets
+- Conduct export classification (ECCN) reviews and support licence applications via SPIRE/LITE
+- Participate in internal audits, analyse anomalies, and support remediation actions
+- Collaborate with Procurement, Sales, Logistics, and Supplier Management teams
+- Maintain customs documentation databases and perform denied party and red flag screenings
+- Support automation and process improvement initiatives
+---
+Job Description 5
+- Role: Risk & Compliance Analyst
+- Company: PayPal
+- Location: Omaha, NE, US (or other US locations)
+- Conduct due diligence (KYC) on new and existing high-risk merchants
+- Analyze merchant activity, website, and business models to identify potential risks related to AML, fraud, credit, and acceptable use policy (AUP)
+- Perform enhanced due diligence (EDD) for complex cases, including reviewing financial statements, supply chain, and beneficial ownership
+- Investigate suspicious activity alerts and patterns, compiling findings for potential SAR (Suspicious Activity Report) filings
+- Make risk-based decisions on merchant accounts, such as imposing limitations, reserves, or account closure, and communicate these decisions effectively
+- Collaborate with cross-functional teams (Legal, Sales, Product) to address compliance-related inquiries and support new product initiatives
+- Stay updated on regulatory changes (e.g., FinCEN, OFAC) and internal policy updates
+- Prepare reports and metrics for management on risk trends and team performance
+- Assist in internal and external audits by gathering documentation and explaining controls
+---
+Job Description 6
+- Role: Compliance Officer
+- Company: Morgan Stanley
+- Location: Mumbai, India
+- Experience: 2-5 years of relevant experience in Compliance, Legal or Audit
+- Qualification: Post Graduate degree in Law, Finance or Commerce
+- Advise and support the business on regulatory and compliance matters
+- Conduct compliance risk assessments and analysis of new business initiatives, products, and services
+- Develop, draft, and update compliance policies, procedures, and manuals
+- Conduct monitoring and surveillance activities to ensure adherence to regulations and internal policies
+- Investigate and report on compliance breaches or incidents
+- Prepare and deliver compliance training to employees
+- Liaise with regulators, auditors, and other external parties on compliance matters
+- Assist in the preparation of regulatory filings and reports
+- Monitor regulatory changes and assess their impact on the business
+---
+Job Description 7
+- Role: Compliance Officer
+- Company: Revolut
+- Location: London, UK (Hybrid)
+- Qualification: 2+ years of experience in a compliance-related role in a financial institution; Knowledge of UK regulatory environment (FCA, PRA)
+- Conduct thematic reviews of business operations to ensure compliance with regulatory requirements
+- Investigate and resolve compliance issues and incidents, escalating as necessary
+- Review and approve financial promotions and marketing materials
+- Assist in the development and maintenance of the firm's compliance monitoring program
+- Provide day-to-day compliance advice and support to various business units
+- Analyze the impact of new regulations and assist in their implementation
+- Prepare management information and reports on compliance matters
+- Support the firm's engagement with regulatory bodies and external auditors
+---
+Job Description 8
+- Role: Compliance & Audit Officer
+- Company: Manpower UK
+- Location: St. Asaph LL17 0RL, UK
+- Experience: 1 year (required)
+- Provide expert advice and guidance to centres on regulatory and compliance requirements
+- Keep up to date with sector developments, ensuring compliance with regulatory standards and ISO 9001
+- Carry out risk assessments
+- Keep up to date with law and regulations
+- Provide guidance and support to departments on compliance-related matters, including interpreting regulations and resolving compliance issues
+- Reviewing insurance documentation and communications for regulatory compliance
+- Review the compliance of website and marketing materials
+- Conduct internal audits and prepare compliance reports for management
+- Provide compliance training and guidance to team members
+- Advise and educate employees on the law and regulations
+- Investigate areas of concern
+---
+Job Description 9
+- Role: Compliance Officer, AML
+- Company: Coinbase
+- Location: Remote
+- Develop, implement, and maintain the company's Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) policies and procedures
+- Conduct firm-wide AML/CTF risk assessments to identify and mitigate compliance risks associated with crypto assets
+- Oversee and enhance the Know Your Customer (KYC) and Enhanced Due Diligence (EDD) processes for retail and institutional clients
+- Manage the transaction monitoring system, including rule tuning, alert investigation, and suspicious activity (SAR/STR) filing
+- Act as the primary point of contact for regulatory inquiries, audits, and examinations related to AML/CTF
+- Develop and deliver regular AML/CTF training programs for all employees, including specialized training for high-risk roles
+- Monitor and analyze regulatory developments in the global crypto space (e.g., FATF "Travel Rule," new SEC/FCA guidance)
+- Investigate and respond to law enforcement requests and subpoenas
+- Prepare and present regular compliance reports to senior management and the Board of Directors
+- Collaborate with Product and Engineering teams to ensure new products are compliant with regulatory requirements ("compliance by design")
+---
+Job Description 10
+- Role: Compliance Risk Manager
+- Company: Wells Fargo
+- Location: Chandler, AZ, US
+- Experience: 4+ years of Compliance, Operational Risk, or related experience
+- Identify and assess compliance and operational risks associated with business activities
+- Develop and implement risk mitigation strategies and controls
+- Evaluate the adequacy and effectiveness of existing controls
+- Lead or participate in compliance risk assessments and testing
+- Monitor business processes to identify potential compliance gaps
+- Report on risk levels, trends, and control effectiveness to senior management
+- Provide guidance to business lines on regulatory requirements and risk management
+- Collaborate with business partners to address and remediate identified issues
+- Stay informed of changes in the regulatory environment and assess their impact
+---
+Job Description 11
+- Role: Compliance Risk Manager (Training & Governance)
+- Company: Mercury
+- Location: US
+- Conduct a company-wide training needs assessment to identify training gaps, regulatory obligations, and team-specific risk exposure
+- Build and maintain a comprehensive compliance training calendar covering onboarding, annual, ad hoc, and targeted training
+- Develop and deliver training on a variety of topics, including AML/BSA, UDAAP, Fair Lending, complaints, information security, product compliance, third-party risk, and more
+- Design content using sound instructional design principles and tailor it to a variety of audiences (e.g., CX, Product, Engineering, bank partners)
+- Stay up to date on emerging compliance risks and regulatory expectations to continuously evolve the training program
+- Support the broader Compliance Management System by providing flexible support across the Governance & Oversight team, including policy governance, issues management, compliance risk assessments, complaint oversight and reporting
+- Partner with compliance leadership and SMEs to identify governance related gaps and contribute to scalable solutions, beyond training
+- Create workflows, templates, and documentation that support audit readiness and team alignment
+---
+Job Description 12
+- Role: Compliance Risk Manager
+- Company: Surfshark
+- Location: Remote
+- Responsible for coordinating all aspects of the compliance and risk management program within the organization
+- This role involves identifying, evaluating, and implementing risk procedures, as well as developing a systematic process to manage potential exposures to loss
+- Engage in daily risk operations, including screening counterparties and clearing sanctions and adverse media alerts
+- Be involved in the vendor risk management process
+- Ensure our employees and partners comply with internal policies
+- Conduct investigations on counterparties and assist with ad hoc requests to support the execution of our risk management strategy
+- Managing compliance-related initiatives
+---
+Job Description 13
+- Role: AML Analyst
+- Company: BMO Financial Group
+- Location: Toronto, ON, Canada
+- Experience: 1-2 years of AML, compliance, or risk management experience
+- Qualification: Post-secondary degree in a related field; CAMS certification (or willingness to obtain)
+- Investigate and assess alerts generated by the transaction monitoring system for potential money laundering or terrorist financing activities
+- Conduct analysis of customer account activity and transactional patterns
+- Prepare detailed reports and documentation of investigation findings
+- Escalate suspicious activities to senior analysts or managers for further review
+- Assist in the preparation and filing of Suspicious Transaction Reports (STRs)
+- Perform enhanced due diligence (EDD) on high-risk customers
+- Stay current with AML regulations and emerging money laundering typologies
+- Collaborate with other compliance teams and business units
+- Support AML-related projects and initiatives as required
+---
+Job Description 14
+- Role: AML Compliance Analyst
+- Company: Client of Capitex
+- Location: Sharjah, United Arab Emirates
+- Contract Type: 12-Month Fixed-Term Contract
+- Department: Financial Crime Compliance
+- Support the bank s Financial Crime Compliance framework by conducting KYC reviews, transaction monitoring, and suspicious activity investigations
+- Ensure compliance in line with UAE Central Bank regulations, FATF guidelines, and internal compliance standards
+- The role is critical to ensuring that the bank maintains a robust AML/CTF control environment and meets all regulatory obligations
+- Conduct customer due diligence (CDD) and enhanced due diligence (EDD) for new and existing clients to ensure full KYC compliance
+- Perform daily and periodic transaction monitoring, identifying and investigating unusual or suspicious activities
+---
+Job Description 15
+- Role: AML Analyst (Financial Crime)
+- Company: Monzo Bank
+- Location: London, UK (Remote)
+- Experience: Proven experience in an AML/FinCrime investigations role
+- Investigate and analyze customer accounts and transaction alerts for potential financial crime
+- Identify patterns and trends indicative of money laundering, terrorist financing, or fraud
+- Conduct enhanced due diligence (EDD) and source of wealth/funds checks for high-risk customers
+- Prepare and submit high-quality Suspicious Activity Reports (SARs) to the National Crime Agency (NCA)
+- Handle escalations from customer support and other internal teams
+- Make risk-based decisions on customer accounts, including restrictions and closures
+- Provide guidance and support to junior analysts
+- Contribute to the continuous improvement of transaction monitoring rules and detection systems
+- Stay up-to-date with UK financial crime regulations and industry best practices
+---
+Job Description 16
+- Role: AML Analyst (Crypto Investigations)
+- Company: Binance
+- Location: Remote (Global)
+- Perform in-depth investigations into complex AML/CTF and fraud-related alerts generated by the transaction monitoring system
+- Conduct on-chain blockchain analysis and forensic investigations using tools like Chainalysis, TRM Labs, or Elliptic to trace the flow of funds
+- Investigate user accounts involved in high-risk activities, such as interactions with mixers/tumblers, darknet markets, sanctioned entities, and known scams
+- Prepare and draft high-quality Suspicious Activity Reports (SARs) or local equivalents for submission to regulatory bodies
+- Conduct Enhanced Due Diligence (EDD) on high-risk customers, including PEPs (Politically Exposed Persons) and those in high-risk jurisdictions
+- Analyze and risk-score new crypto assets and DeFi protocols before they are listed on the platform
+- Respond to internal escalations from other teams (e.g., Customer Support, Fraud) regarding suspicious account activity
+- Assist in tuning and optimizing the transaction monitoring rules to reduce false positives while effectively detecting illicit activity
+- Stay current with emerging money laundering typologies and sanction evasion techniques in the cryptocurrency ecosystem
+---
+Job Description 17
+- Role: KYC Analyst
+- Company: Citi
+- Location: Tampa, FL, US
+- Experience: 2-5 years of experience in KYC, AML, or a related compliance role
+- Qualification: Bachelor's degree preferred
+- Conduct Know Your Customer (KYC) analysis for new and existing clients
+- Perform due diligence and enhanced due diligence (EDD) on complex client structures, including corporations, funds, and trusts
+- Identify and verify beneficial ownership and control structures
+- Review and analyze KYC documentation for completeness and accuracy
+- Assess client risk profiles and assign appropriate risk ratings
+- Investigate and resolve KYC-related red flags or discrepancies
+- Liaise with relationship managers and client-facing teams to obtain necessary information
+- Ensure all KYC records are maintained and updated in accordance with bank policies and regulatory requirements
+- Participate in KYC remediation projects and system enhancements
+---
+Job Description 18
+- Role: KYC Analyst
+- Company: HSBC
+- Location: Bengaluru, India
+- Qualification: University graduate, preferably in a business, finance, or law-related field
+- Experience: 1-3 years of experience in KYC/AML/CDD within the financial services industry
+- Perform Customer Due Diligence (CDD) and Enhanced Due diligence (EDD) for a diverse portfolio of clients
+- Analyze client data, documentation, and negative news alerts to identify potential risks
+- Ensure KYC profiles are completed accurately and in line with global standards and local regulations
+- Collaborate with relationship managers and onboarding teams to manage client expectations
+- Handle escalations and provide guidance on complex KYC cases
+- Assist in periodic reviews and remediation of existing client files
+- Maintain a strong understanding of internal AML/KYC policies and procedures
+- Identify opportunities for process improvements in the KYC workflow
+---
+Job Description 19
+- Role: KYC Onboarding Analyst
+- Company: Goldman Sachs
+- Location: London, UK
+- Experience: Relevant experience in KYC, AML, or client onboarding
+- Qualification: Bachelor's degree or equivalent
+- Manage the end-to-end KYC onboarding process for new clients
+- Collect, review, and verify client identification and due diligence documents
+- Perform risk assessments and assign risk ratings based on client type, jurisdiction, and product
+- Conduct enhanced due diligence (EDD) for high-risk clients, including PEPs and those in sensitive industries
+- Liaise with clients, sales teams, and legal to ensure a smooth onboarding experience
+- Resolve any documentation deficiencies or discrepancies
+- Ensure all client data is accurately captured in the firm's systems
+- Adhere to regulatory requirements (e.g., JMLSG, FCA) and internal policies
+- Participate in projects related to regulatory changes or system updates
+---
+Job Description 20
+- Role: Lead KYC Utility Analyst
+- Company: Circle
+- Location: Remote / US
+- Join its Compliance Operations team and conduct complex reviews and projects in Circle's KYC team
+- The Lead Analyst is responsible for end-to-end KYC lifecycle processes including onboarding, periodic reviews, event-driven reviews, and offboarding
+- Operate at the intersection of some of the most innovative products and customers and support Circle's efforts to ensure the safety of its platform
+- Conduct in-depth customer investigations and continuous monitoring of various threat vectors across the KYC landscape
+- Conducting detailed assessments of complex customers for risk of money laundering, financial crimes and terrorist financing through thorough review and enhanced due diligence, including review of negative news
+---
+Job Description 21
+- Role: Regulatory Analyst 2 - Remote
+- Company: University of Miami
+- Location: Remote (US)
+- Qualification: Bachelor's Degree in relevant field
+- Experience: Minimum two (2) years of relevant experience in fields such as compliance, research, and/or medical/clinical
+- Oversees and provides support for the process of study submissions (initial and amendment) and regulatory document maintenance
+- Serves as point of contact for various boards, committees, and industry, academic, and cooperative sponsors
+- Reviews, prepares, and provides oversight for initial and subsequent regulatory submissions from study start-up through study closure
+- Ensure compliance with applicable requirements and regulations
+---
+Job Description 22
+- Role: Regulatory Analyst II
+- Company: Blackhills Energy
+- Location: Lincoln, NE
+- Plan, prepare, research, analyze and implement regulatory strategies and plans in collaboration with cross functional teams
+- Prepare information for internal decision making and regulatory filings with the respective commission or regulatory agency
+- Support accurate, timely and innovative regulatory initiatives, including but not limited to rate review filings, compliance filings, tariff proposals, financial plan support, and data analysis and studies
+- Adheres to existing internal regulatory policies, procedures, and practices while documenting and creating new methods and practices where relevant
+- Provides regulatory due diligence support in utility acquisition projects
+- Attends regulatory hearings, tribunals, procedural conferences, public consultation sessions and external meetings as required
+- Updates regulated customer rates annually with CC & B, Finance, and any other applicable internal departments
+---
+Job Description 23
+- Role: Regulatory Affairs Analyst
+- Company: Danaher Life Sciences
+- Location: Bengaluru, India
+- Experience: 8-10 years
+- Responsible for the preparation and submission of high-quality regulatory filings—both pre- and post-approval—for U.S. FDA-regulated inhalation, implant, ophthalmic, and drug-device combination complex generic products
+- Perform registration dossier for all the Life Science Products in all countries (except USA)
+- Act as regulatory affairs lead for filing regulatory submissions for existing products for new geographies
+- Develop and maintain regulatory strategies for new and modified product / product families
+- Prepare and execute regulatory filings such as technical files, Canadian submissions, and letters to file
+- With moderate to minimal guidance, prepare, review, and compile new submissions, deficiency responses (IRs, DRLs, CRLs), and amendments using the Right-First Time approach
+- Participate to gathering the technical documentation for new product development
+- Maintain the adequacy with the regulation for technical documentation
+- Product lifecycle management: Support product design changes, labeling updates, sustainment, and improvement activities from regulatory perspective
+- Evaluate and classify change controls for regulatory impact and determine appropriate submission pathways (e.g., PAS, CBE-30, CBE-0, AR)
+- Provide input on and approve product labels and labelling including language requirements worldwide
+- Monitor global regulatory intelligence, provide impact evaluation to changing regulations
+- Performing regulatory impact assessments for engineering changes
+- Provide regulatory input to support post market surveillance and vigilance activities
+- Support Health Hazard Assessments and Field Actions as needed
+---
+Job Description 24
+- Role: Data Privacy Officer
+- Company: TikTok
+- Location: Dublin, Ireland
+- Qualification: Law degree and IAPP certification (e.g., CIPP/E, CIPP/US)
+- Experience: 5+ years of experience in data privacy, preferably in the tech industry
+- Advise on data protection laws (especially GDPR) and internal privacy policies
+- Monitor compliance with data protection regulations and company policies
+- Conduct Data Protection Impact Assessments (DPIAs) for new products and features
+- Serve as the primary point of contact for data protection authorities (DPAs)
+- Manage and respond to data subject access requests (DSARs) and other privacy-related inquiries
+- Develop and deliver data privacy training and awareness programs
+- Collaborate with legal, product, and engineering teams to embed privacy-by-design principles
+- Investigate and manage data privacy incidents and breaches
+- Stay informed about evolving privacy laws and industry best practices
+---
+Job Description 25
+- Role: Data Privacy Analyst
+- Company: Microsoft
+- Location: Redmond, WA, US
+- Experience: 3+ years of experience in privacy, compliance, or a related field
+- Qualification: Bachelor's degree; IAPP certification (CIPP) is a plus
+- Support the implementation and maintenance of Microsoft's privacy program
+- Conduct privacy reviews and assessments of products, services, and business processes
+- Assist in the development and updating of privacy policies, standards, and guidelines
+- Monitor for changes in global privacy laws and assess their impact
+- Help manage the company's response to data subject requests (DSRs)
+- Assist in conducting Data Protection Impact Assessments (DPIAs)
+- Develop privacy training and awareness materials for employees
+- Support privacy-related investigations and audits
+- Collaborate with engineering and legal teams to implement privacy-by-design
+---
+Job Description 26
+- Role: Data Privacy Officer
+- Company: GeneDX
+- Location: Remote
+- Responsible for leading the development and execution of a healthcare data privacy program with a strong technical foundation
+- Ensures compliance with federal and international privacy regulations (e.g., HIPAA, HITECH, GDPR)
+- Partners with technical teams to implement privacy by design in health IT systems, storage and use of electronic health records (EHRs), cloud infrastructure, and digital health platforms
+- Acts as the bridge between the legal, compliance, and technology teams to safeguard Protected Health Information (PHI) and other sensitive data across the enterprise
+- Ensure compliance with HIPAA, HITECH, GDPR, CCPA, and other applicable privacy laws and frameworks relevant to healthcare data systems
+- Collaborate with software developers, system architects, and cybersecurity teams to implement privacy controls and secure data workflows
+- Conduct Privacy Impact Assessments (PIAs) and Data Protection Impact Assessments (DPIAs) for new technologies, APIs, mobile apps, and AI/ML tools used in clinical or patient-facing environments
+- Define and enforce data handling standards for structured and unstructured healthcare data
+- Oversee data de-identification, pseudonymization, and encryption practices across storage, transmission, and processing
+- Support secure data lifecycle management, including retention, archival, and deletion of PHI
+- Lead investigations into potential privacy breaches involving healthcare data
+- Manage risk assessments, root cause analyses, and compliance reporting for incidents involving patient data or system vulnerabilities
+- Develop and maintain privacy and data handling policies for healthcare IT systems
+- Integrate privacy requirements into software development lifecycle
+---
+Job Description 27
+- Role: AML Compliance Manager
+- Company: IBKR
+- Location: US (Hybrid)
+- Responsible for supporting the design and execution of the US AML and Sanctions Quality Assurance Program
+- Work with US AML and Sanctions Department teams (e.g., US Financial Intelligence Unit, US Sanctions Operations) to confirm adherence to policies, procedures, and regulatory guidance
+- Oversee and train a team of analysts responsible for conducting QA testing on transaction monitoring reviews and investigations
+- Monitor and manage daily QA testing workflow, controls, and results from metrics for the team and ensure timely completion of tasks
+- Develop a US AML and Sanctions QA Procedure and testing templates in accordance with the Enterprise AML and Global Sanctions Quality Assurance Programs
+- Perform ongoing formal testing of completed KYC records to ensure KYC standards are met
+- Review the quality of completed KYC records using pre-defined test scripts which are based on internal Know Your Customer (KYC) standards, procedures and regulatory requirements
+- Perform QA review of AML Transaction Monitoring, Politically Exposed Persons and Sanctions alert decisions and documentation for accuracy and completeness
+- Perform QA review of AML case investigations and SAR filings to confirm adherence to procedures and ensure documentation and retention standards are addressed
+- Question and investigate the reliability and integrity of data, the validity of conclusions and the appropriateness of assumptions made (where appropriate)
+- Perform root cause analysis and make recommendations for addressing identified deficiencies or improvements to business processes
+- Prepare reports effectively communicating QA review findings, promptly escalating significant deficiencies to management
+- Present complex and sensitive issues to senior management in a persuasive manner
+- Regularly engage with Enterprise AML and Global Sanctions Quality Assurance to ensure alignment and consistency in approach
+---
+Job Description 28
+- Role: Quality & Compliance Manager
+- Company: Deloitte
+- Location: Arden Hills, MN
+- Experience: 1–2 years of quality experience, preferably in the medical device or combination product field; Experience working within an FDA-regulated environment
+- Monitor Regulatory Changes and stay updated on the latest regulatory changes and industry standards, including FDA, ISO, and other relevant regulations
+- Ensuring adherence to regulatory standards and internal quality requirements
+- Develop and implement comprehensive compliance programs, including code of conduct, anti-bribery and corruption policies, and data privacy policies
+- Implement and maintain quality management systems, such as ISO 13485
+- Ensure the quality of products and services through rigorous quality control processes
+- Oversee the regulatory approval process for new products, devices, and clinical trials
+- Developing and maintaining Standard Operating Procedures (SOPs) and policies related to quality assurance and compliance
+- Conduct internal audits to assess compliance with regulatory requirements, internal policies, and standard operating procedures (SOPs)
+- Conducting and managing internal audits to verify compliance with relevant Boston Scientific standards
+- Handle change control, deviations, CAPA, and OOS investigations
+- Conduct Risk Assessment, identify and assess potential compliance risks
+- Develop and implement strategies to mitigate compliance risks
+- Monitor and manage supplier quality performance and compliance
+- Collaborating with Compliance, Legal, and Quality teams to ensure a coordinated approach to quality and compliance
+- Monitoring training operations and activities to ensure compliance with regulations and standards
+- Developing and administering compliance training programs for staff
+- Respond to inquiries from regulatory agencies in a timely and accurate manner
+---
+Job Description 29
+- Role: Regulatory Compliance Manager
+- Company: Paxeramed Corp
+- Experience: 3-8 years
+- Location: Cairo, Egypt
+- Oversee all aspects of compliance with regulatory requirements, industry standards, and internal policies
+- Support the development, implementation, and monitoring of compliance programs, policies, and procedures to ensure adherence to local and international regulatory requirements
+- Lead efforts to obtain and maintain certifications (e.g., ISO 9001,ISO 27000, ISO 13485, FDA , MDR, and other relevant quality/compliance standards)
+- Implement and manage the company s Quality Management Systems (QMS)
+- Monitor and interpret changes in laws, regulations, and industry standards; advise management on compliance implications
+- Review and assess regulatory updates, circulars, and guidance, advising management on implications and required actions
+- Conduct compliance monitoring, testing, and reviews across business units to identify gaps and ensure corrective actions are implemented
+- Conduct regular internal audits and assessments to evaluate compliance and certification readiness
+- Assist in preparing and submitting regulatory reports, filings, and notifications within required timelines
+- Review, update, and maintain all regulatory files and documentation, ensuring timely submissions and filings
+- Support regulatory inspections, audits, and examinations, including gathering documentation and coordinating responses
+- Develop and implement a risk management strategy to address potential non-compliance or quality issues
+- Maintain a compliance and certification risk register, ensuring risks are documented and mitigated
+- Monitor and report on the company s compliance status, providing regular updates to senior leadership
+- Provide compliance advisory support to internal stakeholders on new products, business initiatives, and regulatory obligations
+- Assist in the design and delivery of compliance training to staff, promoting awareness of regulatory obligations and ethical standards
+- Investigate and resolve compliance-related issues or incidents, ensuring thorough root-cause analysis and preventive measures
+---
+Job Description 30
+- Role: Railway Regulatory Compliance Manager
+- Company: Alstom
+- Location: Camden, NJ, US (Full-time remote)
+- Qualification: Degrees in Engineering (Mechanical, Safety) or other related to HSSE
+- Coordination of activities related to Regulatory Compliance within the project
+- Will work with the Project Management Team (PMT) to ensure compliance with regulatory requirements are properly implemented
+- Collaborating with Alstom projects to ensure compliance with regulatory requirements across North America, particularly in Railway Safety
+- Develop the Regulatory Compliance Plan (RCP) for the project as per Corporate guide
+- Act as owner of the "Regulatory Compliance Plan (RCP)" and “Regulatory Requirements Register"
+- Development, implementation and application of Processes related to Regulatory Compliance with an emphasis on specialized technical support
+- Identify the Regulations/legislations and determine applicability
+- Monitoring and analyzing regulatory trends and predicted changes that impact Alstom's operations in North America, and advising the management team accordingly
+- Providing expert guidance to Alstom project teams regarding US Federal and State agency regulations on all aspects of rail transportation, including operations, safety, and environmental compliance
+- Technical Support to project team and Disseminate regulatory requirements to Discipline Lead Engineers, Package Engineers, and other relevant project team members
+- Review RFQ packages / documents and ensure that regulatory requirements are included in the project documents
+- Auditing and reviewing Alstom's compliance policies, procedures, and guidelines, and providing recommendations for improvement
+- Plan and Manage Internal Audits in the project as per corporate guide
+- Monitor and verify requirements to confirm Site compliance and Keep records of Site Verification report (Evidence non-Compliance, Corrective actions)
+- Working with other Alstom teams to develop and implement strategies to maintain the highest standards while adhering to US and Canada regulations and best practices
+- Support projects and tenders by providing regulatory expertise
+- Assist the Corporate Regulatory Compliance Manager in the execution of the functions as required
