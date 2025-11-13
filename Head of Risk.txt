@@ -1,0 +1,800 @@
+Head of Risk Sheet Link : https://docs.google.com/spreadsheets/d/1gcQ-j4oIQNYuphz0qaW2j8si53keDL4xyJ6kEt9g2o0/edit?gid=823198180#gid=823198180
+
+Job Description 1
+- Role Name: Head of Risk Management
+- Company Name: BitGo
+- Location: Palo Alto, California, United States
+- Minimum 10-15 years of relevant experience in risk management, with at least 5 years in a senior leadership role
+- BA/BS required; MBA, CPA, CISA, CRISC, or related advanced degree/certification preferred
+- Experience in financial services, fintech, or regulated industries strongly preferred
+- Deep expertise in risk management and control frameworks (e.g. COSO, ISO 31000, NIST RMF)
+- Comprehensive knowledge of information security and privacy standards (e.g., ISO 27001, SOC 2, CCPA, EU GDPR)
+- Knowledgeable and enthusiastic about blockchain technology and cryptocurrencies
+- Excellent leadership skills with the ability to influence and develop talent
+- Demonstrated ability to interface with and present to C-suite executives and Board members
+- Strong interpersonal skills to communicate complex risk concepts to technical and non-technical audiences
+- Lead the design, implementation, and evolution of the overall enterprise risk strategy, policies, and standards
+- Build, mentor, and manage a high-performing risk management team
+- Partner with executives to establish and optimize processes for monitoring financial and counterparty risks
+- Collaborate with Legal and Compliance teams to ensure adherence to global regulatory obligations
+- Serve as a key liaison with regulators and auditors
+- Drive strategic risk initiatives and transformation projects
+
+---
+
+Job Description 2
+- Role Name: Head of Risk
+- Company Name: Worley
+- Location: London, Greater London, United Kingdom
+- Significant experience in Large/Mega Project and Operational Risk Management (combined)
+- A recognised degree or relevant accredited qualification in risk management
+- Experience of developing QRA (Quantitative Risk Assessment) models across complex projects
+- Track record in representing Risk management towards senior leadership
+- Strong leadership skills in a geographically distributed organisation
+- Senior experience of growing and managing a function
+- Membership of one or more Risk or Project Management organisations (e.g., APM, PMI, IRM, CERA)
+- Excellent analytical and problem-solving skills
+- Ability to act with tact and self-confidence while also probing and challenging existing assumptions
+
+---
+
+Job Description 3
+- Role Name: Head of Risk & Controls
+- Company Name: Waterstones
+- Location: London, United Kingdom (Hybrid)
+- Proven expertise in designing and implementing enterprise risk frameworks
+- Experience of regulatory engagement and internal control frameworks
+- Strong technical knowledge of governance, risk and controls frameworks
+- Understanding of FPP (Fit and Proper Person) procedures and requirements would be advantageous
+- Experience of internal control software/tools is preferred
+- Ability to influence senior stakeholders and drive cross-functional collaboration
+- Resilient and adaptable with a pragmatic approach to problem solving
+- Collaborate with senior management to develop and implement comprehensive internal control policies
+- Horizon scanning for emerging regulatory risks and providing strategic recommendations
+- Define and maintain risk and control frameworks, policies, and governance standards
+- Provide oversight, advice, and challenge on principal risks across the business
+- Plan and execute internal control testing procedures
+- Monitor control deficiencies and coordinate remediation activities
+- Coordinate with internal and external auditors
+- Support coordination and management of the annual insurance renewal programme
+
+---
+
+Job Description 4
+- Role Name: Head of Risk Culture, Accountability & Capability
+- Company Name: Medibank Private Limited
+- Location: DOCKLANDS, VIC, AU
+- Strong knowledge of APRA/ASIC regulatory frameworks, particularly FAR (Financial Accountability Regime) and CPS 220
+- Experience leading cultural change and embedding risk behaviours across large organisations
+- Proven ability to design and deliver training and capability programs
+- Excellent stakeholder engagement and communication skills
+- A passion for building high-performing teams and driving meaningful change
+- Specialist leadership role focused on shaping Medibank’s risk culture, accountability frameworks, and enterprise-wide risk capability
+- Lead the implementation of Medibank’s FAR Accountability Framework, ensuring regulatory compliance
+- Drive the development and rollout of the Risk Culture Framework and Compliance Training Framework
+- Act as a trusted advisor, providing strategic guidance on risk culture and accountability
+- Lead a high-performing team and champion cultural change
+
+---
+
+Job Description 5
+- Role Name: Head of Financial Risk
+- Company Name: Equity Bank Limited
+- Bachelor's degree in finance, economics, risk management, or a related field
+- Advanced degrees or professional certifications (such as FRM or PRM) are preferred
+- Extensive experience in financial risk management, risk analysis, or related roles within a financial institution
+- Previous experience in a leadership or management role is required
+- In-depth knowledge of financial risk management principles, practices, and regulatory requirements
+- Strong understanding of various financial risks, including credit risk, liquidity risk, & market risk
+- Knowledge of regulatory frameworks and standards, such as Basel III or Solvency II, is beneficial
+- Excellent analytical and problem-solving skills
+- Strong written and verbal communication skills to present to senior management and the board
+- Leadership skills with the ability to drive change and foster a risk-aware culture
+- Proficiency in using financial software, risk management tools, and data analytics platforms
+- Develop and implement the overall financial risk management strategy
+- Establish and maintain a robust risk management framework and policies
+- Identify, assess, and monitor financial risks across the Bank (EBKL)
+- Implement risk measurement techniques (stress testing, scenario analysis)
+- Prepare and present regular risk reports to senior management and the board
+- Ensure compliance with risk management regulations and monitor regulatory changes
+- Engage with external stakeholders, such as auditors and regulators
+- Provide leadership and guidance to risk committees
+
+---
+
+Job Description 6
+- Role Name: Head of Financial Risk
+- Company Name: Robert Walters (on behalf of a client)
+- Location: Brussels, Belgium (Hybrid)
+- Minimum of 10–15 years of experience in ALM, Treasury, IRRBB, or Liquidity Risk
+- Experience in the Belgian regulated environment is required
+- Strong quantitative background with deep knowledge of IRRBB, liquidity, behavioral modelling, and balance sheet dynamics
+- Familiar with ECB/NBB frameworks and comfortable engaging with regulators
+- Ability to challenge senior stakeholders and communicate effectively at board level
+- Fluent in English; French or Dutch is an advantage
+- Master's degree, possibly complemented by FRM, CFA, or PRM certification
+- Lead the 2nd LoD (Line of Defense) framework for IRRBB (Interest Rate Risk in the Banking Book) and ALM (Asset Liability Management) risk
+- Provide independent challenge to ALM and Treasury strategies, funding plans, budgets, and hedging decisions
+- Ensure sound methodologies for IRRBB measurement (EVE, NII sensitivity) and liquidity measurement (LCR, NSFR)
+- Lead IRRBB and liquidity stress testing frameworks
+- Lead the development of Liquidity Risk and IRRBB risk appetite limits
+- Drive ICAAP (Internal Capital Adequacy Assessment Process) and ILAAP (Internal Liquidity Adequacy Assessment Process) contributions
+- Act as the primary contact with the ECB/NBB (European Central Bank / National Bank of Belgium) for IRRBB and Liquidity risk topics
+- Oversee compliance with regulations (e.g., EBA IRRBB guidelines, EU banking package changes)
+
+---
+
+Job Description 7
+- Role Name: Head of Financial Risk
+- Company Name: NN Group (NN Life & Pensions)
+- Location: Rotterdam, Netherlands
+- Master's degree in econometrics, actuarial science, mathematics, or similar
+- A CFA, FRM, AAG or equivalent qualification is a plus
+- Multiple years of experience in managing a group of experts in financial risk, investments, finance, or similar
+- At least 10 years of experience in market risk management, balance sheet management, or similar
+- Knowledge about the Solvency internal models and corresponding market risk and aggregation models is a plus
+- Excellent analytical skills and ability to explain complex matters to all stakeholders
+- Excellent verbal and written communication skills in English
+- Ability to independently form a critical and well-substantiated opinion
+- Guide and support a team of six risk professionals
+- Oversee investment and market risk, including interest rate risk, strategic asset allocation, and illiquid investments
+- Lead the manager of the Risk Analysis and Reporting (RAR) team
+- Ensure consistent, accurate reporting of Solvency Capital Requirements and other key risk data
+- Collaborate with departments such as Group Investment Office, Group Risk, Treasury, and Finance
+- Represent NN Life in internal committees to drive informed choices
+
+---
+
+Job Description 8
+- Role Name: Head of Financial Risk, GRC & Reporting
+- Company Name: Medibank Private Limited
+- Location: DOCKLANDS, VIC, AU
+- Proven experience in financial risk management, ideally within regulated industries
+- Strong understanding of APRA (Australian Prudential Regulation Authority) standards
+- Experience managing GRC (Governance, Risk & Compliance) systems
+- Experience leading cross-functional risk initiatives
+- Strategic thinker with deep expertise in financial risk, regulatory compliance, and risk systems
+- Exceptional stakeholder engagement and leadership skills
+- A passion for building capability, driving innovation, and influencing cultural change
+- Lead Medibank’s financial and strategic risk oversight, ensuring alignment with APRA standards
+- Deliver high-quality insights to senior leaders
+- Provide expert advice on emerging risks, regulatory changes, and new business initiatives
+- Validate financial and actuarial models to ensure robust governance
+- Oversee capital adequacy, investment, and liquidity risks
+- Support ICAAP processes and conduct stress testing
+- Serve as the owner of the Governance, Risk & Compliance (GRC) system
+- Manage GRC system configuration, vendor relationships, and reporting
+- Drive cultural change and build a high-performing team
+
+---
+
+Job Description 9
+- Role Name: Senior Manager, Head of Enterprise Risk Americas
+- Company Name: Checkout.com
+- Location: Atlanta, GA, US
+- University degree and 10+ years of experience in a Risk Management function at a regulated financial institution
+- Experience with enterprise risk frameworks, operational risk management, policies, and procedures
+- Experience at financial institutions with money transmitter licenses, particularly in the US, is preferred
+- Demonstrated experience dealing with regulators and senior management
+- Strong communication and stakeholder management skills
+- Tech-savvy individual with an interest in improving risk management processes
+- Establish the Risk Management Framework in the US, adhering to regulatory expectations
+- Oversee the framework to measure, monitor, report and control risks
+- Provide the Board and management with guidance on risk-related topics
+- Act as the responsible contact for regulator and partner inquiries
+- Run the risk governance structure and committees in the US regulated entities
+- Work with Group ERM functions to develop and implement entity-specific policies
+- Monitor Checkout USA's risk profile through KRIs (Key Risk Indicators), incidents, and risk assessments
+- Strengthen and develop the risk culture at Checkout USA
+
+---
+
+Job Description 10
+- Role Name: Head of Risk – Systematic & Multi-Asset Trading
+- Company Name: Global Investment Firm (via Eka Finance)
+- Location: Geneva, Switzerland
+- 10+ years in risk management at a hedge fund, multi-PM (Portfolio Manager), or trading firm
+- Hands-on experience with systematic, stat arb (statistical arbitrage), or market-making strategies
+- Deep understanding of model-driven portfolio construction and real-time analytics
+- Proven leadership and collaboration with PMs, quants, and senior stakeholders
+- Described as a "quant-savvy risk leader"
+- Strategic, front-office role working directly with the CIO, COO, PMs, and quants
+- Design and evolve a scalable enterprise risk framework across all asset classes
+- Partner with PMs and trading teams to analyze exposures and manage capital in real time
+- Build and enhance risk models, tools, and dashboards for systematic strategies
+- Drive innovation in quantitative risk analytics and modeling
+- Support growth into new strategies and markets with robust, adaptive systems
+
+---
+
+Job Description 11
+- Role Name: Head of Risk Management
+- Company Name: Talentvis Singapore (on behalf of a client, a Taiwan-based bank)
+- Location: Singapore
+- Responsible for overseeing the overall risk management framework of the Singapore Branch
+- Ensure all business activities comply with regulatory requirements and internal policies
+- Monitor and manage the branch's overall credit portfolio risk (Note: excludes credit application approvals)
+- Lead the branch's climate-related risk reporting in line with MAS (Monetary Authority of Singapore) guidelines and Head Office requirements
+- Oversee and review MAS reporting requirements, including half-yearly submissions
+- Conduct periodic reviews of internal risk management guidelines (Policy & Risk Framework Governance)
+- Supervise the Operational Risk Manager in performing risk assessments
+- Act as the primary advisor on risk matters to the branch
+- Liaise closely with the Compliance team, Head Office, and external/internal auditors
+
+---
+
+Job Description 12
+- Role Name: Head of Enterprise Risk Management
+- Company Name: Selby Jennings
+- Location: New York, NY
+- 10+ years of experience in enterprise risk management, financial services, fintech, or digital assets space
+- Entrepreneurial mindset with a strong sense of ownership and initiative
+- Deep understanding of financial, technological, and operational risk domains
+- Proficiency in risk frameworks such as COSO, NIST, and ISO
+- Strong analytical and communication skills
+- Experience in digital asset or emerging technology risk domains (Preferred)
+- Familiarity with AI-driven risk identification or mitigation tools (Preferred)
+- Relevant certifications such as CRISC, CISSP, CRMP, CERP, or equivalent (Preferred)
+- Establish and lead a comprehensive enterprise risk management (ERM) program
+- Develop and maintain a dynamic risk inventory and register
+- Oversee business continuity and disaster recovery programs
+- Create and deliver executive-level reporting and dashboards for senior leadership
+- Monitor and assess emerging risks and incident trends
+- Design and implement key risk indicators (KRIs) and early warning systems
+- Integrate risk intelligence into business processes
+
+---
+
+Job Description 13
+- Role Name: Head of Enterprise Risk Management Programs)
+- Company Name: MassMutual
+- Location: Boston, MA (Hybrid)
+- 8 to 10+ years of related experience in insurance or financial services
+- Demonstrated experience in developing risk framework
+- Experience collaborating with technology teams to implement GRC functionality
+- Experience with project or portfolio management and scorecards, metrics, and dashboards
+- Expert presentation and artifact creation skills
+- MBA or equivalent (Ideal)
+- Experience in risk consulting (Ideal)
+- Understanding of the financial regulatory environment for the insurance industry (Ideal)
+- High degree of integrity and ability to maintain confidentiality
+- Lead the development, implementation, and maintenance of key components of the Risk Management Framework
+- Report to the Head of Risk Strategy
+- Support and lead aspects of the ERM strategy planning process
+- Drive the evolution and continuous improvement of the Risk Framework
+- Partner with technology leaders to prioritize efforts in the organization's GRC technology
+- Lead initiatives to ensure robust risk culture through education, communication, and training
+- Oversee coordination with ERM leaders and Finance to manage ERM's budget and forecast process
+- Develop and strengthen internal communications within the ERM organization
+- Create communication plans and artifacts for the Enterprise Risk Committee and Board materials
+
+---
+
+Job Description 14
+- Role Name: Head of Financial Risk
+- Company Name: Bank Australia Limited
+- Location: Sydney (Mascot) or Melbourne (Collingwood), AU
+- Proven leadership in financial risk, treasury, and credit risk management
+- Deep understanding of balance sheet management, capital, liquidity and IRRBB (Interest Rate Risk in the Banking Book)
+- Exceptional analytical, reporting and presentation capabilities
+- Ability to lead change and drive strategic outcomes
+- Commitment to Bank Australia’s purpose, values, and B Corp ethos
+- Lead oversight of financial risks including interest rate, capital, liquidity, and market risks across Treasury and Finance
+- Manage the credit risk framework across retail, commercial, impact, and wholesale portfolios
+- Ensure regulatory compliance and robust governance
+- Drive enterprise-wide stress testing and risk modelling for liquidity, credit, and capital in alignment with ICAAP
+- Provide independent assurance and reporting to executive and Board levels on financial and credit risk matters
+- Collaborate with internal stakeholders to ensure risk frameworks and controls are effectively implemented
+- Contribute to strategic decision-making through economic risk insights and policy development
+- Participate in key committees (ALCO, Credit, Risk)
+
+---
+
+Job Description 15
+- Role Name: Head of Enterprise Risk Management
+- Company Name: IMC
+- Location: Amsterdam, Netherlands
+- 10+ years of relevant experience in risk management, internal controls, business analysis, risk advisory, or audit
+- Proven ability to design, implement and improve risk assessment and control processes
+- Strategic yet hands-on mindset, combining analytical thinking with practical execution
+- Experience leading cross-functional projects in fast-paced environments
+- Strong stakeholder management and relationship-building skills; ability to influence at all levels
+- Demonstrated people leadership capabilities, with a track record of building high-performing teams
+- Academic background in a quantitative, analytical or business discipline (e.g., Finance, Economics, Engineering)
+- Excellent verbal and written communication skills in English
+- Lead, develop and mentor the global ERM team (currently 3 FTEs)
+- Report directly to the Chief Risk Officer (CRO)
+- Foster close collaboration and alignment with global and regional risk teams
+- Strengthen the Risk Control Self-Assessment (RCSA) process
+- Advance the Key Control Framework (KCF) by enhancing monitoring, testing, and assurance
+- Lead enterprise-wide initiatives related to Risk Appetite, Risk Culture and Risk Surveys
+- Build technical capability within the ERM function (e.g., IT/InfoSec control expertise, data analytics)
+- Provide thought leadership and counsel to the CRO and senior management on enterprise and emerging risks
+- Deliver clear, insightful analyses and risk reports to senior stakeholders
+
+---
+
+Job Description 16
+- Role Name: Head of Risk Partnerships & Strategy, North America
+- Company Name: Stripe
+- Location: North America
+- Lead a team responsible for working with global and regional financial partners
+- Build strategic relationships with the executive level of financial partners
+- Represent Stripe as a thought leader in the industry
+- Build and execute a long-term strategy for risk partnerships
+- Make business decisions and policies around risk approaches
+- Represent and negotiate Stripe's risk approach to payment partners
+- Work with partners to mutually unlock new business opportunities and user verticals
+- Innovate shared risk methodologies
+- Establish and ensure compliance to agreed risk appetites
+- Systematically make step-change improvements in Stripe's risk management capabilities
+
+---
+
+Job Description 17:
+Head of Risk Management
+Company: BNP Paribas India Solutions
+Location: Mumbai, Maharashtra
+- 12-15 years of experience in operational risk management within banking or financial services
+- Graduate or postgraduate qualification in Risk Management, Finance, or related field
+- Certifications such as FRM, CISA, CRISC, or equivalent preferred
+- Strong knowledge of Operational Risk Framework (ORM), ICT risk, and technology risk management
+- Experience with cloud security, cybersecurity, and digital transformation risk
+- Expertise in risk assessment methodologies, control frameworks (NIST, ISO 27001, COBIT)
+- Excellent stakeholder management and communication skills
+- Ability to work with global teams and manage cross-functional risk initiatives
+- Oversee operational risk management for BNP Paribas India operations
+- Ensure implementation of Group-level risk policies and standards
+- Lead risk assessments for technology platforms including cloud, AI, and digital assets
+- Coordinate with first and third line of defense functions
+- Develop and maintain risk reporting frameworks and dashboards
+- Conduct independent risk reviews and provide risk opinions on key initiatives
+- Manage issue management and remediation tracking processes
+- Support regulatory audits and inspections
+
+---
+
+Job Description 18:
+Head of Risk 
+Company: Revolut
+Location: Remote/Bengaluru
+- 6+ years of experience in operational risk management in financial services
+- Strong understanding of Private Banking and Wealth Management operations
+- Knowledge of regulatory requirements (FCA, RBI, or equivalent)
+- Experience in risk event management and incident reporting
+- Expertise in developing risk frameworks and control environments
+- Strong analytical and problem-solving skills
+- Excellent stakeholder management and communication abilities
+- Self-driven with ability to work in fast-paced fintech environment
+- Lead operational risk management for Private Banking business
+- Register risk events and manage incident reporting processes
+- Develop and maintain risk frameworks, policies, and procedures
+- Conduct risk assessments for new products and services
+- Monitor risk metrics and prepare risk reports for management
+- Ensure compliance with regulatory requirements
+- Drive risk awareness and foster strong risk culture
+- Collaborate with business teams to embed risk management practices
+- Identify emerging risks and recommend mitigation strategies
+
+---
+
+Job Description 19:
+Head of Risk - Consumer Finance
+Company: Jupiter
+Location: Bengaluru, Karnataka
+- 10-15 years of experience in retail banking or consumer lending risk
+- Strong expertise in unsecured lending, credit cards, or digital lending
+- Experience building risk frameworks from ground-up in fintech/startup
+- Deep knowledge of credit risk modeling, fraud risk, and collections
+- Proficiency in machine learning and advanced analytics
+- Strong understanding of RBI guidelines for digital lending
+- Excellent leadership and cross-functional collaboration skills
+- Data-driven decision maker with strong business acumen
+- Lead end-to-end risk management for consumer finance products
+- Develop credit policies, underwriting criteria, and risk strategies
+- Build predictive models for credit assessment and fraud detection
+- Monitor portfolio performance and implement risk mitigation measures
+- Set risk appetite and tolerance limits for lending products
+- Ensure regulatory compliance and audit readiness
+- Drive risk-based pricing and portfolio optimization
+- Collaborate with product, technology, and business teams
+- Manage relationships with credit bureaus and data partners
+
+---
+
+Job Description 20:
+Head of Risk (Payments & Fintech)
+Company: Adyen
+Location: Bengaluru, Karnataka
+- 8-12 years of experience in risk management within fintech or financial services
+- Strong background in payments risk, fraud risk, or operational risk
+- Deep understanding of AML/CFT regulations and compliance frameworks
+- Experience with regulatory requirements (RBI, FATF, OFAC)
+- Expertise in risk assessment and mitigation strategies
+- Strong analytical and problem-solving capabilities
+- Excellent stakeholder management across global teams
+- Self-driven with entrepreneurial mindset for fast-paced environment
+- Lead risk management for fintech operations in India
+- Develop and implement fraud and compliance risk strategies
+- Monitor transaction patterns and identify suspicious activities
+- Conduct risk assessments for new products and partnerships
+- Ensure compliance with global and local regulations
+- Manage relationships with regulatory authorities
+- Drive risk culture and awareness across organization
+- Collaborate with product, compliance, and technology teams
+- Prepare risk reports for senior management and regulators
+
+---
+
+Job Description 21:
+Head of Risk - Mortgage Finance
+Company: Tata Housing Finance 
+Location: Mumbai, Maharashtra
+- 10-13 years of experience in housing finance or secured lending risk
+- Strong expertise in credit risk modeling and portfolio management
+- Knowledge of mortgage underwriting and risk assessment
+- Experience with RBI regulations for housing finance
+- Proficiency in analytics and risk measurement tools
+- Strong leadership and team management skills
+- Excellent stakeholder management abilities
+- Strategic thinking with hands-on execution approach
+- Lead risk management for housing finance portfolio
+- Develop credit policies and underwriting guidelines
+- Build and validate credit risk models
+- Monitor portfolio performance and delinquency trends
+- Implement risk mitigation strategies
+- Ensure compliance with regulatory requirements
+- Set risk appetites and monitor risk limits
+- Collaborate with business teams on product strategy
+- Manage credit rating relationships
+
+---
+
+Job Description 22:
+Head of Risk Management 
+Company: DBS Bank
+Location: Bengaluru, Karnataka
+- 10-12 years of experience in technology risk or cybersecurity risk management
+- Strong expertise in digital banking, cloud computing, and IT infrastructure risks
+- Knowledge of information security frameworks (ISO 27001, NIST)
+- Experience with regulatory requirements for technology risk
+- Understanding of emerging technologies (AI, ML, blockchain) risks
+- Strong analytical and problem-solving skills
+- Excellent stakeholder management with technology and business teams
+- Proven track record in risk assessment and mitigation
+- Oversee technology risk management for banking operations
+- Conduct risk assessments on technology platforms and infrastructure
+- Ensure information security and data privacy compliance
+- Monitor cybersecurity threats and vulnerabilities
+- Implement security controls and risk mitigation measures
+- Coordinate with global technology risk teams
+- Provide risk guidance on technology projects and initiatives
+- Support regulatory inspections and audits on technology matters
+
+---
+
+Job Description 23:
+Head of Risk - Retail Banking
+Company: ICICI Bank
+Location: Mumbai, Maharashtra
+- 12-14 years of experience in retail banking or consumer risk management
+- Deep expertise in retail credit products and portfolio management
+- Strong knowledge of credit risk modeling and underwriting
+- Experience with RBI regulations and compliance requirements
+- Proficiency in data analytics and risk measurement
+- Strong leadership skills for managing teams
+- Excellent communication and stakeholder management abilities
+- Strategic mindset with operational excellence
+- Lead retail banking risk management across portfolio
+- Develop and implement retail credit policies
+- Build credit scoring and risk assessment models
+- Monitor retail portfolio performance and trends
+- Implement risk mitigation and collections strategies
+- Ensure regulatory compliance and audit readiness
+- Set risk appetites for retail segments
+- Collaborate with business teams on product development
+- Manage relationships with credit bureaus and rating agencies
+
+---
+
+Job Description 24:
+Had of Risk 
+Company: HDFC Bank 
+Location: Mumbai, Maharashtra
+- 13-16 years of experience in commercial banking or corporate credit risk
+- Strong expertise in corporate lending and credit risk assessment
+- Deep knowledge of sector-specific risks and loan structuring
+- Experience with treasury risk and liquidity management
+- Understanding of regulatory requirements (Basel norms, RBI guidelines)
+- Strong analytical and credit assessment capabilities
+- Excellent relationship management skills
+- Proven track record in portfolio risk management
+- Lead commercial banking risk management
+- Assess credit risk on corporate lending portfolio
+- Develop credit policies and approval frameworks
+- Monitor portfolio performance and credit quality
+- Implement risk mitigation strategies
+- Manage regulatory relationships and compliance
+- Coordinate with credit committees and approval processes
+- Collaborate with business teams on deal structuring
+- Provide risk insights on market and sector trends
+
+---
+
+Job Description 25:
+Head of Risk - Digital Banking
+Company: Flipkart Finance
+Location: Bengaluru, Karnataka
+- 8-11 years of experience in fintech, payments, or digital banking risk
+- Strong background in payments risk, fraud risk, or cybersecurity
+- Deep understanding of digital payment systems and infrastructure
+- Knowledge of RBI regulations for digital banking and payments
+- Expertise in data protection and privacy regulations (GDPR, data localization)
+- Strong analytical and risk assessment capabilities
+- Excellent cross-functional collaboration skills
+- Data-driven decision maker
+- Lead risk management for digital banking and payments platform
+- Develop fraud detection and prevention strategies
+- Monitor transaction patterns and suspicious activities
+- Conduct risk assessments for new digital products
+- Ensure compliance with data protection regulations
+- Implement cybersecurity and fraud controls
+- Collaborate with product, technology, and compliance teams
+- Prepare risk reports for senior management
+- Stay updated on emerging digital risks
+
+---
+
+Job Description 26:
+Head of Risk 
+Company: Kotak Asset Management 
+Location: Mumbai, Bengaluru
+- 10-12 years of experience in asset management or investment risk management
+- Strong expertise in market risk, credit risk, and operational risk
+- Knowledge of SEBI regulations and mutual fund compliance
+- Experience with portfolio risk measurement and monitoring
+- Proficiency in risk analytics and modeling
+- Strong stakeholder management with fund managers and teams
+- Excellent communication and reporting skills
+- Strategic and analytical thinking
+- Lead risk management for mutual funds and investment portfolios
+- Develop and implement risk frameworks for funds
+- Conduct risk assessments on portfolio holdings
+- Monitor market risks and investment performance
+- Ensure compliance with SEBI regulations
+- Manage regulatory relationships and audit processes
+- Provide risk insights to fund managers
+- Support investment committee decisions
+- Manage credit rating and performance monitoring
+
+---
+
+Job Description 27:
+Head of Risk 
+Company: HDFC ERGO
+Location: Hyderabad, Bengaluru
+- 11-13 years of experience in insurance or operational risk management
+- Strong expertise in underwriting risk and claims risk
+- Knowledge of IRDAI regulations and insurance compliance
+- Experience with reinsurance and risk transfer mechanisms
+- Understanding of operational risk frameworks for insurance
+- Strong analytical and risk assessment capabilities
+- Excellent stakeholder management skills
+- Proven track record in process optimization
+- Lead risk management for insurance operations
+- Assess underwriting risks and set underwriting guidelines
+- Monitor claims performance and loss trends
+- Ensure compliance with IRDAI regulations
+- Manage reinsurance relationships and strategies
+- Conduct risk assessments on operational processes
+- Drive process improvements and efficiency
+- Collaborate with business teams on product strategy
+
+---
+
+Job Description 28:
+Head of Risk 
+Company:  Bajaj Finance
+Location: Bengaluru, Mumbai
+- 9-12 years of experience in venture lending or MSME credit risk
+- Strong expertise in small business credit and risk assessment
+- Knowledge of RBI regulations for MSME lending
+- Experience with alternative credit scoring and assessment
+- Proficiency in risk modeling for unconventional borrowers
+- Strong analytical and decision-making capabilities
+- Excellent relationship and stakeholder management
+- Entrepreneurial mindset with risk-return optimization
+- Lead risk management for MSME and venture lending portfolio
+- Develop credit policies for small business lending
+- Build alternative credit scoring models
+- Monitor portfolio performance and default trends
+- Implement risk mitigation strategies for small businesses
+- Ensure compliance with RBI guidelines
+- Collaborate with product teams on lending product design
+- Manage relationships with sector experts and rating agencies
+
+---
+
+Job Description 29:
+Head of Risk - Trade Finance
+Company: Standard Chartered Bank 
+Location: Mumbai, Maharashtra
+- 11-14 years of experience in trade finance or commodity risk management
+- Deep expertise in trade finance products and risks
+- Knowledge of documentary credit and payment guarantee risks
+- Experience with commodity price risk and hedging strategies
+- Understanding of regulatory requirements for trade finance
+- Strong analytical and risk assessment capabilities
+- Excellent stakeholder management across business and compliance
+- Strategic thinking on market trends and opportunities
+- Lead risk management for trade finance operations
+- Assess credit and commodity risks in trade transactions
+- Develop trade finance policies and guidelines
+- Monitor trade finance portfolio performance
+- Implement risk mitigation and hedging strategies
+- Ensure compliance with regulatory requirements
+- Collaborate with business teams on product structuring
+- Manage relationships with regulators and rating agencies
+
+---
+
+Job Description 30: 
+Head of Risk
+Company: Citibank
+Location: Mumbai, Delhi
+- 11-13 years of experience in private banking or wealth management risk
+- Strong expertise in high net worth individual (HNI) credit and investment risks
+- Knowledge of wealth management compliance and AML/CFT requirements
+- Experience with complex financial products and derivative risks
+- Understanding of tax compliance and regulatory requirements for HNI clients
+- Strong analytical and risk assessment capabilities
+- Excellent relationship management skills
+- Proven track record in client satisfaction and retention
+- Lead risk management for private wealth management business
+- Assess credit risk on HNI loans and facilities
+- Monitor investment portfolios and market risks
+- Ensure AML/CFT compliance for HNI clients
+- Develop private banking risk policies and guidelines
+- Conduct risk assessments on complex financial products
+- Collaborate with wealth advisors on client solutions
+- Manage regulatory relationships and audit processes
+
+---
+
+Job Description 31:
+Head of Risk 
+Company: Yes Bank 
+Location: Bengaluru, Maharashtra
+- 10-13 years of experience in operational risk or control functions
+- Strong expertise in operational risk frameworks and loss prevention
+- Knowledge of Basel operational risk guidelines
+- Experience with process risk assessment and control design
+- Proficiency in risk and control methodologies
+- Strong leadership and team management capabilities
+- Excellent analytical and problem-solving skills
+- Proven track record in operational excellence initiatives
+- Lead operational risk management across bank operations
+- Develop and implement operational risk framework
+- Conduct risk assessments on business processes
+- Monitor Key Risk Indicators (KRIs) and loss events
+- Implement preventive and detective controls
+- Ensure compliance with operational risk policies
+- Drive quality and process improvement initiatives
+- Collaborate with business teams on risk mitigation
+- Support regulatory examinations and audits
+
+---
+
+Job Description 32:
+Head of Risk 
+Company: Federal Bank 
+Location: Kochi, Mumbai
+- 10-12 years of experience in compliance or regulatory risk management
+- Strong expertise in regulatory requirements and compliance frameworks
+- Knowledge of RBI directives and regulatory guidelines
+- Experience with regulatory reporting and audit processes
+- Understanding of AML/CFT and sanctions regulations
+- Strong analytical and documentation capabilities
+- Excellent stakeholder management with regulators
+- Proven track record in compliance excellence
+- Lead compliance and regulatory risk management
+- Ensure adherence to RBI regulations and directives
+- Develop compliance policies and procedures
+- Monitor regulatory compliance across operations
+- Conduct compliance risk assessments
+- Prepare regulatory reports and submissions
+- Manage regulatory relationships and audits
+- Drive compliance culture and awareness training
+- Support regulatory examinations and investigations
+
+---
+
+Job Description 33:
+Head of Risk - Liquidity Management
+Company: ICICI Bank
+Location: Mumbai
+- 9-11 years of experience in treasury or liquidity risk management
+- Strong expertise in liquidity forecasting and management
+- Knowledge of liquidity regulations and compliance
+- Experience with funding risk and interest rate risk
+- Proficiency in cash flow modeling and scenario analysis
+- Strong analytical and modeling capabilities
+- Excellent stakeholder management with funding and trading teams
+- Strategic thinking on market conditions and liquidity needs
+- Lead liquidity risk management for banking operations
+- Develop and implement liquidity risk policies
+- Conduct liquidity stress testing and scenario analysis
+- Monitor liquidity positions and funding requirements
+- Implement funding strategies and contingency plans
+- Ensure compliance with liquidity regulations
+- Collaborate with treasury and business teams
+- Manage relationships with funding partners and regulators
+
+---
+
+Job Description 34:
+Head of Risk - Marketplace & Platform
+Company: Swiggy
+Location: Bengaluru
+- 7-10 years of experience in marketplace or platform risk management
+- Strong expertise in vendor/partner risk and fraud prevention
+- Knowledge of platform compliance and regulatory requirements
+- Experience with transaction monitoring and anomaly detection
+- Proficiency in data analytics and risk assessment
+- Strong problem-solving and stakeholder management skills
+- Excellent communication abilities
+- Entrepreneurial mindset with growth focus
+- Lead risk management for marketplace platform
+- Assess and monitor vendor and partner risks
+- Develop fraud detection and prevention mechanisms
+- Conduct risk assessments on platform transactions
+- Ensure compliance with platform regulations
+- Collaborate with product and operations teams
+- Monitor Key Risk Indicators for marketplace health
+- Drive improvements in platform safety and trust
+
+---
+
+Job Description 35:
+Head of Risk - Supply Chain Finance
+Company: ICICI Bank 
+Location: Mumbai
+- 10-12 years of experience in supply chain finance or structured finance risk
+- Strong expertise in supplier financing and vendor credit risks
+- Knowledge of supply chain finance products and structures
+- Experience with blockchain and digital supply chain technologies
+- Understanding of regulatory requirements for supply chain finance
+- Strong analytical and risk assessment capabilities
+- Excellent relationship management with corporate clients
+- Strategic thinking on market opportunities
+- Lead risk management for supply chain finance operations
+- Assess credit risks in supply chain transactions
+- Develop supply chain finance policies and guidelines
+- Monitor portfolio performance and default trends
+- Implement risk mitigation strategies
+- Ensure compliance with regulatory requirements
+- Collaborate with business teams on product structuring
+- Stay updated on supply chain finance innovations
+
+---
+
+Job Description 36:
+Head of Risk - Green & Sustainable Finance
+DBS, Mumbai, Bengaluru
+- 10-13 years of experience in risk management with ESG or sustainability focus
+- Strong expertise in environmental and social risk assessment
+- Knowledge of green financing and sustainable investment frameworks
+- Experience with climate risk and environmental impact assessment
+- Understanding of ESG regulations and frameworks (TCFD, Paris Agreement)
+- Strong analytical and risk assessment capabilities
+- Excellent communication on ESG and sustainability topics
+- Strategic thinking on sustainable finance trends
+- Lead risk management for green and sustainable finance initiatives
+- Assess environmental and social risks in lending decisions
+- Develop green finance risk policies and guidelines
+- Monitor portfolio ESG performance and impact
+- Ensure compliance with green finance regulations
+- Collaborate with business teams on sustainable products
+- Provide risk insights on climate change and environmental risks
+- Support ESG reporting and regulatory compliance
+
