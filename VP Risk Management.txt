@@ -1,0 +1,542 @@
+VP Risk Management Sheet Link : https://docs.google.com/spreadsheets/d/1Cx7SVBZUtM_NQxnUB7umqtFGXZaFZEXMThdbIK3GZTY/edit?gid=823198180#gid=823198180
+
+Job Description 1:
+Senior Vice President, Credit Risk Senior Officer
+- Company: Citi
+- Location: Mumbai, Maharashtra, India
+- Role Level: Senior Vice President
+- 15+ years of experience
+- Bachelor's degree or Master's degree
+- Credit analysis and trade structuring
+- Risk assessment and financial analysis
+- Product knowledge and governance
+- Concentration reviews and stress testing
+- Cost of credit management
+- Provide approval of country and/or product programs, review and identify risk factors
+- Act as first level reviewer for new product or trade solutions initiatives
+- Perform deep dive concentration reviews and event-driven analysis
+- Track Cost of Credit for Asia Trade portfolio
+- Champion productivity and process enhancement projects
+---
+Job Description 2:
+Vice President, Model Risk Management
+- Company: BlackRock
+- Location: Gurgaon, Haryana, India
+- Role Level: Vice President
+- 8+ years of experience
+- Master's degree in quantitative field (Mathematics, Statistics, Economics)
+- Model validation and risk analytics
+- Regulatory compliance and statistical modeling
+- Communication and documentation skills
+- AI/ML model validation
+- Internal stakeholder management
+- Develop and implement model validation strategies
+- Review and validate risk models
+- Ensure compliance with regulatory requirements
+- Provide guidance to junior team members
+- Collaborate with stakeholders across departments
+---
+Job Description 3:
+Vice President, Enterprise Risk
+- Company: American Express
+- Location: Gurugram, Haryana, India
+- Role Level: Vice President
+- 10+ years of experience
+- Bachelor's degree in business, finance or related field
+- Risk awareness and outcome-focused regulation
+- Commercial pressures understanding
+- Stakeholder management and team collaboration
+- Risk assessment and recommendations
+- Strategic planning
+- Sound risk awareness and apply outcome-focused regulation
+- Participate in team and departmental projects
+- Prepare high-quality reports for management
+- Assess risks and provide strategic recommendations
+- Drive risk management initiatives organization-wide
+---
+Job Description 4:
+Vice President, Integrated Risk Management, GRC Tech
+- Company: American Express
+- Location: Gurugram, Haryana, India
+- Role Level: Vice President
+- 8-12 years of experience
+- Bachelor's degree in technology, business or related field
+- Integrated risk management and GRC technology
+- Strategic roadmap development
+- Implementation expertise and cross-functional collaboration
+- Technology solution design
+- Governance framework development
+- Define strategic roadmap for Integrated Risk Management solution
+- Implementation of GRC technology solutions
+- Collaborate with cross-functional teams
+- Drive risk management technology initiatives
+- Ensure alignment with regulatory requirements
+---
+Job Description 5:
+Vice President, Operational Risk Management
+- Company: Goldman Sachs
+- Location: Bengaluru, Karnataka, India
+- Role Level: Vice President
+- 8-10 years of experience
+- Bachelor's Degree (required)
+- Operational risk management and RCSA methodology
+- Stakeholder management and data analytics
+- Project management and team leadership
+- Risk insight development
+- Reporting and dashboard development
+- Lead aspects of risk assessment process
+- Continuously refine RCSA methodology
+- Analyze RCSA results and develop insights
+- Develop requirements for program-specific reporting
+- Manage team including recruiting and training
+---
+Job Description 6:
+Vice President, Credit Risk Analytics & Reporting
+- Company: Goldman Sachs
+- Location: Hyderabad, Telangana, India
+- Role Level: Vice President
+- 8-12 years of experience
+- Bachelor's degree in quantitative field
+- Credit risk analytics and financial modeling
+- Data analysis and risk reporting
+- SQL/Python programming
+- Risk measurement methodologies
+- Global collaboration skills
+- Develop and maintain credit risk analytics frameworks
+- Generate comprehensive risk reports
+- Analyze credit portfolio performance and trends
+- Implement risk measurement methodologies
+- Collaborate with global risk teams
+---
+Job Description 7:
+Vice President, Third Party Risk Management, Issue Management
+- Company: State Street
+- Location: Bengaluru, Karnataka, India
+- Role Level: Vice President
+- 10+ years of experience
+- Bachelor's degree in business, risk management or related field
+- Third party risk management and issue management
+- Compliance and cyber security
+- Vendor risk assessment and strategic thinking
+- Team leadership and operational excellence
+- Regulatory adherence
+- Strategic thinking with expertise in risk management
+- Develop and manage vendor risk assessment programs
+- Monitor and mitigate third-party risks
+- Lead team in operational excellence
+- Ensure adherence to regulatory requirements
+---
+Job Description 8:
+Senior Vice President, Technology Risk Management
+- Company: DBS Bank
+- Location: Mumbai, Maharashtra, India
+- Role Level: Senior Vice President
+- 10+ years of experience
+- Degree in Computer Science or Technology Management with Information Security specialization
+- Technology risk management and information security
+- Technology audit and regulatory compliance
+- Risk accreditations (CISA, CRISC, CISM, CISSP)
+- Audit coordination and control testing
+- Regulatory requirement execution
+- Manage technology and operational risks
+- Ensure regulatory compliance and coordinate audits
+- Drive issue and action management
+- Conduct control testing for RCSA
+- Stay updated on regulatory requirements
+---
+Job Description 9:
+Vice President, Treasury Risk Management (Liquidity Risk & IRRBB/ALM Risk)
+- Company: Barclays
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 10+ years of experience
+- Bachelor's or Master's degree in Finance, Economics or related field
+- Treasury risk management and liquidity risk
+- Interest rate risk and ALM risk
+- Regulatory compliance and balance sheet optimization
+- Team leadership and strategy development
+- Market trend analysis
+- Develop and implement risk management strategies
+- Monitor and assess liquidity risk and IRRBB
+- Optimize bank's balance sheet
+- Stay updated on regulatory requirements
+- Lead and mentor risk management team
+---
+Job Description 10:
+Vice President, Market Risk Middle Office (Firm Risk Management)
+- Company: Morgan Stanley
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 5+ years of experience
+- Bachelor's degree (required)
+- Market risk analysis and capital markets knowledge
+- Equity options and futures expertise
+- Credit underwriting and quantitative skills
+- Risk mitigation strategy development
+- Portfolio management and governance
+- Advise businesses on risk mitigation strategies
+- Develop tools to analyze and monitor risks
+- Perform credit due diligence
+- Manage daily portfolio management
+- Prepare credit approval proposals
+---
+Job Description 11:
+Vice President, Operational Risk Officer (Head of COCEP)
+- Company: BNP Paribas
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 7+ years of experience
+- Bachelor's degree in IT, Information Security, Business or Risk Management
+- Operational risk management and outsourcing controls
+- Risk governance and technology expertise
+- Team leadership and control deployment
+- Dashboard and reporting development
+- First line control support
+- Head Common Outsourcing Controls Execution Platform
+- Define and deploy 2nd line defence control plan
+- Execute control plan and verify first line controls
+- Contribute to dashboards and reports
+- Support remediation action definition
+---
+Job Description 12:
+Vice President, Financial Crimes Risk Management, GRC Tech
+- Company: American Express
+- Location: Gurugram, Haryana, India
+- Role Level: Vice President
+- 10+ years of experience
+- Bachelor's degree; Advanced degree preferred
+- Financial crimes detection and AML/KYC
+- GRC technology and decision science
+- Machine learning and thought leadership
+- Cross-functional collaboration
+- Risk assessment and mitigation
+- Develop and execute decision science framework
+- Develop Customer Risk Rating segmentation
+- Provide thought leadership and partnerships
+- Identify and assess financial crime risks
+- Optimize automated transaction monitoring
+---
+Job Description 13:
+Vice President, Risk Reporting Officer
+- Company: Citi
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 10-15 years of experience
+- Bachelor's degree; Master's degree preferred
+- Risk reporting and data analysis
+- Risk aggregation and regulatory reporting
+- Management reporting and trend analysis
+- Stakeholder communication
+- Risk metrics development
+- Develop and maintain risk reporting frameworks
+- Provide monthly reporting to governance forums
+- Analyze risk trends and emerging risks
+- Ensure compliance with reporting standards
+- Present risk views to senior management
+---
+Job Description 14:
+Vice President, Liquidity Risk Analytics & Reporting
+- Company: Goldman Sachs
+- Location: Bengaluru, Karnataka, India
+- Role Level: Vice President
+- 8-12 years of experience
+- Bachelor's degree in Finance, Economics or quantitative field
+- Liquidity risk management and analytics
+- Regulatory reporting and data analysis
+- Financial modeling and stress testing
+- Treasury collaboration
+- Portfolio analysis skills
+- Develop liquidity risk analytics frameworks
+- Monitor and assess liquidity positions
+- Ensure compliance with regulatory requirements
+- Perform stress testing and scenario analysis
+- Collaborate with treasury teams
+---
+Job Description 15:
+Vice President, Risk Management
+- Company: MUFG
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 12+ years of experience
+- Bachelor's degree in Finance, Economics or related field
+- Enterprise risk management and credit risk
+- Market risk and operational risk
+- Risk governance and policy development
+- Compliance with regulatory framework
+- Team leadership and metrics reporting
+- Oversee risk management activities across multiple risk types
+- Develop and implement risk policies and procedures
+- Ensure compliance with regulations
+- Provide risk assessment and advisory
+- Report risk metrics to management
+---
+Job Description 16:
+Vice President, Wholesale Credit Risk Product Developer
+- Company: Citi
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 10+ years of experience
+- Bachelor's degree; MBA or related Master's preferred
+- Wholesale credit risk and product development
+- Credit modeling and financial analysis
+- Risk methodology and framework enhancement
+- Technology collaboration
+- Regulatory compliance
+- Develop wholesale credit risk products
+- Enhance risk measurement frameworks
+- Collaborate with technology teams
+- Ensure regulatory compliance
+- Provide technical expertise to risk managers
+---
+Job Description 17:
+Vice President, Business Risk Testing and Validation Lead
+- Company: Morgan Stanley
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 8-12 years of experience
+- Bachelor's degree; CA/CFA preferred
+- Risk testing and control validation
+- Business risk management and audit methodology
+- Stakeholder engagement and governance
+- Effectiveness assessment
+- Control gap identification
+- Lead business risk testing programs
+- Assess risk control effectiveness
+- Collaborate with auditors and RMG
+- Enhance risk management framework
+- Proactively assess emerging risks
+---
+Job Description 18:
+Vice President, RISK ORM ICT (Operational Risk Manager)
+- Company: BNP Paribas
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 7+ years of experience
+- Bachelor's degree in IT, Cybersecurity or Risk Management
+- ICT operational risk and technology risk assessment
+- Control frameworks and cybersecurity
+- Risk reporting and DORA compliance
+- Technology governance
+- Cross-team coordination
+- Manage ICT operational risk for operations
+- Assess and monitor technology risks
+- Develop and maintain ICT control frameworks
+- Coordinate with technology teams
+- Ensure DORA and ICT regulation compliance
+---
+Job Description 19:
+Vice President, Line of Business Risk I
+- Company: BNY Mellon
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 10+ years of experience
+- Bachelor's degree in Finance, Business or related field
+- Line of business risk management and assessment
+- Control evaluation and regulatory compliance
+- Risk reporting and metrics
+- Business risk oversight
+- Stakeholder management
+- Provide risk oversight for business lines
+- Conduct risk assessments and controls
+- Identify, measure and monitor risks
+- Ensure compliance with policies
+- Report risk metrics to management
+---
+Job Description 20:
+Senior Vice President, Portfolio Risk Business Governance Assurance
+- Company: ANZ
+- Location: Bengaluru, Karnataka, India
+- Role Level: Senior Vice President
+- 15+ years of experience
+- Bachelor's degree; MBA or professional certification preferred
+- Portfolio risk management and business governance
+- Risk assurance and regulatory compliance
+- Strategic planning and governance framework
+- Risk reporting and metrics
+- Leadership and team management
+- Oversee portfolio risk governance
+- Provide assurance on risk practices
+- Ensure regulatory compliance
+- Drive strategic risk initiatives
+- Report to senior leadership
+---
+Job Description 21:
+Vice President, Compliance and Operational Risk
+- Company: Bank of America
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 8-10 years of experience
+- Bachelor's degree in Finance or related field
+- Compliance and operational risk framework
+- Regulatory change management
+- Monitoring and testing methodologies
+- Risk assessment and issue management
+- Stakeholder collaboration
+- Execute enterprise compliance and operational risk framework
+- Identify and communicate applicable regulations
+- Implement risk management framework
+- Develop monitoring and testing coverage
+- Conduct compliance assessments
+---
+Job Description 22:
+Vice President, Model Risk Measurement & Quantification
+- Company: Barclays
+- Location: Noida, Uttar Pradesh, India
+- Role Level: Vice President
+- 8+ years of experience
+- Bachelor's degree in quantitative/technical discipline
+- Model uncertainty risk assessment
+- Quantitative modeling and analysis
+- Portfolio model risk management
+- Risk framework development
+- Governance and reporting
+- Develop model level uncertainty risk assessment
+- Manage model risk portfolio
+- Analyze aggregate impact to risk metrics
+- Coordinate remediation with stakeholders
+- Provide governance framework
+---
+Job Description 23:
+Vice President, Country Compliance and Operational Risk
+- Company: Bank of America
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 8-10 years of experience
+- Bachelor's degree in compliance or business field
+- Compliance and operational risk
+- Regulatory requirements knowledge
+- Risk assessment and monitoring
+- Business collaboration
+- Training program development
+- Execute compliance and operational risk programs
+- Identify and communicate regulations
+- Implement framework across business
+- Conduct compliance reviews
+- Manage regulatory correspondences
+---
+Job Description 24:
+Vice President, Risk Regulatory Oversight
+- Company: Barclays
+- Location: Pune, Maharashtra, India
+- Role Level: Vice President
+- 8+ years of experience
+- Bachelor's degree in Finance or related field
+- Regulatory oversight and self-attestation processes
+- Risk management awareness and controls
+- Risk identification and assessment
+- Committee management and governance
+- Regulatory communication skills
+- Experience with self-attestation regulatory processes
+- Manage regulatory compliance submissions
+- Implement risk management policies
+- Assess and promote risk controls
+- Monitor effectiveness of practices
+---
+Job Description 25:
+Senior Manager, Cyber Security Risk Management
+- Company: Standard Chartered
+- Location: Mumbai, Maharashtra, India
+- Role Level: Senior Manager
+- 10+ years of experience
+- Bachelor's degree in Computer Science or IT
+- Cyber security risk management
+- Application and infrastructure security
+- NIST, ISO, PCI-DSS framework knowledge
+- Cloud security (AWS, Azure)
+- Risk assessment and remediation
+- Evaluate design and effectiveness of technology controls
+- Act as security liaison for business projects
+- Perform risk-based security reviews
+- Provide advice on risk mitigation
+- Train and mentor junior staff
+---
+Job Description 26:
+Vice President, Credit Risk Policy & Analysis
+- Company: First Abu Dhabi Bank
+- Location: Abu Dhabi, UAE
+- Role Level: Vice President
+- 9+ years of experience
+- Bachelor's/Master's in Finance or Accounting
+- Credit risk policy and analysis
+- Asset quality assessment and impairment
+- Credit portfolio management
+- Risk analytics and reporting
+- Regulatory compliance
+- Analyze assets quality and impairment charges
+- Prepare risk dashboards and reports
+- Conduct credit risk analysis
+- Review ECL files and support optimization
+- Present risk analysis to management
+---
+Job Description 27:
+Vice President, Regulatory Risk Officer
+- Company: Morgan Stanley
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 5+ years of experience
+- Bachelor's degree in Finance or related field
+- Regulatory risk management and compliance
+- Risk assessment methodologies
+- Internal controls and governance
+- Excel and advanced analytics
+- Regulatory interaction skills
+- Manage regulatory requests and deliverables
+- Prepare internal sessions for compliance
+- Provide independent review and challenge
+- Monitor regulatory commitments
+- Guide on regulatory risk mitigation
+---
+Job Description 28:
+Vice President, Technology and Cybersecurity Risk Officer
+- Company: Financial Industry Sector
+- Location: New York, USA (Global)
+- Role Level: Vice President
+- 15+ years of experience
+- Bachelor's degree with technology background
+- Technology and cybersecurity risk leadership
+- Policy and regulatory development
+- Industry knowledge and standards
+- Executive communication
+- Strategic program development
+- Develop technology and cybersecurity strategy
+- Lead industry initiatives and advocacy
+- Establish governance and risk framework
+- Conduct research and analysis
+- Represent industry at regulatory forums
+---
+Job Description 29:
+Vice President, Credit Risk Sanctioner - Private Bank
+- Company: Barclays
+- Location: Mumbai, Maharashtra, India
+- Role Level: Vice President
+- 8+ years of experience
+- Bachelor's degree in Finance or related field
+- Credit sanctioning and underwriting
+- Securities backed lending expertise
+- Asian financial assets knowledge
+- Credit risk assessment
+- Portfolio review capabilities
+- Assess and approve credit applications
+- Analyze lending applications and financials
+- Evaluate creditworthiness of borrowers
+- Monitor approved lending performance
+- Collaborate on business opportunities
+---
+Job Description 30:
+Vice President, Regulatory Consulting and Risk Advisory
+- Company: Risk Consulting Firm
+- Location: London, UK (Global)
+- Role Level: Vice President
+- 6-10 years of experience
+- Bachelor's degree in Finance or related field
+- Regulatory risk identification and compliance
+- Control framework assessment
+- FCA handbook knowledge
+- Stakeholder communication
+- Risk reporting and analysis
+- Lead reviews to identify regulatory risks
+- Undertake remediation projects
+- Manage client engagements
+- Deliver quality reports and deliverables
+- Provide advisory on compliance matters
+---
